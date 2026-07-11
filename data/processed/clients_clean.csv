@@ -1,0 +1,101 @@
+Client_ID,Client_Name,Industry,Country,City,Contract_Start_Date,Contract_End_Date,SLA_Hours,Support_Tier,Active_Projects,Revenue_USD,Account_Manager,Customer_Satisfaction,Priority_Level,Status
+CL001,Harrison-Mitchell,E-commerce,Australia,South Adam,2024-12-07,2030-01-28,24,Platinum,7,1951233,EMP229,3.51,High,Active
+CL002,Reid Inc,Education,Germany,Kevinmouth,2024-03-09,2031-04-12,24,Gold,6,1240767,EMP488,4.62,High,Active
+CL003,"Collins, Mccormick and Huber",Banking,Germany,Andrewberg,2024-09-30,2029-11-09,12,Bronze,10,279590,EMP238,4.19,High,Active
+CL004,Marshall PLC,Education,Canada,Triciaport,2022-12-19,2028-08-15,48,Bronze,2,2967394,EMP254,4.13,Medium,Active
+CL005,Bailey Group,Education,Japan,New Kelly,2021-09-11,2031-05-23,8,Gold,1,4440368,EMP192,3.85,Medium,Active
+CL006,Mills and Sons,E-commerce,Canada,Mooreport,2022-10-14,2028-10-15,48,Bronze,2,1427879,EMP359,4.22,Low,Inactive
+CL007,Lyons Ltd,IT Services,UAE,South Meganfort,2021-07-29,2030-09-20,48,Gold,2,3860662,EMP427,4.42,Critical,Active
+CL008,"Flynn, Gibson and Austin",IT Services,United Kingdom,Penaberg,2024-05-07,2031-02-13,48,Silver,6,327048,EMP277,3.56,Critical,Active
+CL009,Johnson-Williams,Manufacturing,UAE,Munozfort,2023-07-25,2031-04-14,24,Gold,2,831213,EMP278,3.68,Low,Inactive
+CL010,"Rios, Montoya and Perez",Hospitality,India,Lake Christopherville,2022-06-29,2028-06-29,8,Gold,7,1334966,EMP461,4.46,High,Active
+CL011,Sellers Inc,Manufacturing,United Kingdom,Port Kathyberg,2025-02-12,2029-12-27,72,Gold,4,1023854,EMP054,4.46,High,Inactive
+CL012,Thompson Inc,Telecommunications,Singapore,New John,2021-12-25,2029-09-22,48,Gold,8,3915080,EMP134,3.56,Low,Active
+CL013,Price-Johnson,IT Services,Singapore,Stephensonmouth,2023-05-13,2026-09-19,72,Bronze,7,916467,EMP416,3.82,Critical,Active
+CL014,Mann Group,E-commerce,Canada,Sarahaven,2023-01-21,2030-07-31,48,Gold,3,3402907,EMP122,3.69,Medium,Inactive
+CL015,Perry Inc,Telecommunications,Singapore,Darrellchester,2022-01-31,2028-07-08,12,Silver,6,4211378,EMP423,3.76,Critical,Active
+CL016,Andrade Group,E-commerce,Singapore,Masonfurt,2022-04-04,2029-11-09,24,Gold,10,2524284,EMP499,3.69,Low,Active
+CL017,Valencia and Sons,Logistics,UAE,Bradfordfort,2022-09-27,2027-12-30,48,Silver,4,4994912,EMP227,4.25,Critical,Active
+CL018,Abbott LLC,Banking,United States,Allenfort,2022-05-10,2028-09-24,48,Bronze,2,4214844,EMP373,4.63,High,Active
+CL019,Henry Inc,Telecommunications,United States,Lake Donnaton,2023-05-15,2030-07-21,24,Bronze,7,593411,EMP115,3.79,Medium,Active
+CL020,"Fischer, Palmer and Schmidt",Insurance,India,Lake Michaelport,2023-01-31,2027-08-21,48,Silver,10,1755993,EMP029,3.9,Low,Inactive
+CL021,Clark-Smith,Energy,India,East Masonborough,2021-09-28,2031-01-12,72,Silver,4,1785186,EMP258,4.68,High,Active
+CL022,Hughes Inc,E-commerce,Japan,Lake Stephanie,2024-04-14,2027-08-20,72,Silver,8,2980404,EMP070,4.57,Medium,Active
+CL023,"Mccormick, Burton and Ryan",Healthcare,Germany,Williehaven,2025-05-26,2028-11-17,24,Gold,5,864518,EMP080,3.56,Low,Active
+CL024,Bailey-Klein,Government,Australia,North Jake,2021-11-20,2028-05-22,48,Silver,2,1577431,EMP479,3.63,Low,Active
+CL025,Bright-Cervantes,Retail,Japan,East Benjaminville,2024-05-27,2030-04-29,12,Silver,4,3552174,EMP022,4.63,Low,Inactive
+CL026,Harris-Graham,Healthcare,Singapore,North Steven,2025-01-19,2029-05-23,72,Bronze,7,1673365,EMP182,4.61,High,Inactive
+CL027,Shelton and Sons,Manufacturing,India,South Brad,2022-12-08,2029-12-06,8,Bronze,4,3268214,EMP211,4.83,Low,Active
+CL028,Ortiz-Martinez,Banking,Singapore,Larsonstad,2024-06-28,2028-05-23,72,Bronze,7,2976421,EMP011,4.48,Critical,Active
+CL029,Cooper Inc,Telecommunications,Australia,South Robert,2024-08-26,2029-06-27,8,Silver,7,407012,EMP445,4.1,Critical,Active
+CL030,Mejia-Contreras,Retail,United Kingdom,Bradleyfurt,2022-11-30,2029-10-12,12,Gold,10,2519009,EMP315,4.5,Critical,Active
+CL031,Young-Morris,IT Services,India,Brownton,2024-12-28,2029-09-16,72,Gold,9,58832,EMP497,3.69,Low,Active
+CL032,"West, Velazquez and Thomas",Government,UAE,East Jillborough,2024-03-07,2027-12-29,48,Silver,5,4771952,EMP313,4.71,Low,Active
+CL033,"Maddox, Jenkins and Kirby",Education,Japan,North Rachelhaven,2024-10-12,2026-07-11,24,Gold,5,3776414,EMP472,4.59,Low,Active
+CL034,Edwards PLC,Pharmaceutical,Singapore,New Amandamouth,2022-02-08,2028-08-31,72,Bronze,8,232850,EMP064,3.67,Critical,Active
+CL035,Hart-Shaffer,Pharmaceutical,UAE,Lake Kimberg,2023-12-27,2028-01-04,12,Bronze,5,169048,EMP243,4.55,Medium,Active
+CL036,Delgado-Terry,Government,Singapore,Charlesview,2023-01-11,2030-11-10,12,Silver,6,3479152,EMP293,4.65,High,Active
+CL037,"Hartman, Johnson and Wilson",Insurance,Australia,Nelsonmouth,2022-09-05,2030-06-09,48,Silver,10,2489007,EMP187,4.63,Medium,Active
+CL038,Oconnell-Wells,Logistics,Netherlands,Lake Jamesland,2024-09-18,2027-04-20,8,Gold,5,54061,EMP362,3.53,Low,Active
+CL039,"Maddox, Pennington and Ortiz",Healthcare,Germany,Lake Teresaview,2025-05-24,2030-09-07,48,Gold,8,3048827,EMP012,3.51,Low,Active
+CL040,Stewart and Sons,Insurance,Singapore,Robertport,2022-12-23,2027-08-06,48,Gold,10,4108859,EMP193,4.89,Medium,Active
+CL041,"Harris, Simon and Williams",Energy,United Kingdom,West Aarontown,2023-09-21,2030-09-28,12,Silver,3,3297737,EMP379,4.93,Low,Active
+CL042,Lee-Wilson,Media,India,Howardtown,2025-01-20,2030-01-21,12,Silver,7,811998,EMP359,3.9,High,Inactive
+CL043,"Barnes, Wilson and Barnes",Media,Australia,Brooksbury,2023-12-15,2028-01-17,48,Bronze,4,2861155,EMP128,4.19,Low,Active
+CL044,Bates and Sons,Logistics,India,Rodgersstad,2025-05-23,2027-04-06,48,Platinum,9,3489576,EMP470,4.38,Medium,Active
+CL045,"Harris, Thomas and Gamble",Banking,Netherlands,Davisview,2025-04-08,2030-08-22,12,Silver,1,1476434,EMP135,3.83,Critical,Active
+CL046,Dyer-Rogers,Pharmaceutical,UAE,Kristinfurt,2022-04-21,2027-10-09,12,Silver,6,3983349,EMP216,4.92,High,Active
+CL047,Medina Inc,Telecommunications,Germany,Andrewside,2023-02-23,2028-07-27,8,Bronze,7,74755,EMP420,4.93,Critical,Active
+CL048,"Davis, Thomas and Allen",IT Services,India,North Gerald,2022-03-14,2027-08-14,72,Silver,10,1192831,EMP015,4.38,Medium,Active
+CL049,Odom-Crawford,Banking,Singapore,Port Mary,2022-10-11,2028-08-16,48,Bronze,1,2745101,EMP377,3.96,High,Active
+CL050,"Watson, Cook and Carter",Logistics,Germany,South Nancyborough,2025-05-23,2029-09-26,24,Gold,3,2206955,EMP166,4.74,Low,Active
+CL051,"Hernandez, Lewis and Wiggins",Banking,United States,North Brenda,2025-02-03,2027-07-12,24,Platinum,4,2304723,EMP204,4.28,High,Active
+CL052,Valentine Group,Banking,Australia,Alexiston,2025-03-10,2030-03-13,12,Platinum,6,715156,EMP341,3.98,High,Inactive
+CL053,Benson-Norman,Manufacturing,Netherlands,North Tara,2022-08-24,2030-01-23,72,Bronze,2,1655297,EMP315,4.58,Low,Active
+CL054,Carey-Martinez,Hospitality,Singapore,South Brettbury,2024-12-22,2028-07-05,72,Silver,10,1115130,EMP103,4.41,Medium,Inactive
+CL055,Dennis PLC,Manufacturing,Netherlands,Port Michaeltown,2022-05-24,2026-12-01,12,Silver,7,2470436,EMP018,3.64,High,Active
+CL056,Morgan-Patterson,Government,Germany,Johnville,2025-01-27,2029-08-03,8,Gold,1,776770,EMP339,4.51,Medium,Active
+CL057,"Schneider, Davis and Anderson",Telecommunications,India,Transide,2024-01-08,2027-02-26,24,Platinum,5,1995626,EMP288,3.74,High,Active
+CL058,"Moore, Robinson and Quinn",Media,Japan,Morenoborough,2022-01-31,2029-08-17,72,Platinum,7,4603551,EMP448,3.86,High,Inactive
+CL059,Davis Ltd,Hospitality,United Kingdom,Maryside,2024-10-04,2027-09-09,8,Bronze,7,3255825,EMP252,4.04,Critical,Active
+CL060,"Brown, Garcia and Miller",Government,Singapore,East Rebeccaton,2023-01-27,2028-04-30,12,Platinum,4,3700418,EMP282,4.93,Critical,Inactive
+CL061,Hart and Sons,Logistics,United States,Hollyfurt,2024-07-30,2030-03-29,72,Gold,4,3948246,EMP338,3.97,High,Inactive
+CL062,Daniels-Young,Education,United States,Robertberg,2022-11-27,2027-01-23,8,Silver,2,3149009,EMP399,4.01,High,Active
+CL063,Reyes-Kelly,Healthcare,Germany,Sanchezshire,2024-10-05,2028-09-15,24,Platinum,7,2034280,EMP349,4.31,Low,Inactive
+CL064,"White, Graham and Cisneros",IT Services,UAE,Herreraville,2021-07-25,2029-08-01,72,Silver,6,2363911,EMP185,4.28,Critical,Active
+CL065,Keller-Hinton,Hospitality,Germany,Jonesside,2024-04-21,2027-06-07,8,Bronze,4,782480,EMP314,4.98,Critical,Active
+CL066,Davis LLC,Retail,Netherlands,Cherylhaven,2025-01-22,2029-07-05,24,Bronze,10,777468,EMP391,4.08,Critical,Active
+CL067,Graham LLC,Insurance,United Kingdom,Youngside,2022-10-24,2030-08-30,72,Gold,7,2526898,EMP317,3.78,High,Active
+CL068,Frost-Rocha,Retail,Japan,Michellestad,2023-08-03,2028-09-28,24,Bronze,9,2641122,EMP334,3.96,Medium,Inactive
+CL069,Tapia LLC,Media,Singapore,East Christophermouth,2022-09-19,2029-02-24,8,Platinum,5,2637715,EMP441,3.93,Critical,Active
+CL070,Sandoval LLC,Logistics,UAE,Port Paulfort,2022-01-08,2029-12-10,24,Bronze,6,4993807,EMP153,3.58,Critical,Active
+CL071,Craig-Morales,Telecommunications,UAE,Christineton,2024-09-18,2027-12-21,12,Bronze,1,594914,EMP173,4.21,High,Active
+CL072,Moore-Hoffman,Energy,UAE,Debraberg,2023-03-28,2028-06-07,24,Platinum,7,2097709,EMP292,4.81,Critical,Active
+CL073,Adams PLC,Hospitality,Singapore,Michellemouth,2022-12-30,2029-01-06,24,Bronze,5,1882784,EMP038,4.88,High,Active
+CL074,Grant-Cook,Logistics,United Kingdom,Brianmouth,2022-03-06,2029-03-07,8,Gold,7,2481312,EMP370,4.64,High,Active
+CL075,Butler-Johnson,Media,Germany,Thomasview,2021-09-02,2030-11-20,48,Silver,3,3304577,EMP157,4.56,High,Inactive
+CL076,"Freeman, Diaz and Sanchez",Government,Germany,Nicolefurt,2024-08-22,2028-06-04,8,Platinum,5,4527256,EMP125,4.16,Low,Inactive
+CL077,Mann-Nelson,Logistics,India,East Marthaport,2022-03-22,2031-06-26,24,Gold,2,1654297,EMP103,4.07,Critical,Inactive
+CL078,Campos LLC,Healthcare,United States,Brooksborough,2022-04-25,2028-08-05,8,Platinum,2,2977991,EMP314,4.02,Low,Inactive
+CL079,Hughes Ltd,Pharmaceutical,Canada,West Tracyborough,2024-02-22,2029-05-06,12,Gold,7,1875533,EMP465,3.73,Low,Active
+CL080,Dunlap-Ferguson,Retail,Canada,Mataside,2023-01-20,2030-03-07,8,Gold,3,4579671,EMP052,3.78,Critical,Active
+CL081,"Wilson, Cook and Lee",Pharmaceutical,Australia,Mejiamouth,2024-08-09,2027-01-31,72,Gold,9,1351435,EMP043,3.52,Low,Active
+CL082,"Mcdonald, Johnson and Gill",Telecommunications,India,West Cherylview,2024-06-02,2030-10-15,8,Platinum,8,3188080,EMP001,4.18,Low,Active
+CL083,Washington Inc,Banking,Netherlands,Port Ryan,2025-02-23,2029-01-07,72,Silver,7,2316250,EMP033,4.78,Low,Active
+CL084,Mitchell Ltd,Government,Canada,East Aaronside,2021-12-04,2028-06-15,24,Gold,1,68908,EMP426,4.41,Low,Active
+CL085,Diaz PLC,Energy,Germany,North Alex,2021-09-01,2030-06-02,72,Silver,10,2070597,EMP221,4.19,Critical,Inactive
+CL086,"Williams, Marshall and Reyes",Education,Canada,South Oliviatown,2023-04-29,2030-07-01,72,Platinum,1,1527230,EMP122,4.3,High,Inactive
+CL087,Pierce Ltd,Pharmaceutical,Canada,North Bridget,2024-08-31,2026-11-03,72,Bronze,3,3221416,EMP267,3.65,Critical,Inactive
+CL088,Bradley Inc,Insurance,Singapore,Jillianland,2023-11-17,2026-08-03,72,Silver,4,3365570,EMP085,3.63,High,Active
+CL089,Decker Ltd,Banking,UAE,New Jamesberg,2024-02-29,2029-08-28,24,Platinum,9,3124867,EMP298,3.78,High,Inactive
+CL090,Reynolds LLC,Media,UAE,Duranport,2023-05-10,2029-02-04,12,Gold,1,2420636,EMP454,3.88,High,Active
+CL091,"Smith, Young and Bryan",Media,UAE,Powersview,2024-12-09,2029-05-01,72,Gold,6,340000,EMP276,4.18,Medium,Active
+CL092,Gray Inc,Logistics,Germany,South Stevenchester,2022-03-07,2029-02-07,72,Gold,4,562386,EMP463,4.22,Critical,Active
+CL093,Martin-Adams,Retail,Australia,Garyfort,2023-04-23,2026-10-26,8,Gold,5,844512,EMP240,4.49,Low,Active
+CL094,Robertson-Carpenter,Manufacturing,UAE,Olsenstad,2023-04-13,2026-10-14,12,Bronze,6,988811,EMP179,4.84,Low,Active
+CL095,Lambert Inc,Banking,Netherlands,Nicolemouth,2025-02-01,2028-12-23,72,Silver,9,3613189,EMP344,3.91,Medium,Active
+CL096,Glover Ltd,Insurance,Japan,Danielleton,2023-09-02,2028-03-30,72,Silver,6,3735481,EMP077,4.86,Medium,Inactive
+CL097,"Pena, Bond and Espinoza",Hospitality,Netherlands,New Brooketon,2025-02-16,2031-03-30,12,Silver,5,2982230,EMP093,4.59,Medium,Active
+CL098,Shea Inc,Media,Netherlands,Port Jo,2022-09-18,2028-11-10,24,Platinum,8,2931923,EMP288,4.38,High,Inactive
+CL099,Vang-Nguyen,Government,Australia,Jaredmouth,2021-12-19,2030-12-25,12,Bronze,8,658718,EMP440,4.83,Critical,Active
+CL100,Vaughn PLC,Retail,Canada,North Crystal,2023-08-01,2029-11-17,72,Silver,9,1078421,EMP467,3.91,Medium,Active

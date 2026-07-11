@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Email,Department,Designation,Experience_Years,Primary_Skills,Performance_Score,Current_Workload,Availability,Location,Joining_Year
+EMP001,Pushti Subramanian,emp1@company.com,Support,Associate,10,"ITIL, Windows, ServiceNow",3.41,7,Busy,Hyderabad,2015
+EMP002,Samuel Shere,emp2@company.com,Database,Senior Engineer,4,"MongoDB, Oracle, SQL Server",3.09,2,On Leave,Chennai,2021
+EMP003,Arunima Dyal,emp3@company.com,Cloud,Senior Engineer,3,"GCP, Networking, AWS",4.32,2,Busy,Hyderabad,2022
+EMP004,Vrishti Narang,emp4@company.com,Support,Engineer,1,"Windows, ITIL, Troubleshooting",3.27,4,On Leave,Chennai,2018
+EMP005,Zaid Patel,emp5@company.com,AI/ML,Associate,8,"ML, NLP, TensorFlow",4.31,5,On Leave,Hyderabad,2018
+EMP006,Osha Dewan,emp6@company.com,Cloud,Senior Engineer,8,"AWS, Azure, Terraform",4.64,10,Available,Noida,2016
+EMP007,Lakshmi Sama,emp7@company.com,QA,Associate,3,"Manual Testing, Cypress, API Testing",4.93,12,Available,Pune,2017
+EMP008,Adweta Shan,emp8@company.com,DevOps,Engineer,8,"Jenkins, Terraform, Kubernetes",4.36,2,On Leave,Noida,2017
+EMP009,Chavvi Patil,emp9@company.com,Frontend,Engineer,3,"JavaScript, HTML, Angular",4.56,7,Busy,Chennai,2021
+EMP010,Tanmayi Khatri,emp10@company.com,DevOps,Engineer,6,"Docker, Linux, Kubernetes",3.16,7,Busy,Noida,2017
+EMP011,Keya Basu,emp11@company.com,Cloud,Senior Engineer,9,"Terraform, AWS, GCP",4.04,9,Busy,Bengaluru,2017
+EMP012,Warinder Desai,emp12@company.com,Security,Manager,7,"OWASP, Azure Security, IAM",4.17,8,Busy,Pune,2017
+EMP013,Chavvi Yadav,emp13@company.com,Database,Associate,1,"MongoDB, SQL Server, PostgreSQL",3.88,1,Available,Chennai,2016
+EMP014,Wriddhish Murthy,emp14@company.com,QA,Lead,3,"Selenium, Manual Testing, TestNG",4.72,12,On Leave,Pune,2020
+EMP015,Rajata Singhal,emp15@company.com,Data Engineering,Manager,11,"Databricks, Snowflake, SQL",4.82,2,On Leave,Hyderabad,2020
+EMP016,Ekta Thaker,emp16@company.com,Support,Manager,10,"ITIL, ServiceNow, Troubleshooting",4.66,7,Available,Bengaluru,2019
+EMP017,Udarsh Sachar,emp17@company.com,Cloud,Manager,1,"AWS, GCP, Azure",4.83,12,Available,Chennai,2017
+EMP018,Balhaar Balay,emp18@company.com,Security,Engineer,7,"SIEM, Pen Testing, OWASP",4.97,2,Available,Noida,2018
+EMP019,Charvi Bora,emp19@company.com,Cloud,Lead,5,"AWS, Azure, GCP",4.73,12,On Leave,Noida,2021
+EMP020,Mason Rajagopalan,emp20@company.com,Security,Senior Engineer,10,"Azure Security, SIEM, OWASP",3.23,12,On Leave,Bengaluru,2018
+EMP021,Mason Chowdhury,emp21@company.com,Cloud,Engineer,11,"Networking, Terraform, AWS",3.14,6,Available,Bengaluru,2020
+EMP022,Riya Ganesan,emp22@company.com,Data Engineering,Senior Engineer,4,"Azure Data Factory, Databricks, SQL",3.93,4,On Leave,Pune,2023
+EMP023,Ikshita Sant,emp23@company.com,Data Engineering,Senior Engineer,6,"Databricks, Snowflake, Azure Data Factory",4.45,7,Busy,Pune,2024
+EMP024,Sanaya Korpal,emp24@company.com,Security,Engineer,7,"IAM, Pen Testing, OWASP",4.93,6,On Leave,Noida,2016
+EMP025,Luke Vig,emp25@company.com,Support,Senior Engineer,6,"Troubleshooting, ITIL, Linux",3.15,6,On Leave,Chennai,2019
+EMP026,Jagdish Loke,emp26@company.com,Support,Associate,5,"ServiceNow, Linux, ITIL",4.11,0,Available,Noida,2016
+EMP027,Chasmum Gala,emp27@company.com,Cloud,Lead,1,"AWS, Terraform, GCP",3.4,9,Available,Noida,2024
+EMP028,Patrick Srinivasan,emp28@company.com,AI/ML,Senior Engineer,10,"Python, ML, NLP",4.72,6,Busy,Noida,2025
+EMP029,Falak Saran,emp29@company.com,QA,Engineer,6,"TestNG, Selenium, Cypress",3.06,8,On Leave,Chennai,2016
+EMP030,Abdul Bassi,emp30@company.com,Cloud,Lead,3,"Terraform, GCP, Azure",4.41,9,Busy,Pune,2024
+EMP031,Ekaja Kibe,emp31@company.com,QA,Manager,9,"Cypress, Manual Testing, TestNG",3.92,3,Available,Pune,2025
+EMP032,Adweta Sem,emp32@company.com,QA,Engineer,11,"Selenium, TestNG, Cypress",4.14,12,Busy,Noida,2021
+EMP033,Nathan Ramakrishnan,emp33@company.com,Backend,Engineer,5,"REST API, Python, Spring Boot",3.1,2,Available,Noida,2020
+EMP034,Wyatt Vohra,emp34@company.com,QA,Lead,10,"Cypress, Selenium, TestNG",3.16,12,Available,Pune,2017
+EMP035,Zinal Subramanian,emp35@company.com,QA,Engineer,1,"Manual Testing, API Testing, TestNG",4.67,2,On Leave,Pune,2017
+EMP036,Dev Ganesan,emp36@company.com,Database,Engineer,2,"MongoDB, SQL Server, PostgreSQL",3.21,11,On Leave,Chennai,2019
+EMP037,Triya Rattan,emp37@company.com,Database,Lead,10,"SQL Server, Oracle, MongoDB",4.22,8,Busy,Bengaluru,2025
+EMP038,Osha Palla,emp38@company.com,QA,Lead,9,"Manual Testing, TestNG, Selenium",3.2,6,On Leave,Hyderabad,2019
+EMP039,Vrishti Gandhi,emp39@company.com,AI/ML,Manager,9,"Python, TensorFlow, Scikit-learn",3.05,6,Available,Bengaluru,2025
+EMP040,Hardik Sagar,emp40@company.com,Cloud,Senior Engineer,1,"GCP, AWS, Networking",3.65,7,Available,Bengaluru,2018
+EMP041,Aarnav Sarna,emp41@company.com,QA,Lead,4,"Cypress, TestNG, Selenium",4.23,9,On Leave,Pune,2023
+EMP042,Chandresh Palla,emp42@company.com,Backend,Associate,1,"Java, Python, Spring Boot",4.37,12,Available,Bengaluru,2021
+EMP043,Max Chopra,emp43@company.com,Frontend,Engineer,11,"React, HTML, JavaScript",4.25,0,On Leave,Hyderabad,2015
+EMP044,Vedhika Dewan,emp44@company.com,Cloud,Engineer,6,"Networking, Terraform, AWS",3.07,10,Busy,Pune,2020
+EMP045,Rajata Thaker,emp45@company.com,Frontend,Associate,3,"Angular, JavaScript, CSS",3.92,2,Busy,Bengaluru,2023
+EMP046,Hemal Lad,emp46@company.com,Data Engineering,Senior Engineer,2,"SQL, PySpark, Azure Data Factory",4.41,12,Busy,Bengaluru,2024
+EMP047,Pallavi Narasimhan,emp47@company.com,Data Engineering,Associate,3,"Snowflake, Databricks, Azure Data Factory",4.27,9,Available,Hyderabad,2023
+EMP048,Wazir Naidu,emp48@company.com,Backend,Lead,12,"Java, REST API, Spring Boot",3.3,0,Busy,Noida,2025
+EMP049,Rohan Srinivas,emp49@company.com,Frontend,Engineer,8,"HTML, JavaScript, Angular",4.81,2,Available,Pune,2024
+EMP050,Jackson Minhas,emp50@company.com,QA,Lead,9,"Manual Testing, TestNG, API Testing",3.31,7,On Leave,Pune,2017
+EMP051,Yatin Mann,emp51@company.com,Security,Senior Engineer,9,"Pen Testing, SIEM, OWASP",4.31,9,On Leave,Pune,2017
+EMP052,Chakradhar Cherian,emp52@company.com,AI/ML,Associate,8,"Scikit-learn, TensorFlow, Python",4.35,8,On Leave,Bengaluru,2021
+EMP053,Nicholas Sood,emp53@company.com,Support,Associate,1,"ITIL, Linux, Windows",4.86,6,Available,Pune,2024
+EMP054,Jalsa Rattan,emp54@company.com,Frontend,Lead,8,"React, CSS, Angular",3.62,11,Available,Pune,2023
+EMP055,Inaya Gopal,emp55@company.com,Database,Lead,3,"PostgreSQL, MySQL, Oracle",3.44,8,On Leave,Pune,2025
+EMP056,Robert Sandhu,emp56@company.com,Cloud,Engineer,12,"AWS, Azure, GCP",4.71,9,On Leave,Hyderabad,2016
+EMP057,Gopal Morar,emp57@company.com,Cloud,Lead,1,"Terraform, Azure, Networking",3.36,2,Busy,Pune,2025
+EMP058,Pallavi Sem,emp58@company.com,DevOps,Senior Engineer,10,"Kubernetes, Jenkins, Linux",3.31,7,Busy,Chennai,2020
+EMP059,Amaira Patla,emp59@company.com,Backend,Manager,12,"Django, REST API, Spring Boot",3.1,11,Busy,Pune,2017
+EMP060,Abhimanyu Kadakia,emp60@company.com,Frontend,Lead,2,"HTML, CSS, React",3.32,12,Available,Pune,2023
+EMP061,Nilima Raja,emp61@company.com,Frontend,Associate,8,"React, JavaScript, HTML",3.84,1,Busy,Pune,2018
+EMP062,Ekaraj Sampath,emp62@company.com,Cloud,Manager,11,"Azure, Terraform, AWS",4.42,11,Busy,Chennai,2023
+EMP063,Christopher Pall,emp63@company.com,QA,Lead,8,"Manual Testing, TestNG, Selenium",4.14,6,Busy,Noida,2022
+EMP064,Jagvi Shan,emp64@company.com,Support,Lead,12,"ITIL, Troubleshooting, Windows",3.61,3,Available,Chennai,2024
+EMP065,Rishi Mandal,emp65@company.com,QA,Associate,10,"API Testing, Selenium, Cypress",3.12,6,Busy,Hyderabad,2018
+EMP066,Chaitaly Toor,emp66@company.com,Backend,Manager,1,"Java, Spring Boot, REST API",3.49,0,Available,Pune,2022
+EMP067,Yashica Lall,emp67@company.com,AI/ML,Senior Engineer,11,"Python, NLP, Scikit-learn",3.52,2,Busy,Bengaluru,2017
+EMP068,Riya Om,emp68@company.com,DevOps,Senior Engineer,6,"Docker, Terraform, Kubernetes",4.1,12,On Leave,Chennai,2024
+EMP069,Aradhana Subramanian,emp69@company.com,Data Engineering,Senior Engineer,8,"Databricks, PySpark, Snowflake",3.97,6,Busy,Chennai,2016
+EMP070,Vansha Srinivasan,emp70@company.com,QA,Senior Engineer,6,"API Testing, TestNG, Cypress",3.4,11,On Leave,Pune,2015
+EMP071,Jeevika Ravel,emp71@company.com,QA,Associate,7,"TestNG, Manual Testing, API Testing",3.78,12,Available,Noida,2016
+EMP072,Ojasvi Bhatti,emp72@company.com,Security,Manager,2,"IAM, Pen Testing, SIEM",4.99,11,Available,Hyderabad,2025
+EMP073,Amol Narang,emp73@company.com,QA,Manager,12,"TestNG, Manual Testing, API Testing",3.38,6,On Leave,Hyderabad,2021
+EMP074,Ethan Ranganathan,emp74@company.com,Cloud,Senior Engineer,12,"AWS, Networking, GCP",3.96,11,Available,Hyderabad,2024
+EMP075,Barkha Grewal,emp75@company.com,Backend,Lead,2,"REST API, Java, Python",4.28,8,Available,Noida,2023
+EMP076,Om Morar,emp76@company.com,DevOps,Manager,8,"Linux, Jenkins, Kubernetes",4.88,10,Available,Pune,2018
+EMP077,Chatresh Kannan,emp77@company.com,Cloud,Lead,2,"Terraform, Networking, GCP",4.21,11,Available,Hyderabad,2015
+EMP078,Oviya Handa,emp78@company.com,Frontend,Senior Engineer,5,"React, JavaScript, CSS",4.51,8,Busy,Hyderabad,2020
+EMP079,Amol Ramanathan,emp79@company.com,Support,Associate,8,"ServiceNow, ITIL, Windows",4.83,9,On Leave,Bengaluru,2017
+EMP080,Harinakshi Halder,emp80@company.com,Support,Lead,8,"ServiceNow, Windows, ITIL",3.13,1,Busy,Chennai,2017
+EMP081,Champak Bedi,emp81@company.com,Backend,Associate,1,"Spring Boot, Python, Django",3.88,8,Busy,Noida,2023
+EMP082,Jasmit Ranganathan,emp82@company.com,Data Engineering,Engineer,10,"Snowflake, Azure Data Factory, SQL",3.93,5,Busy,Bengaluru,2019
+EMP083,Onveer Dugar,emp83@company.com,Data Engineering,Lead,11,"Azure Data Factory, PySpark, SQL",3.63,6,Busy,Hyderabad,2019
+EMP084,Hemani Gala,emp84@company.com,Frontend,Senior Engineer,8,"Angular, CSS, React",3.86,4,Available,Chennai,2018
+EMP085,Yasti Palla,emp85@company.com,QA,Manager,3,"Selenium, API Testing, Cypress",4.07,8,Available,Bengaluru,2024
+EMP086,Mekhala Sarna,emp86@company.com,Data Engineering,Senior Engineer,5,"Azure Data Factory, Databricks, SQL",3.14,10,Busy,Bengaluru,2025
+EMP087,Darpan Dhingra,emp87@company.com,Frontend,Engineer,9,"CSS, Angular, HTML",4.15,4,On Leave,Chennai,2015
+EMP088,Urishilla Seth,emp88@company.com,Database,Associate,10,"MongoDB, Oracle, PostgreSQL",3.75,7,Busy,Chennai,2023
+EMP089,Parth Pandya,emp89@company.com,Security,Manager,10,"IAM, Pen Testing, SIEM",4.3,2,Available,Pune,2021
+EMP090,Hemal Varghese,emp90@company.com,AI/ML,Associate,2,"Scikit-learn, Python, TensorFlow",3.21,4,Busy,Hyderabad,2017
+EMP091,Lipika Hayer,emp91@company.com,Database,Senior Engineer,9,"PostgreSQL, SQL Server, Oracle",4.28,5,On Leave,Hyderabad,2024
+EMP092,Rachita Dua,emp92@company.com,Frontend,Lead,6,"Angular, JavaScript, React",3.38,0,On Leave,Pune,2024
+EMP093,Rachit Gupta,emp93@company.com,QA,Manager,3,"Selenium, Cypress, Manual Testing",4.18,2,Busy,Chennai,2024
+EMP094,Jagvi Puri,emp94@company.com,Data Engineering,Lead,3,"PySpark, Databricks, Snowflake",4.31,0,Busy,Pune,2021
+EMP095,Charles Gandhi,emp95@company.com,Support,Engineer,10,"Linux, ITIL, Windows",4.94,12,Busy,Pune,2018
+EMP096,Udant Bawa,emp96@company.com,Support,Senior Engineer,4,"Linux, Windows, ServiceNow",4.08,5,On Leave,Noida,2015
+EMP097,Harish Patel,emp97@company.com,Support,Engineer,3,"ITIL, ServiceNow, Linux",3.54,11,Available,Pune,2021
+EMP098,Chasmum Basak,emp98@company.com,Backend,Engineer,1,"Spring Boot, Django, REST API",3.35,9,Available,Chennai,2015
+EMP099,Pushti Brahmbhatt,emp99@company.com,Data Engineering,Engineer,2,"SQL, Databricks, Snowflake",3.94,4,On Leave,Hyderabad,2022
+EMP100,Robert Swamy,emp100@company.com,Security,Associate,5,"Pen Testing, IAM, SIEM",3.72,1,Busy,Noida,2021
+EMP101,Om Ravi,emp101@company.com,Backend,Engineer,1,"Python, Java, REST API",4.34,0,Available,Chennai,2015
+EMP102,Falguni Barad,emp102@company.com,Cloud,Manager,10,"GCP, Networking, Terraform",4.79,4,Busy,Chennai,2021
+EMP103,Patrick Salvi,emp103@company.com,Backend,Manager,4,"REST API, Python, Java",3.14,8,On Leave,Chennai,2019
+EMP104,Yochana Ramanathan,emp104@company.com,Database,Lead,10,"SQL Server, MySQL, PostgreSQL",3.62,2,Available,Chennai,2022
+EMP105,Mekhala Dani,emp105@company.com,Frontend,Senior Engineer,1,"JavaScript, Angular, HTML",4.82,11,Available,Noida,2019
+EMP106,Hredhaan Sami,emp106@company.com,Frontend,Associate,10,"JavaScript, React, HTML",3.55,5,On Leave,Bengaluru,2024
+EMP107,Bimala Walla,emp107@company.com,Data Engineering,Manager,12,"Snowflake, Databricks, Azure Data Factory",4.27,6,On Leave,Pune,2020
+EMP108,Hemani Vig,emp108@company.com,Backend,Senior Engineer,6,"Java, Django, Python",4.91,8,Busy,Pune,2016
+EMP109,Yash Walia,emp109@company.com,Security,Senior Engineer,9,"SIEM, Azure Security, OWASP",4.35,4,Available,Noida,2025
+EMP110,Advik Dugar,emp110@company.com,Cloud,Engineer,7,"Azure, Networking, Terraform",3.32,1,Busy,Chennai,2016
+EMP111,Veer Chatterjee,emp111@company.com,QA,Associate,2,"API Testing, Selenium, Cypress",3.83,11,Available,Noida,2025
+EMP112,Harish Rastogi,emp112@company.com,Cloud,Manager,1,"Terraform, GCP, Azure",3.2,12,Available,Noida,2024
+EMP113,Bhavna Pant,emp113@company.com,Frontend,Manager,6,"HTML, JavaScript, React",3.23,11,Available,Hyderabad,2022
+EMP114,Ranbir Wali,emp114@company.com,QA,Lead,4,"Manual Testing, Cypress, TestNG",3.11,2,Busy,Chennai,2017
+EMP115,Falan Ratta,emp115@company.com,AI/ML,Manager,10,"TensorFlow, Scikit-learn, NLP",4.11,3,Busy,Pune,2016
+EMP116,Anay Sani,emp116@company.com,Data Engineering,Associate,9,"PySpark, SQL, Databricks",3.29,11,Available,Chennai,2018
+EMP117,Pranav Batta,emp117@company.com,Frontend,Lead,7,"React, CSS, JavaScript",4.31,11,Available,Bengaluru,2017
+EMP118,Ekta Soni,emp118@company.com,Cloud,Senior Engineer,7,"GCP, Azure, Terraform",3.56,9,On Leave,Pune,2015
+EMP119,Anirudh Jha,emp119@company.com,Support,Engineer,12,"ServiceNow, Linux, Troubleshooting",3.14,9,Available,Noida,2019
+EMP120,Bimala Jaggi,emp120@company.com,AI/ML,Manager,1,"Scikit-learn, ML, NLP",3.28,9,Available,Pune,2019
+EMP121,Yatin Raju,emp121@company.com,Security,Senior Engineer,8,"OWASP, Azure Security, Pen Testing",4.97,5,On Leave,Hyderabad,2020
+EMP122,Azaan Dass,emp122@company.com,Database,Lead,12,"MongoDB, SQL Server, MySQL",3.93,0,Busy,Hyderabad,2015
+EMP123,Jatin Bala,emp123@company.com,Security,Associate,4,"Azure Security, SIEM, IAM",4.08,10,Available,Noida,2018
+EMP124,Pranav Dash,emp124@company.com,Support,Manager,1,"Troubleshooting, ServiceNow, Linux",4.96,3,Available,Pune,2025
+EMP125,Ekansh Atwal,emp125@company.com,Frontend,Engineer,1,"Angular, HTML, React",4.3,10,Available,Hyderabad,2024
+EMP126,Qadim Sama,emp126@company.com,DevOps,Associate,2,"Docker, Terraform, Linux",3.15,11,Available,Bengaluru,2022
+EMP127,Omkaar Bera,emp127@company.com,Security,Engineer,2,"IAM, SIEM, Pen Testing",3.22,10,On Leave,Chennai,2017
+EMP128,Tripti Shah,emp128@company.com,Database,Manager,9,"Oracle, MySQL, SQL Server",3.42,6,Available,Noida,2022
+EMP129,Quincy Banerjee,emp129@company.com,Security,Associate,8,"Azure Security, Pen Testing, OWASP",3.69,4,On Leave,Chennai,2016
+EMP130,Tripti Suresh,emp130@company.com,Support,Associate,7,"Windows, Linux, ServiceNow",3.59,12,Busy,Hyderabad,2016
+EMP131,Ekavir Dewan,emp131@company.com,Frontend,Associate,4,"HTML, JavaScript, React",3.69,4,Busy,Pune,2023
+EMP132,Zehaan Goda,emp132@company.com,Frontend,Engineer,7,"JavaScript, CSS, HTML",4.3,11,Busy,Hyderabad,2019
+EMP133,Triveni Arya,emp133@company.com,DevOps,Associate,4,"Docker, Kubernetes, Linux",3.24,4,Busy,Bengaluru,2020
+EMP134,Arunima Brar,emp134@company.com,Frontend,Associate,6,"CSS, HTML, JavaScript",3.79,6,Busy,Noida,2015
+EMP135,Lohit Cheema,emp135@company.com,AI/ML,Associate,10,"Scikit-learn, Python, ML",3.87,9,On Leave,Bengaluru,2024
+EMP136,Bhavna Natt,emp136@company.com,Cloud,Lead,3,"Azure, Terraform, GCP",4.6,4,Available,Hyderabad,2025
+EMP137,Aashi Varughese,emp137@company.com,Data Engineering,Engineer,9,"Azure Data Factory, Snowflake, Databricks",4.34,6,Busy,Chennai,2018
+EMP138,Yashodhara Dhingra,emp138@company.com,Cloud,Lead,2,"Azure, Terraform, Networking",3.98,5,Available,Noida,2015
+EMP139,Daksh Bhasin,emp139@company.com,Backend,Lead,5,"REST API, Spring Boot, Django",4.47,2,Available,Pune,2019
+EMP140,Akshay Kala,emp140@company.com,Backend,Manager,8,"REST API, Django, Spring Boot",4.42,7,Available,Noida,2019
+EMP141,Damini Sahota,emp141@company.com,QA,Engineer,10,"API Testing, Cypress, Selenium",4.01,9,Available,Bengaluru,2018
+EMP142,Avi Prasad,emp142@company.com,Frontend,Senior Engineer,8,"HTML, JavaScript, Angular",3.24,11,Available,Bengaluru,2025
+EMP143,Vanya Mistry,emp143@company.com,Database,Manager,6,"SQL Server, Oracle, MySQL",4.2,4,On Leave,Chennai,2017
+EMP144,Ubika Gill,emp144@company.com,Security,Lead,5,"IAM, Pen Testing, OWASP",4.62,12,Available,Bengaluru,2023
+EMP145,Ayaan Rau,emp145@company.com,AI/ML,Engineer,7,"NLP, ML, TensorFlow",3.75,3,On Leave,Bengaluru,2018
+EMP146,Siya Gola,emp146@company.com,Cloud,Engineer,12,"Azure, Networking, Terraform",4.84,5,Busy,Pune,2015
+EMP147,Yashawini Singh,emp147@company.com,Security,Lead,5,"OWASP, IAM, Azure Security",3.06,12,Available,Pune,2021
+EMP148,Caleb Suri,emp148@company.com,QA,Engineer,9,"API Testing, Selenium, Cypress",4.57,5,Busy,Pune,2025
+EMP149,Ojas Singh,emp149@company.com,Database,Associate,2,"MongoDB, PostgreSQL, Oracle",3.21,3,On Leave,Noida,2015
+EMP150,Siddharth Talwar,emp150@company.com,Backend,Senior Engineer,12,"Spring Boot, Django, REST API",4.36,11,Busy,Noida,2025
+EMP151,Ladli Dixit,emp151@company.com,Database,Senior Engineer,3,"Oracle, SQL Server, MySQL",3.97,10,Busy,Pune,2021
+EMP152,Edhitha De,emp152@company.com,Cloud,Senior Engineer,8,"Networking, Terraform, Azure",4.76,2,Available,Hyderabad,2015
+EMP153,Tanvi Bera,emp153@company.com,AI/ML,Manager,3,"TensorFlow, Python, NLP",4.85,10,Busy,Bengaluru,2022
+EMP154,Chanakya Rai,emp154@company.com,QA,Lead,12,"API Testing, Selenium, Cypress",4.66,1,Available,Noida,2025
+EMP155,Balendra Datta,emp155@company.com,QA,Manager,2,"TestNG, Manual Testing, API Testing",3.84,3,On Leave,Pune,2021
+EMP156,Advaith Pau,emp156@company.com,Support,Lead,9,"Linux, Troubleshooting, ServiceNow",4.18,12,Busy,Pune,2024
+EMP157,Timothy Sridhar,emp157@company.com,AI/ML,Associate,11,"Scikit-learn, ML, NLP",3.44,4,Available,Bengaluru,2019
+EMP158,Harshil Bir,emp158@company.com,AI/ML,Lead,8,"Python, NLP, ML",4.02,8,Available,Pune,2022
+EMP159,Tamanna Sangha,emp159@company.com,DevOps,Engineer,3,"Kubernetes, Docker, Jenkins",3.84,11,Busy,Pune,2019
+EMP160,Peter Date,emp160@company.com,QA,Manager,7,"Manual Testing, Cypress, TestNG",4.83,6,On Leave,Bengaluru,2021
+EMP161,Reyansh Khurana,emp161@company.com,Frontend,Manager,7,"React, CSS, Angular",3.17,6,Available,Pune,2023
+EMP162,Lavanya Kamdar,emp162@company.com,QA,Lead,6,"Manual Testing, TestNG, Cypress",4.2,1,Busy,Bengaluru,2025
+EMP163,Libni Halder,emp163@company.com,Cloud,Lead,8,"GCP, Terraform, Networking",4.48,3,On Leave,Bengaluru,2022
+EMP164,Mohammed Yohannan,emp164@company.com,QA,Engineer,8,"API Testing, TestNG, Manual Testing",4.72,4,Busy,Chennai,2025
+EMP165,Ekbal Randhawa,emp165@company.com,Security,Lead,1,"Pen Testing, SIEM, OWASP",3.64,4,Busy,Bengaluru,2022
+EMP166,Gaurang Kadakia,emp166@company.com,Frontend,Associate,9,"Angular, JavaScript, React",4.12,7,Available,Chennai,2018
+EMP167,Suhani Gola,emp167@company.com,Database,Associate,5,"Oracle, PostgreSQL, MySQL",3.39,11,On Leave,Chennai,2019
+EMP168,Jeevika Rajagopalan,emp168@company.com,Database,Lead,1,"MongoDB, PostgreSQL, MySQL",4.14,8,On Leave,Noida,2018
+EMP169,Yug Nath,emp169@company.com,Cloud,Senior Engineer,6,"Azure, Networking, Terraform",4.9,8,On Leave,Bengaluru,2016
+EMP170,Aashi Dubey,emp170@company.com,Database,Associate,1,"SQL Server, MongoDB, PostgreSQL",4.94,1,Available,Chennai,2023
+EMP171,Vedhika Saha,emp171@company.com,Data Engineering,Lead,7,"Databricks, PySpark, SQL",3.25,9,On Leave,Noida,2017
+EMP172,Harita Ahluwalia,emp172@company.com,QA,Manager,3,"API Testing, TestNG, Cypress",4.55,2,On Leave,Pune,2016
+EMP173,Chaaya Thaker,emp173@company.com,Security,Manager,10,"Pen Testing, Azure Security, IAM",3.76,3,Busy,Chennai,2024
+EMP174,Niharika Mander,emp174@company.com,Support,Manager,10,"ITIL, ServiceNow, Linux",4.04,5,On Leave,Pune,2015
+EMP175,Onkar D’Alia,emp175@company.com,Security,Senior Engineer,10,"SIEM, Azure Security, OWASP",3.45,9,On Leave,Hyderabad,2023
+EMP176,Pushti Chanda,emp176@company.com,Cloud,Lead,9,"Terraform, Azure, GCP",4.13,11,Busy,Noida,2025
+EMP177,Turvi Edwin,emp177@company.com,Data Engineering,Lead,5,"Azure Data Factory, PySpark, Snowflake",3.86,7,Busy,Pune,2021
+EMP178,Kritika Wali,emp178@company.com,Backend,Engineer,11,"Java, Django, Python",3.85,6,On Leave,Noida,2025
+EMP179,Abhimanyu Venkatesh,emp179@company.com,Security,Senior Engineer,1,"Pen Testing, Azure Security, SIEM",3.22,1,Busy,Noida,2018
+EMP180,Vasudha Chada,emp180@company.com,Security,Associate,3,"SIEM, Pen Testing, IAM",3.53,0,Available,Pune,2020
+EMP181,Jack Ray,emp181@company.com,AI/ML,Senior Engineer,1,"Scikit-learn, NLP, Python",3.55,11,Busy,Chennai,2019
+EMP182,Timothy Ramesh,emp182@company.com,Cloud,Associate,8,"Azure, Terraform, AWS",4.23,10,Available,Chennai,2019
+EMP183,Sachi Shanker,emp183@company.com,Cloud,Manager,1,"Azure, GCP, AWS",4.19,8,Available,Pune,2020
+EMP184,Oni Misra,emp184@company.com,Support,Associate,12,"Windows, Troubleshooting, ServiceNow",3.07,6,On Leave,Pune,2023
+EMP185,Shravya Ganesan,emp185@company.com,Security,Engineer,12,"SIEM, Azure Security, IAM",3.94,9,Busy,Pune,2018
+EMP186,Urmi Tata,emp186@company.com,AI/ML,Lead,1,"Python, ML, Scikit-learn",3.4,4,On Leave,Noida,2021
+EMP187,Netra Mittal,emp187@company.com,Security,Lead,3,"IAM, SIEM, Pen Testing",3.9,5,Available,Noida,2020
+EMP188,Arin Tella,emp188@company.com,Data Engineering,Senior Engineer,7,"PySpark, SQL, Azure Data Factory",3.62,9,Available,Chennai,2025
+EMP189,Ucchal Mitter,emp189@company.com,DevOps,Manager,8,"Kubernetes, Terraform, Docker",4.16,0,On Leave,Noida,2017
+EMP190,Wahab Kapoor,emp190@company.com,AI/ML,Engineer,8,"Scikit-learn, Python, TensorFlow",4.27,4,Busy,Hyderabad,2019
+EMP191,Naveen Wali,emp191@company.com,Backend,Senior Engineer,10,"Python, REST API, Django",3.34,10,Busy,Chennai,2015
+EMP192,Bachittar Bhardwaj,emp192@company.com,Frontend,Manager,7,"HTML, JavaScript, CSS",4.1,11,On Leave,Chennai,2017
+EMP193,Osha Mohanty,emp193@company.com,Database,Manager,4,"PostgreSQL, Oracle, MySQL",4.1,4,On Leave,Pune,2016
+EMP194,Rohan Balakrishnan,emp194@company.com,Support,Manager,12,"ServiceNow, Troubleshooting, Windows",3.57,6,Busy,Bengaluru,2021
+EMP195,Unni Murthy,emp195@company.com,Data Engineering,Associate,11,"Databricks, Azure Data Factory, Snowflake",4.17,6,Busy,Hyderabad,2015
+EMP196,Yamini Korpal,emp196@company.com,DevOps,Manager,12,"Linux, Kubernetes, Terraform",3.66,6,Busy,Pune,2024
+EMP197,Anay Dhar,emp197@company.com,Frontend,Engineer,6,"React, CSS, JavaScript",4.31,12,On Leave,Noida,2023
+EMP198,Sudiksha Pandey,emp198@company.com,Database,Senior Engineer,9,"SQL Server, PostgreSQL, MySQL",3.85,11,Busy,Pune,2019
+EMP199,Osha Parekh,emp199@company.com,Frontend,Senior Engineer,2,"HTML, Angular, CSS",4.4,6,Busy,Chennai,2023
+EMP200,Anay Dubey,emp200@company.com,DevOps,Manager,12,"Docker, Terraform, Jenkins",4.4,3,Available,Chennai,2024
+EMP201,Benjamin Dhaliwal,emp201@company.com,Security,Lead,5,"OWASP, IAM, SIEM",4.07,8,On Leave,Noida,2023
+EMP202,Ishwar Varma,emp202@company.com,AI/ML,Manager,7,"ML, Scikit-learn, Python",3.11,10,Available,Bengaluru,2017
+EMP203,Chaman Palla,emp203@company.com,QA,Senior Engineer,10,"Manual Testing, Selenium, API Testing",3.93,12,Busy,Hyderabad,2023
+EMP204,Pooja Narasimhan,emp204@company.com,Backend,Associate,4,"Java, Python, Spring Boot",4.17,11,On Leave,Pune,2023
+EMP205,Pushti Bhalla,emp205@company.com,AI/ML,Senior Engineer,2,"ML, Python, Scikit-learn",4.21,1,Busy,Hyderabad,2025
+EMP206,Vasatika Parsa,emp206@company.com,DevOps,Associate,11,"Terraform, Linux, Docker",4.7,10,Busy,Chennai,2023
+EMP207,Rajeshri Sinha,emp207@company.com,Database,Lead,6,"SQL Server, MySQL, Oracle",3.93,4,Busy,Noida,2022
+EMP208,Ekaraj Dugar,emp208@company.com,Frontend,Associate,1,"Angular, JavaScript, React",4.4,12,On Leave,Chennai,2022
+EMP209,Ekanta Mani,emp209@company.com,Database,Lead,2,"MongoDB, PostgreSQL, Oracle",4.89,2,On Leave,Hyderabad,2019
+EMP210,Abdul Sanghvi,emp210@company.com,Cloud,Lead,2,"Networking, Azure, AWS",3.8,2,On Leave,Noida,2021
+EMP211,Onveer Edwin,emp211@company.com,QA,Senior Engineer,10,"Manual Testing, TestNG, Cypress",3.93,12,Busy,Hyderabad,2019
+EMP212,Jalsa Ramesh,emp212@company.com,AI/ML,Associate,9,"ML, TensorFlow, NLP",4.38,2,Available,Pune,2024
+EMP213,Lopa Kothari,emp213@company.com,Backend,Engineer,7,"Spring Boot, Java, Django",3.19,3,Busy,Bengaluru,2018
+EMP214,Faras Swamy,emp214@company.com,DevOps,Manager,1,"Terraform, Linux, Docker",4.63,12,Busy,Hyderabad,2017
+EMP215,Aahana Suresh,emp215@company.com,Frontend,Senior Engineer,9,"HTML, Angular, React",4.46,1,Available,Noida,2019
+EMP216,Gabriel Konda,emp216@company.com,Support,Engineer,2,"Linux, Troubleshooting, Windows",4.45,9,Available,Hyderabad,2017
+EMP217,Omkaar Sengupta,emp217@company.com,Database,Lead,7,"Oracle, PostgreSQL, MongoDB",4.23,11,Busy,Hyderabad,2022
+EMP218,Rayaan Sampath,emp218@company.com,AI/ML,Engineer,10,"Scikit-learn, Python, NLP",3.24,8,On Leave,Hyderabad,2021
+EMP219,Radhika Sachdev,emp219@company.com,Security,Senior Engineer,2,"Pen Testing, OWASP, IAM",4.93,7,Available,Hyderabad,2015
+EMP220,Vihaan Patel,emp220@company.com,Data Engineering,Engineer,8,"PySpark, Snowflake, SQL",3.4,11,Available,Bengaluru,2016
+EMP221,Kalpit Issac,emp221@company.com,QA,Engineer,2,"Manual Testing, Cypress, TestNG",3.11,0,Available,Pune,2022
+EMP222,Quincy Gulati,emp222@company.com,Cloud,Associate,9,"GCP, Networking, Terraform",3.16,1,Busy,Noida,2020
+EMP223,Maya Zachariah,emp223@company.com,Support,Lead,12,"ITIL, Troubleshooting, Windows",3.87,3,Available,Hyderabad,2024
+EMP224,Yadavi Karan,emp224@company.com,QA,Manager,6,"API Testing, Selenium, TestNG",4.2,1,Available,Pune,2022
+EMP225,Divya Swaminathan,emp225@company.com,Cloud,Associate,11,"GCP, AWS, Networking",4.69,0,Busy,Noida,2020
+EMP226,Upasna Kibe,emp226@company.com,Support,Associate,7,"Windows, ITIL, ServiceNow",4.2,12,Busy,Pune,2017
+EMP227,Mugdha Sheth,emp227@company.com,Backend,Lead,3,"Java, REST API, Spring Boot",3.21,10,Busy,Bengaluru,2023
+EMP228,Oviya Varughese,emp228@company.com,Security,Associate,4,"Pen Testing, Azure Security, OWASP",4.91,7,Busy,Pune,2024
+EMP229,Yatin Bhargava,emp229@company.com,QA,Lead,9,"Manual Testing, Cypress, API Testing",4.4,4,Busy,Hyderabad,2025
+EMP230,Dhruv Madan,emp230@company.com,Data Engineering,Manager,4,"Azure Data Factory, PySpark, Databricks",4.32,2,Available,Hyderabad,2017
+EMP231,Arunima Oak,emp231@company.com,Frontend,Senior Engineer,12,"HTML, JavaScript, Angular",4.0,7,Busy,Noida,2017
+EMP232,Jyoti Deshmukh,emp232@company.com,AI/ML,Lead,9,"TensorFlow, Python, ML",4.28,4,On Leave,Pune,2019
+EMP233,Kabir Bora,emp233@company.com,Support,Manager,12,"Linux, ServiceNow, Windows",4.76,11,Available,Noida,2015
+EMP234,Shravya Dani,emp234@company.com,QA,Associate,3,"Cypress, Selenium, TestNG",3.21,12,Available,Hyderabad,2023
+EMP235,Arin Gade,emp235@company.com,AI/ML,Engineer,11,"TensorFlow, NLP, Scikit-learn",4.52,7,On Leave,Chennai,2018
+EMP236,Nikita Khurana,emp236@company.com,Backend,Senior Engineer,12,"Spring Boot, REST API, Python",3.68,2,On Leave,Hyderabad,2024
+EMP237,Triya Bhatti,emp237@company.com,Security,Senior Engineer,3,"Pen Testing, IAM, SIEM",3.61,2,Available,Noida,2023
+EMP238,Farhan Oommen,emp238@company.com,Cloud,Lead,8,"Networking, Terraform, AWS",3.73,3,Busy,Bengaluru,2015
+EMP239,Mohammed Bhandari,emp239@company.com,DevOps,Senior Engineer,10,"Jenkins, Docker, Kubernetes",4.72,1,Available,Bengaluru,2018
+EMP240,Zinal Barman,emp240@company.com,QA,Senior Engineer,3,"Manual Testing, Selenium, TestNG",4.56,9,On Leave,Hyderabad,2018
+EMP241,Bahadurjit Sarma,emp241@company.com,AI/ML,Engineer,9,"NLP, Scikit-learn, Python",3.55,0,Busy,Bengaluru,2020
+EMP242,Dayita Patel,emp242@company.com,Backend,Associate,12,"REST API, Spring Boot, Python",4.07,5,Busy,Hyderabad,2019
+EMP243,Krishna Shetty,emp243@company.com,Data Engineering,Lead,6,"Snowflake, SQL, PySpark",4.62,4,Busy,Bengaluru,2024
+EMP244,Ishanvi Boase,emp244@company.com,QA,Manager,6,"Manual Testing, API Testing, TestNG",4.45,3,Busy,Noida,2017
+EMP245,Brinda Pall,emp245@company.com,Support,Engineer,3,"Windows, ITIL, Linux",3.52,11,On Leave,Noida,2019
+EMP246,Zayyan Puri,emp246@company.com,Backend,Associate,1,"REST API, Django, Java",3.15,5,Busy,Hyderabad,2025
+EMP247,Ucchal Sangha,emp247@company.com,DevOps,Lead,1,"Docker, Linux, Terraform",3.7,0,Busy,Noida,2022
+EMP248,Ojas Maharaj,emp248@company.com,AI/ML,Senior Engineer,11,"Scikit-learn, Python, NLP",4.64,6,Busy,Noida,2022
+EMP249,Mason Gara,emp249@company.com,QA,Lead,9,"TestNG, Selenium, API Testing",4.72,10,Available,Hyderabad,2021
+EMP250,Sachi Patel,emp250@company.com,Cloud,Engineer,9,"AWS, Azure, Terraform",3.62,1,Available,Noida,2025
+EMP251,Amara Dutta,emp251@company.com,QA,Associate,8,"Manual Testing, Selenium, TestNG",4.9,6,Available,Bengaluru,2019
+EMP252,Ranbir Dave,emp252@company.com,DevOps,Engineer,8,"Jenkins, Terraform, Kubernetes",4.79,3,Available,Hyderabad,2024
+EMP253,Chatresh Gara,emp253@company.com,QA,Associate,7,"API Testing, Manual Testing, Selenium",3.0,10,Busy,Chennai,2016
+EMP254,Darpan Merchant,emp254@company.com,Data Engineering,Manager,3,"SQL, Azure Data Factory, PySpark",3.34,8,On Leave,Noida,2021
+EMP255,Triya Patla,emp255@company.com,Security,Associate,6,"OWASP, SIEM, Azure Security",3.27,3,Busy,Chennai,2017
+EMP256,Aahana Bora,emp256@company.com,QA,Manager,7,"Selenium, API Testing, TestNG",3.7,6,On Leave,Bengaluru,2024
+EMP257,Isha Boase,emp257@company.com,Security,Manager,7,"IAM, Pen Testing, SIEM",4.52,6,On Leave,Bengaluru,2019
+EMP258,Yatin Savant,emp258@company.com,DevOps,Manager,9,"Docker, Kubernetes, Terraform",3.04,1,Busy,Hyderabad,2023
+EMP259,Amara Mann,emp259@company.com,DevOps,Senior Engineer,4,"Jenkins, Linux, Kubernetes",4.02,12,On Leave,Bengaluru,2022
+EMP260,Yadavi Sani,emp260@company.com,Backend,Manager,9,"Django, REST API, Java",3.43,11,On Leave,Chennai,2015
+EMP261,Unni Bhalla,emp261@company.com,Frontend,Engineer,9,"Angular, CSS, HTML",4.0,12,Busy,Hyderabad,2021
+EMP262,Gaurika Sridhar,emp262@company.com,DevOps,Associate,11,"Docker, Kubernetes, Terraform",4.73,7,Available,Pune,2015
+EMP263,Baghyawati Yadav,emp263@company.com,Frontend,Associate,3,"HTML, CSS, React",3.41,2,Available,Hyderabad,2025
+EMP264,Aarav Prakash,emp264@company.com,Database,Lead,11,"MySQL, Oracle, SQL Server",4.26,4,Busy,Hyderabad,2022
+EMP265,Upma Gopal,emp265@company.com,AI/ML,Senior Engineer,9,"Python, NLP, Scikit-learn",3.46,9,On Leave,Noida,2023
+EMP266,Lila Sarin,emp266@company.com,Database,Senior Engineer,6,"PostgreSQL, MySQL, Oracle",3.26,9,Available,Hyderabad,2021
+EMP267,Anusha Cherian,emp267@company.com,QA,Lead,11,"Selenium, API Testing, Manual Testing",4.18,7,Busy,Chennai,2020
+EMP268,Isaiah Chand,emp268@company.com,AI/ML,Lead,6,"Scikit-learn, Python, TensorFlow",3.84,3,Busy,Hyderabad,2024
+EMP269,Aarini Sarin,emp269@company.com,Backend,Associate,8,"Java, Django, Python",3.15,10,Busy,Chennai,2024
+EMP270,Peter Gill,emp270@company.com,Support,Associate,3,"Troubleshooting, Windows, ITIL",4.88,6,Available,Bengaluru,2020
+EMP271,Yadavi Mani,emp271@company.com,Frontend,Associate,4,"Angular, CSS, React",4.68,12,Available,Pune,2024
+EMP272,Hema Hans,emp272@company.com,Backend,Lead,8,"REST API, Spring Boot, Django",3.92,7,Busy,Pune,2015
+EMP273,Ojas Murty,emp273@company.com,QA,Engineer,11,"API Testing, Selenium, Cypress",3.58,0,On Leave,Pune,2016
+EMP274,Harita Soman,emp274@company.com,Support,Lead,2,"ServiceNow, ITIL, Windows",4.45,0,Busy,Chennai,2019
+EMP275,Sara Bhakta,emp275@company.com,Database,Senior Engineer,7,"MongoDB, Oracle, PostgreSQL",3.45,1,On Leave,Pune,2019
+EMP276,Krish Badal,emp276@company.com,Support,Manager,8,"Troubleshooting, ITIL, Windows",3.03,0,Available,Noida,2021
+EMP277,Yashodhara Gokhale,emp277@company.com,Backend,Manager,1,"Java, Django, Spring Boot",4.7,11,Available,Bengaluru,2019
+EMP278,Matthew Tank,emp278@company.com,Support,Senior Engineer,10,"ServiceNow, Troubleshooting, ITIL",4.88,2,On Leave,Hyderabad,2017
+EMP279,Charita Batta,emp279@company.com,QA,Manager,9,"Cypress, API Testing, Selenium",3.08,7,Busy,Hyderabad,2021
+EMP280,Oliver Dhar,emp280@company.com,Database,Associate,1,"SQL Server, PostgreSQL, Oracle",4.23,4,Busy,Hyderabad,2019
+EMP281,Aditya Srinivasan,emp281@company.com,Cloud,Senior Engineer,2,"Azure, Terraform, Networking",3.6,4,On Leave,Noida,2022
+EMP282,Niharika Babu,emp282@company.com,Database,Engineer,7,"MongoDB, MySQL, PostgreSQL",3.97,2,On Leave,Pune,2018
+EMP283,Nitesh Majumdar,emp283@company.com,Support,Lead,5,"Windows, Linux, Troubleshooting",4.05,3,Busy,Chennai,2023
+EMP284,Rehaan Vaidya,emp284@company.com,Security,Lead,8,"Azure Security, OWASP, IAM",4.12,11,Busy,Hyderabad,2018
+EMP285,Lajita Khanna,emp285@company.com,Cloud,Senior Engineer,10,"GCP, Networking, Terraform",3.34,11,Busy,Hyderabad,2021
+EMP286,Udarsh Parsa,emp286@company.com,AI/ML,Lead,4,"Scikit-learn, Python, NLP",4.26,6,Available,Pune,2025
+EMP287,Abhiram Din,emp287@company.com,DevOps,Engineer,3,"Kubernetes, Jenkins, Docker",4.6,0,On Leave,Hyderabad,2024
+EMP288,Karan Jayaraman,emp288@company.com,Security,Manager,12,"Azure Security, IAM, SIEM",3.43,7,Busy,Noida,2024
+EMP289,Yagnesh Borra,emp289@company.com,Database,Senior Engineer,10,"MySQL, Oracle, PostgreSQL",4.34,3,Busy,Pune,2021
+EMP290,Nitara Bhasin,emp290@company.com,Backend,Lead,3,"REST API, Python, Java",3.69,10,Busy,Hyderabad,2016
+EMP291,Kala Aggarwal,emp291@company.com,AI/ML,Lead,9,"Scikit-learn, Python, NLP",3.52,4,Available,Noida,2018
+EMP292,Peter Jayaraman,emp292@company.com,Support,Manager,4,"Troubleshooting, ITIL, Windows",3.99,6,Busy,Chennai,2022
+EMP293,Ayush Merchant,emp293@company.com,DevOps,Manager,7,"Terraform, Linux, Kubernetes",4.5,9,On Leave,Pune,2018
+EMP294,Zarna Suresh,emp294@company.com,Support,Lead,4,"ServiceNow, Linux, ITIL",3.38,6,On Leave,Hyderabad,2022
+EMP295,Gaurav Dass,emp295@company.com,Support,Associate,11,"ServiceNow, Troubleshooting, Windows",4.5,5,Available,Bengaluru,2017
+EMP296,Faras Mittal,emp296@company.com,Support,Manager,2,"Windows, ITIL, Linux",4.37,8,Available,Bengaluru,2022
+EMP297,Warhi Soman,emp297@company.com,AI/ML,Lead,1,"Scikit-learn, NLP, TensorFlow",4.07,3,Available,Hyderabad,2015
+EMP298,Christopher Sood,emp298@company.com,Frontend,Lead,7,"CSS, Angular, HTML",3.34,6,Available,Bengaluru,2016
+EMP299,Chakradhar Parsa,emp299@company.com,Data Engineering,Lead,3,"Azure Data Factory, SQL, Snowflake",4.39,8,On Leave,Noida,2018
+EMP300,Farhan Pandit,emp300@company.com,Security,Senior Engineer,5,"Pen Testing, IAM, SIEM",3.52,5,Available,Hyderabad,2022
+EMP301,Balvan Choudhry,emp301@company.com,AI/ML,Senior Engineer,10,"NLP, Scikit-learn, TensorFlow",4.49,8,Busy,Pune,2021
+EMP302,Kabir Basu,emp302@company.com,Backend,Engineer,11,"Django, Spring Boot, Java",3.23,2,Available,Hyderabad,2024
+EMP303,Oni Bedi,emp303@company.com,Frontend,Engineer,1,"CSS, HTML, React",4.77,7,Busy,Chennai,2017
+EMP304,Chandani Bath,emp304@company.com,Database,Lead,2,"PostgreSQL, Oracle, MongoDB",3.89,11,On Leave,Bengaluru,2021
+EMP305,Jyoti Nath,emp305@company.com,Frontend,Associate,7,"HTML, React, CSS",3.18,5,Busy,Hyderabad,2025
+EMP306,Libni Kumar,emp306@company.com,Database,Associate,3,"PostgreSQL, Oracle, SQL Server",3.07,12,Busy,Bengaluru,2023
+EMP307,Alexander Acharya,emp307@company.com,Backend,Senior Engineer,9,"Python, Java, REST API",3.42,8,On Leave,Noida,2018
+EMP308,Utkarsh Boase,emp308@company.com,Frontend,Senior Engineer,10,"Angular, React, JavaScript",3.64,2,Available,Noida,2021
+EMP309,Isha Loyal,emp309@company.com,AI/ML,Manager,6,"Python, TensorFlow, Scikit-learn",3.24,0,Busy,Hyderabad,2021
+EMP310,Chandran Narang,emp310@company.com,DevOps,Engineer,9,"Jenkins, Kubernetes, Docker",3.37,3,Available,Chennai,2020
+EMP311,Deepa Nagy,emp311@company.com,DevOps,Senior Engineer,9,"Jenkins, Terraform, Kubernetes",3.38,10,Busy,Bengaluru,2016
+EMP312,Nakul Padmanabhan,emp312@company.com,QA,Senior Engineer,3,"TestNG, Manual Testing, API Testing",4.95,2,On Leave,Hyderabad,2021
+EMP313,Girindra Patel,emp313@company.com,QA,Associate,5,"API Testing, Manual Testing, TestNG",4.41,7,On Leave,Pune,2017
+EMP314,Diya Ben,emp314@company.com,Database,Manager,6,"SQL Server, Oracle, MySQL",3.38,1,On Leave,Noida,2016
+EMP315,Abhimanyu Varma,emp315@company.com,QA,Lead,11,"Cypress, Selenium, TestNG",4.56,5,Available,Bengaluru,2021
+EMP316,Isaiah Patil,emp316@company.com,Database,Associate,3,"MySQL, MongoDB, PostgreSQL",3.07,11,Busy,Hyderabad,2016
+EMP317,Kevin Balasubramanian,emp317@company.com,Database,Manager,3,"MongoDB, MySQL, Oracle",3.56,9,Available,Pune,2015
+EMP318,Utkarsh Pandya,emp318@company.com,Support,Senior Engineer,6,"Windows, Troubleshooting, ITIL",3.73,11,On Leave,Chennai,2016
+EMP319,Chandani Raghavan,emp319@company.com,AI/ML,Manager,4,"TensorFlow, ML, Python",4.3,4,On Leave,Chennai,2020
+EMP320,Sara Nadkarni,emp320@company.com,Backend,Associate,5,"Django, Python, REST API",4.93,3,Busy,Hyderabad,2016
+EMP321,Kabir Memon,emp321@company.com,DevOps,Lead,10,"Linux, Kubernetes, Terraform",3.39,11,Busy,Pune,2018
+EMP322,Indira Palan,emp322@company.com,Data Engineering,Associate,4,"PySpark, SQL, Snowflake",4.72,8,On Leave,Chennai,2019
+EMP323,Oeshi Char,emp323@company.com,DevOps,Engineer,9,"Jenkins, Docker, Kubernetes",4.6,4,On Leave,Hyderabad,2019
+EMP324,Luke Kar,emp324@company.com,Backend,Lead,8,"Python, Java, REST API",4.35,10,Busy,Bengaluru,2021
+EMP325,Forum Mital,emp325@company.com,Data Engineering,Senior Engineer,10,"Databricks, Azure Data Factory, PySpark",3.51,9,On Leave,Noida,2019
+EMP326,Rajeshri Bail,emp326@company.com,Data Engineering,Lead,12,"SQL, Snowflake, Azure Data Factory",4.37,6,On Leave,Chennai,2021
+EMP327,Victor Raghavan,emp327@company.com,QA,Senior Engineer,6,"Manual Testing, Selenium, TestNG",4.66,11,Busy,Chennai,2025
+EMP328,Nathan Bawa,emp328@company.com,Frontend,Senior Engineer,3,"HTML, CSS, React",3.28,12,On Leave,Bengaluru,2020
+EMP329,Janani Pradhan,emp329@company.com,Database,Senior Engineer,9,"MySQL, Oracle, SQL Server",3.84,8,On Leave,Noida,2018
+EMP330,Rachit Bhargava,emp330@company.com,Support,Senior Engineer,2,"Troubleshooting, Linux, ServiceNow",4.01,10,On Leave,Pune,2023
+EMP331,Arin Sachar,emp331@company.com,Database,Lead,9,"MongoDB, Oracle, PostgreSQL",4.67,1,Busy,Hyderabad,2018
+EMP332,Ekansh Saraf,emp332@company.com,Data Engineering,Senior Engineer,11,"PySpark, Snowflake, Azure Data Factory",3.96,8,Available,Noida,2024
+EMP333,Advika Choudhury,emp333@company.com,DevOps,Associate,12,"Jenkins, Linux, Kubernetes",4.31,11,Busy,Chennai,2016
+EMP334,Harsh Hegde,emp334@company.com,Data Engineering,Engineer,9,"PySpark, SQL, Databricks",4.17,5,Available,Noida,2020
+EMP335,Kritika Lanka,emp335@company.com,Security,Associate,7,"IAM, SIEM, Pen Testing",3.84,5,Available,Chennai,2020
+EMP336,Eshana Comar,emp336@company.com,Frontend,Lead,11,"Angular, CSS, JavaScript",3.84,10,Busy,Chennai,2015
+EMP337,Vivaan Khosla,emp337@company.com,Support,Lead,10,"Windows, ServiceNow, Troubleshooting",3.45,3,Available,Noida,2018
+EMP338,Kabir Subramanian,emp338@company.com,Security,Manager,10,"Azure Security, Pen Testing, OWASP",4.15,7,Available,Pune,2019
+EMP339,Chaaya Jaggi,emp339@company.com,QA,Engineer,7,"TestNG, Manual Testing, Cypress",4.19,9,On Leave,Pune,2021
+EMP340,Chatura Saraf,emp340@company.com,Data Engineering,Senior Engineer,5,"Databricks, PySpark, Snowflake",4.68,8,On Leave,Pune,2022
+EMP341,Radhika Kumar,emp341@company.com,Support,Senior Engineer,3,"ITIL, Troubleshooting, Windows",3.94,2,Busy,Hyderabad,2016
+EMP342,Janya Dhaliwal,emp342@company.com,Backend,Manager,6,"Django, REST API, Spring Boot",3.08,9,Available,Chennai,2023
+EMP343,Yashvi Ravel,emp343@company.com,Data Engineering,Engineer,12,"Azure Data Factory, Databricks, Snowflake",4.78,12,On Leave,Hyderabad,2015
+EMP344,Vyanjana Raval,emp344@company.com,Security,Associate,6,"OWASP, Pen Testing, Azure Security",4.65,1,Available,Pune,2024
+EMP345,Aashi Bawa,emp345@company.com,Cloud,Manager,10,"Azure, AWS, Terraform",4.1,8,On Leave,Chennai,2024
+EMP346,Maya Zacharia,emp346@company.com,DevOps,Engineer,3,"Kubernetes, Docker, Terraform",4.72,12,Busy,Pune,2024
+EMP347,Maanas Vasa,emp347@company.com,Cloud,Senior Engineer,6,"GCP, Terraform, Azure",4.02,2,On Leave,Pune,2025
+EMP348,Anusha Kapadia,emp348@company.com,Database,Lead,2,"PostgreSQL, SQL Server, MongoDB",3.21,8,On Leave,Noida,2020
+EMP349,Darsh Bhardwaj,emp349@company.com,AI/ML,Manager,9,"NLP, TensorFlow, Python",3.97,2,Available,Noida,2023
+EMP350,Mohini Tella,emp350@company.com,AI/ML,Associate,12,"Python, NLP, ML",3.38,6,Available,Bengaluru,2022
+EMP351,Hardik Deep,emp351@company.com,Database,Senior Engineer,9,"PostgreSQL, MongoDB, MySQL",4.93,3,Busy,Noida,2016
+EMP352,Damini Bawa,emp352@company.com,Backend,Senior Engineer,8,"Python, REST API, Spring Boot",4.56,10,Available,Pune,2024
+EMP353,Pahal Murthy,emp353@company.com,Data Engineering,Associate,11,"Azure Data Factory, Snowflake, Databricks",3.89,9,Available,Noida,2022
+EMP354,Raksha Zacharia,emp354@company.com,Data Engineering,Manager,8,"Snowflake, Azure Data Factory, SQL",3.77,6,Busy,Chennai,2022
+EMP355,Anmol Kalla,emp355@company.com,QA,Lead,9,"TestNG, Manual Testing, Selenium",3.42,0,Available,Pune,2024
+EMP356,Sarthak Bobal,emp356@company.com,Backend,Engineer,11,"Python, Spring Boot, REST API",4.4,3,Available,Bengaluru,2023
+EMP357,Maanas Magar,emp357@company.com,Database,Senior Engineer,7,"MongoDB, MySQL, PostgreSQL",3.48,3,Busy,Chennai,2016
+EMP358,Zashil Viswanathan,emp358@company.com,QA,Senior Engineer,7,"Selenium, API Testing, Cypress",4.72,9,On Leave,Pune,2021
+EMP359,Chandran Dewan,emp359@company.com,AI/ML,Engineer,10,"Scikit-learn, ML, Python",4.82,9,Busy,Pune,2025
+EMP360,Megha Krishna,emp360@company.com,QA,Manager,1,"Manual Testing, API Testing, TestNG",3.87,12,Available,Noida,2020
+EMP361,Pallavi Ramesh,emp361@company.com,Cloud,Senior Engineer,5,"GCP, Networking, Terraform",4.49,5,Busy,Pune,2015
+EMP362,Ishita Sachdeva,emp362@company.com,Cloud,Senior Engineer,4,"GCP, Azure, Networking",4.49,3,Available,Pune,2024
+EMP363,Utkarsh Nadig,emp363@company.com,Frontend,Engineer,1,"HTML, React, Angular",4.56,11,Available,Noida,2015
+EMP364,Benjamin Bajaj,emp364@company.com,QA,Associate,1,"Cypress, API Testing, TestNG",4.15,8,Busy,Bengaluru,2025
+EMP365,Ucchal Gara,emp365@company.com,QA,Senior Engineer,6,"Cypress, Manual Testing, Selenium",3.21,9,Available,Chennai,2021
+EMP366,Saumya Khurana,emp366@company.com,DevOps,Manager,4,"Kubernetes, Terraform, Docker",4.62,11,Available,Noida,2025
+EMP367,Vamakshi Garde,emp367@company.com,Data Engineering,Senior Engineer,4,"SQL, Azure Data Factory, PySpark",4.04,8,Available,Pune,2016
+EMP368,Wridesh Cheema,emp368@company.com,AI/ML,Engineer,8,"NLP, ML, Scikit-learn",4.46,7,Available,Noida,2019
+EMP369,Tanay Prabhu,emp369@company.com,Database,Engineer,11,"MongoDB, Oracle, PostgreSQL",4.77,10,On Leave,Hyderabad,2018
+EMP370,Chanakya Varty,emp370@company.com,Cloud,Engineer,3,"Terraform, AWS, Networking",4.3,11,Busy,Noida,2024
+EMP371,Wyatt Dhaliwal,emp371@company.com,Frontend,Engineer,8,"CSS, JavaScript, Angular",3.43,12,Available,Bengaluru,2017
+EMP372,Ekbal Kohli,emp372@company.com,AI/ML,Senior Engineer,9,"NLP, ML, Python",4.6,12,Busy,Pune,2024
+EMP373,Harish Bhardwaj,emp373@company.com,AI/ML,Lead,4,"Scikit-learn, NLP, ML",4.61,10,Available,Hyderabad,2020
+EMP374,Onveer Desai,emp374@company.com,Cloud,Associate,5,"GCP, Azure, Networking",4.58,10,On Leave,Noida,2016
+EMP375,Faras Sheth,emp375@company.com,DevOps,Associate,11,"Docker, Kubernetes, Terraform",3.09,5,Busy,Hyderabad,2017
+EMP376,Jackson Chandra,emp376@company.com,Support,Engineer,6,"Troubleshooting, Linux, ServiceNow",4.01,0,Available,Chennai,2019
+EMP377,Darsh Chaudhuri,emp377@company.com,Cloud,Associate,11,"Terraform, GCP, Networking",3.73,10,Busy,Bengaluru,2025
+EMP378,Ridhi Brahmbhatt,emp378@company.com,Security,Associate,7,"Pen Testing, Azure Security, SIEM",3.79,9,On Leave,Hyderabad,2018
+EMP379,Hredhaan Iyer,emp379@company.com,Backend,Engineer,11,"Spring Boot, Django, REST API",3.78,9,On Leave,Pune,2024
+EMP380,Kashish Gala,emp380@company.com,Security,Lead,11,"IAM, Pen Testing, SIEM",3.47,4,On Leave,Noida,2016
+EMP381,Edhitha Gulati,emp381@company.com,Data Engineering,Lead,5,"Snowflake, Azure Data Factory, SQL",3.77,0,On Leave,Chennai,2023
+EMP382,Rajata Iyer,emp382@company.com,Security,Manager,10,"SIEM, Pen Testing, Azure Security",3.53,7,On Leave,Noida,2023
+EMP383,Unni Mistry,emp383@company.com,Data Engineering,Senior Engineer,10,"PySpark, Databricks, Azure Data Factory",4.05,12,Busy,Hyderabad,2015
+EMP384,Aadi Padmanabhan,emp384@company.com,Support,Senior Engineer,8,"ITIL, Linux, Windows",4.6,12,On Leave,Bengaluru,2020
+EMP385,Advika Vora,emp385@company.com,Cloud,Senior Engineer,9,"Azure, AWS, Networking",4.3,3,Available,Hyderabad,2023
+EMP386,Henry Reddy,emp386@company.com,Data Engineering,Manager,11,"PySpark, SQL, Azure Data Factory",3.5,4,Busy,Pune,2021
+EMP387,Charvi Sankar,emp387@company.com,Frontend,Engineer,4,"HTML, JavaScript, CSS",4.36,1,On Leave,Chennai,2020
+EMP388,Chameli Edwin,emp388@company.com,Support,Engineer,11,"Linux, Troubleshooting, Windows",3.58,7,Busy,Hyderabad,2016
+EMP389,Lohit Chowdhury,emp389@company.com,Backend,Engineer,1,"Django, Java, Python",3.94,6,Busy,Bengaluru,2022
+EMP390,Keya Loyal,emp390@company.com,Data Engineering,Engineer,7,"SQL, Snowflake, Databricks",3.37,1,Available,Chennai,2015
+EMP391,Wridesh Basu,emp391@company.com,Database,Engineer,6,"PostgreSQL, Oracle, MongoDB",3.55,5,On Leave,Hyderabad,2017
+EMP392,Aachal Sankaran,emp392@company.com,Data Engineering,Lead,5,"Databricks, Snowflake, PySpark",3.01,4,On Leave,Hyderabad,2021
+EMP393,Zilmil Bhatt,emp393@company.com,Database,Senior Engineer,11,"Oracle, PostgreSQL, MongoDB",3.16,7,Busy,Bengaluru,2018
+EMP394,Hema Rao,emp394@company.com,Backend,Engineer,11,"Spring Boot, REST API, Java",4.83,2,On Leave,Chennai,2015
+EMP395,Aditya Manne,emp395@company.com,QA,Manager,5,"API Testing, Cypress, TestNG",4.67,4,Available,Hyderabad,2017
+EMP396,Chavvi Khurana,emp396@company.com,Backend,Senior Engineer,6,"Django, REST API, Spring Boot",3.02,11,On Leave,Pune,2018
+EMP397,Samesh Ghosh,emp397@company.com,Support,Manager,1,"ITIL, Linux, Troubleshooting",3.13,7,On Leave,Noida,2020
+EMP398,Abhiram Dara,emp398@company.com,DevOps,Engineer,1,"Linux, Kubernetes, Docker",4.86,6,Available,Pune,2024
+EMP399,Alka Singhal,emp399@company.com,Data Engineering,Engineer,4,"PySpark, Databricks, Azure Data Factory",4.79,6,Available,Pune,2020
+EMP400,Indali Butala,emp400@company.com,Database,Associate,1,"PostgreSQL, SQL Server, MongoDB",3.54,6,Busy,Bengaluru,2015
+EMP401,Ekiya Chawla,emp401@company.com,Backend,Associate,7,"REST API, Django, Spring Boot",3.97,4,Available,Hyderabad,2023
+EMP402,Nimrat Samra,emp402@company.com,Support,Engineer,3,"Linux, ServiceNow, Windows",3.91,1,Busy,Bengaluru,2018
+EMP403,Champak Parikh,emp403@company.com,QA,Lead,12,"Cypress, Manual Testing, Selenium",4.49,2,Busy,Bengaluru,2019
+EMP404,Aarnav Thakkar,emp404@company.com,Frontend,Engineer,12,"JavaScript, React, HTML",4.04,8,Busy,Bengaluru,2018
+EMP405,Radhika Vala,emp405@company.com,AI/ML,Associate,3,"Python, Scikit-learn, ML",3.19,1,On Leave,Hyderabad,2025
+EMP406,Rajeshri Dar,emp406@company.com,DevOps,Engineer,8,"Jenkins, Linux, Docker",4.62,12,Busy,Bengaluru,2022
+EMP407,Nakul Ram,emp407@company.com,QA,Engineer,7,"Manual Testing, Selenium, TestNG",4.12,11,Busy,Chennai,2023
+EMP408,Adya Contractor,emp408@company.com,Database,Senior Engineer,3,"MySQL, PostgreSQL, Oracle",4.29,1,Busy,Bengaluru,2019
+EMP409,Amara Panchal,emp409@company.com,Database,Engineer,5,"MySQL, Oracle, MongoDB",3.26,5,Busy,Bengaluru,2016
+EMP410,Xavier Chandran,emp410@company.com,Data Engineering,Senior Engineer,3,"PySpark, Snowflake, Azure Data Factory",3.11,5,Busy,Bengaluru,2025
+EMP411,Pooja Nayak,emp411@company.com,Frontend,Engineer,7,"HTML, CSS, JavaScript",4.15,10,Available,Noida,2023
+EMP412,Lajita Bhavsar,emp412@company.com,Frontend,Associate,11,"React, HTML, Angular",4.95,1,Busy,Pune,2025
+EMP413,Jacob Dara,emp413@company.com,DevOps,Associate,2,"Kubernetes, Terraform, Docker",3.38,9,Available,Bengaluru,2016
+EMP414,Vinaya Narain,emp414@company.com,Data Engineering,Lead,3,"SQL, Azure Data Factory, Snowflake",4.86,6,On Leave,Chennai,2018
+EMP415,Luke Baria,emp415@company.com,AI/ML,Manager,1,"TensorFlow, NLP, Scikit-learn",4.86,8,On Leave,Pune,2023
+EMP416,Varsha Lal,emp416@company.com,QA,Lead,1,"Manual Testing, Selenium, Cypress",3.42,5,On Leave,Pune,2015
+EMP417,Abha Dixit,emp417@company.com,Backend,Associate,3,"Django, Python, REST API",4.92,11,Busy,Noida,2023
+EMP418,Manya Mishra,emp418@company.com,Security,Associate,5,"Pen Testing, OWASP, Azure Security",4.64,5,Available,Pune,2022
+EMP419,Jeevika Sharma,emp419@company.com,QA,Lead,8,"TestNG, Cypress, Manual Testing",3.16,1,On Leave,Noida,2018
+EMP420,Vaishnavi Aurora,emp420@company.com,Backend,Engineer,1,"Django, Java, Spring Boot",4.76,9,On Leave,Pune,2025
+EMP421,Michael Tripathi,emp421@company.com,Database,Lead,11,"Oracle, SQL Server, MySQL",3.54,0,On Leave,Chennai,2020
+EMP422,Parth Jani,emp422@company.com,Database,Senior Engineer,8,"MySQL, Oracle, SQL Server",4.62,4,Busy,Pune,2022
+EMP423,Ethan Hegde,emp423@company.com,Cloud,Senior Engineer,12,"Terraform, AWS, Networking",4.01,2,Available,Noida,2018
+EMP424,Upasna Narasimhan,emp424@company.com,AI/ML,Manager,1,"ML, Python, Scikit-learn",4.94,4,Busy,Chennai,2020
+EMP425,Reva Oza,emp425@company.com,Cloud,Senior Engineer,8,"AWS, GCP, Networking",4.77,4,Busy,Hyderabad,2018
+EMP426,Jasmit Dyal,emp426@company.com,Security,Senior Engineer,5,"IAM, Azure Security, SIEM",3.43,8,On Leave,Chennai,2017
+EMP427,Bahadurjit Virk,emp427@company.com,AI/ML,Manager,12,"ML, TensorFlow, NLP",4.39,3,Busy,Hyderabad,2019
+EMP428,Gaurang Patla,emp428@company.com,Data Engineering,Lead,8,"Azure Data Factory, SQL, PySpark",3.66,7,On Leave,Noida,2023
+EMP429,Jeevika Deshpande,emp429@company.com,Support,Senior Engineer,7,"Windows, Troubleshooting, Linux",3.67,10,On Leave,Chennai,2025
+EMP430,Frado Merchant,emp430@company.com,DevOps,Senior Engineer,5,"Jenkins, Linux, Kubernetes",3.23,7,Busy,Pune,2020
+EMP431,Triveni Sankaran,emp431@company.com,Data Engineering,Associate,12,"PySpark, Azure Data Factory, SQL",3.22,5,Available,Bengaluru,2022
+EMP432,Gavin Varkey,emp432@company.com,Data Engineering,Lead,4,"Snowflake, Azure Data Factory, PySpark",3.97,4,Busy,Pune,2018
+EMP433,Vrishti Sathe,emp433@company.com,AI/ML,Manager,1,"ML, Scikit-learn, TensorFlow",3.93,0,Available,Chennai,2017
+EMP434,Nidra Dugar,emp434@company.com,Database,Associate,11,"Oracle, MongoDB, MySQL",3.29,6,On Leave,Hyderabad,2016
+EMP435,Victor Basu,emp435@company.com,Security,Manager,1,"Pen Testing, SIEM, Azure Security",4.23,1,Available,Bengaluru,2016
+EMP436,Lajita Banik,emp436@company.com,AI/ML,Senior Engineer,8,"NLP, ML, Python",4.85,9,Busy,Hyderabad,2022
+EMP437,Chandresh Jha,emp437@company.com,DevOps,Engineer,6,"Docker, Jenkins, Linux",4.18,0,Available,Bengaluru,2023
+EMP438,Vyanjana Rout,emp438@company.com,QA,Senior Engineer,3,"Cypress, TestNG, Selenium",3.51,4,Available,Hyderabad,2022
+EMP439,Triveni Sama,emp439@company.com,Database,Lead,1,"MongoDB, Oracle, PostgreSQL",4.6,12,Available,Chennai,2018
+EMP440,Faras Mand,emp440@company.com,Frontend,Senior Engineer,4,"JavaScript, CSS, Angular",4.53,6,On Leave,Noida,2025
+EMP441,Ayaan Karan,emp441@company.com,Data Engineering,Engineer,1,"SQL, Databricks, Azure Data Factory",3.46,1,On Leave,Noida,2019
+EMP442,Rajata Grover,emp442@company.com,QA,Lead,11,"Selenium, TestNG, Manual Testing",3.77,1,Busy,Noida,2019
+EMP443,Yochana Gulati,emp443@company.com,DevOps,Lead,7,"Terraform, Docker, Kubernetes",4.51,9,Available,Noida,2023
+EMP444,Nitara Ratta,emp444@company.com,QA,Engineer,3,"TestNG, Selenium, Cypress",4.39,10,Available,Hyderabad,2015
+EMP445,Qabil Vasa,emp445@company.com,Data Engineering,Senior Engineer,10,"PySpark, Snowflake, SQL",4.07,0,On Leave,Chennai,2019
+EMP446,Gaurang Cherian,emp446@company.com,Data Engineering,Lead,12,"Azure Data Factory, PySpark, Snowflake",3.62,0,On Leave,Chennai,2023
+EMP447,Udarsh Acharya,emp447@company.com,Security,Manager,12,"SIEM, IAM, OWASP",4.81,12,On Leave,Bengaluru,2022
+EMP448,Nisha Nadig,emp448@company.com,Database,Manager,11,"PostgreSQL, MySQL, MongoDB",4.04,9,On Leave,Noida,2020
+EMP449,Tara Varghese,emp449@company.com,Security,Engineer,5,"SIEM, OWASP, IAM",3.21,0,Available,Chennai,2016
+EMP450,Dev Warrior,emp450@company.com,Support,Engineer,9,"ServiceNow, ITIL, Linux",4.63,0,On Leave,Chennai,2018
+EMP451,Edhitha Sule,emp451@company.com,Backend,Engineer,8,"REST API, Java, Spring Boot",4.66,7,Busy,Pune,2023
+EMP452,Siya Sandal,emp452@company.com,Security,Senior Engineer,5,"Pen Testing, OWASP, Azure Security",3.36,2,On Leave,Noida,2020
+EMP453,Saanvi Keer,emp453@company.com,Frontend,Senior Engineer,8,"HTML, JavaScript, React",4.04,0,On Leave,Pune,2019
+EMP454,Arya Dua,emp454@company.com,Support,Engineer,10,"Linux, ITIL, Windows",4.48,10,Available,Bengaluru,2016
+EMP455,Kiaan Balasubramanian,emp455@company.com,Database,Manager,1,"SQL Server, MongoDB, PostgreSQL",3.14,11,On Leave,Chennai,2024
+EMP456,Yagnesh Baria,emp456@company.com,Database,Senior Engineer,10,"SQL Server, Oracle, PostgreSQL",4.54,12,Busy,Hyderabad,2019
+EMP457,Max Chana,emp457@company.com,Security,Senior Engineer,10,"OWASP, SIEM, IAM",3.11,1,On Leave,Hyderabad,2025
+EMP458,Hritik Sethi,emp458@company.com,Cloud,Manager,5,"Terraform, Azure, Networking",4.51,0,Busy,Noida,2022
+EMP459,Banjeet Suresh,emp459@company.com,Database,Senior Engineer,2,"MongoDB, PostgreSQL, MySQL",4.44,4,Available,Noida,2020
+EMP460,Girindra Bhardwaj,emp460@company.com,AI/ML,Engineer,9,"NLP, TensorFlow, Scikit-learn",4.44,7,Busy,Hyderabad,2020
+EMP461,Yatan Rajagopalan,emp461@company.com,Security,Engineer,6,"OWASP, Azure Security, IAM",4.02,3,Busy,Hyderabad,2016
+EMP462,Faqid Salvi,emp462@company.com,Support,Manager,8,"Windows, Troubleshooting, Linux",4.44,0,On Leave,Chennai,2018
+EMP463,Samarth Sood,emp463@company.com,Cloud,Associate,12,"GCP, Terraform, Networking",4.92,3,Available,Hyderabad,2018
+EMP464,Xiti Parekh,emp464@company.com,DevOps,Lead,11,"Terraform, Docker, Jenkins",4.26,11,Available,Hyderabad,2021
+EMP465,Yoshita Sant,emp465@company.com,Security,Lead,7,"SIEM, Pen Testing, OWASP",4.87,8,On Leave,Noida,2021
+EMP466,Warhi Natarajan,emp466@company.com,DevOps,Associate,11,"Terraform, Kubernetes, Docker",4.71,7,Busy,Bengaluru,2015
+EMP467,Indali Bhatti,emp467@company.com,QA,Lead,12,"Cypress, TestNG, Selenium",4.54,7,On Leave,Noida,2023
+EMP468,Liam Minhas,emp468@company.com,AI/ML,Manager,3,"ML, TensorFlow, Scikit-learn",3.38,4,On Leave,Bengaluru,2019
+EMP469,Faras Mukhopadhyay,emp469@company.com,Backend,Manager,6,"Python, Spring Boot, REST API",4.37,6,Available,Chennai,2021
+EMP470,Ethan Sarkar,emp470@company.com,Backend,Engineer,4,"REST API, Python, Django",4.87,10,Busy,Hyderabad,2019
+EMP471,Sudiksha Rai,emp471@company.com,Database,Manager,6,"MySQL, PostgreSQL, SQL Server",4.93,11,Busy,Chennai,2015
+EMP472,Ojasvi Suresh,emp472@company.com,Security,Associate,12,"Azure Security, SIEM, OWASP",3.39,2,On Leave,Pune,2020
+EMP473,Naksh Bhardwaj,emp473@company.com,AI/ML,Lead,8,"Scikit-learn, Python, ML",3.1,5,Available,Bengaluru,2015
+EMP474,Wahab Salvi,emp474@company.com,Backend,Manager,4,"Django, Spring Boot, REST API",3.9,10,Available,Chennai,2019
+EMP475,Meghana Krishnan,emp475@company.com,AI/ML,Lead,3,"ML, Python, Scikit-learn",3.36,0,Busy,Hyderabad,2020
+EMP476,Siya Mohanty,emp476@company.com,Database,Senior Engineer,11,"PostgreSQL, SQL Server, Oracle",4.62,0,Available,Chennai,2024
+EMP477,Niharika Bava,emp477@company.com,QA,Associate,3,"API Testing, Cypress, Manual Testing",3.77,12,Available,Chennai,2015
+EMP478,Chakradev Radhakrishnan,emp478@company.com,Data Engineering,Manager,8,"Snowflake, Azure Data Factory, Databricks",4.75,0,Busy,Noida,2020
+EMP479,Gabriel Bakshi,emp479@company.com,Frontend,Engineer,9,"CSS, JavaScript, HTML",4.49,2,Busy,Chennai,2019
+EMP480,Rachana Butala,emp480@company.com,Security,Manager,4,"SIEM, IAM, OWASP",4.45,6,Busy,Hyderabad,2017
+EMP481,Mahika Bahri,emp481@company.com,Security,Engineer,1,"Pen Testing, Azure Security, OWASP",4.9,8,On Leave,Chennai,2016
+EMP482,Yoshita Ganesan,emp482@company.com,Data Engineering,Lead,4,"PySpark, Azure Data Factory, Databricks",4.35,7,Busy,Noida,2016
+EMP483,Maanav Nagar,emp483@company.com,DevOps,Associate,10,"Docker, Terraform, Kubernetes",4.81,5,Available,Bengaluru,2024
+EMP484,Indrajit Subramanian,emp484@company.com,DevOps,Senior Engineer,7,"Docker, Jenkins, Linux",3.29,6,Available,Noida,2025
+EMP485,Mohini Pillai,emp485@company.com,Frontend,Senior Engineer,7,"CSS, JavaScript, React",4.78,11,On Leave,Pune,2020
+EMP486,Tanvi Shah,emp486@company.com,AI/ML,Associate,12,"Python, ML, NLP",4.0,5,Busy,Chennai,2018
+EMP487,Yatin Wagle,emp487@company.com,Data Engineering,Associate,12,"PySpark, Azure Data Factory, Snowflake",4.45,6,On Leave,Noida,2021
+EMP488,Sachi Dewan,emp488@company.com,QA,Manager,5,"TestNG, API Testing, Selenium",3.44,10,Available,Chennai,2022
+EMP489,Upasna Sehgal,emp489@company.com,Backend,Lead,1,"Spring Boot, Django, Python",4.56,7,On Leave,Noida,2019
+EMP490,Chanchal Morar,emp490@company.com,Cloud,Associate,6,"Azure, GCP, Networking",4.05,0,Busy,Pune,2017
+EMP491,Anita Tara,emp491@company.com,Database,Associate,6,"PostgreSQL, MongoDB, SQL Server",4.67,4,On Leave,Hyderabad,2018
+EMP492,Nitesh Madan,emp492@company.com,DevOps,Associate,8,"Linux, Docker, Terraform",3.34,9,Available,Pune,2017
+EMP493,Omya Nagy,emp493@company.com,Frontend,Engineer,6,"HTML, React, JavaScript",4.25,11,Available,Hyderabad,2019
+EMP494,Darika Sachdeva,emp494@company.com,Cloud,Senior Engineer,4,"Azure, Terraform, GCP",4.81,8,Available,Bengaluru,2021
+EMP495,Saanvi Choudhry,emp495@company.com,Data Engineering,Engineer,4,"Snowflake, Databricks, Azure Data Factory",4.28,12,Busy,Chennai,2019
+EMP496,Hemani Kant,emp496@company.com,AI/ML,Engineer,1,"TensorFlow, Python, Scikit-learn",3.76,4,Busy,Hyderabad,2017
+EMP497,Tamanna Chopra,emp497@company.com,Support,Manager,2,"Linux, ServiceNow, Windows",4.05,10,Busy,Chennai,2019
+EMP498,Ronith Trivedi,emp498@company.com,Cloud,Associate,6,"Networking, AWS, Azure",4.09,12,Busy,Bengaluru,2020
+EMP499,Jonathan Mammen,emp499@company.com,Backend,Engineer,9,"REST API, Spring Boot, Python",4.86,5,Available,Noida,2020
+EMP500,Reyansh Parekh,emp500@company.com,Data Engineering,Associate,9,"Snowflake, PySpark, SQL",4.17,2,On Leave,Chennai,2024

@@ -1,0 +1,101 @@
+Sprint_ID,Sprint_Name,Project_ID,Start_Date,End_Date,Sprint_Goal,Status,Scrum_Master,Team_Size,Planned_Story_Points,Completed_Story_Points,Velocity,Bug_Count,Feature_Count,Completion_Percentage,Retrospective_Summary
+SPR001,Sprint 1,PRJ016,2025-11-15,2025-11-28,Fix critical production bugs,Cancelled,EMP178,14,91,78,39.0,18,14,85.7,Scope increased during sprint execution.
+SPR002,Sprint 2,PRJ034,2025-11-29,2025-12-12,Complete data pipeline,Completed,EMP496,13,146,86,43.0,3,25,58.9,Excellent collaboration across teams.
+SPR003,Sprint 3,PRJ080,2025-12-13,2025-12-26,Fix critical production bugs,Planned,EMP472,11,85,78,39.0,3,39,91.8,Additional testing required before release.
+SPR004,Sprint 4,PRJ013,2025-12-27,2026-01-09,Complete data pipeline,Planned,EMP051,18,179,98,49.0,24,30,54.7,Additional testing required before release.
+SPR005,Sprint 5,PRJ074,2026-01-10,2026-01-23,Improve dashboard performance,Cancelled,EMP120,8,248,162,81.0,25,18,65.3,Additional testing required before release.
+SPR006,Sprint 6,PRJ018,2026-01-24,2026-02-06,Enhance security features,Planned,EMP281,19,129,81,40.5,0,34,62.8,Additional testing required before release.
+SPR007,Sprint 7,PRJ067,2026-02-07,2026-02-20,Enhance security features,Cancelled,EMP189,18,232,131,65.5,17,16,56.5,Sprint completed successfully.
+SPR008,Sprint 8,PRJ004,2026-02-21,2026-03-06,Enhance security features,Cancelled,EMP232,8,142,82,41.0,21,21,57.7,Minor delays due to dependency issues.
+SPR009,Sprint 9,PRJ058,2026-03-07,2026-03-20,Complete data pipeline,Completed,EMP377,10,201,136,68.0,14,33,67.7,Excellent collaboration across teams.
+SPR010,Sprint 10,PRJ010,2026-03-21,2026-04-03,Fix critical production bugs,Completed,EMP352,18,158,84,42.0,3,34,53.2,Sprint completed successfully.
+SPR011,Sprint 11,PRJ058,2026-04-04,2026-04-17,Complete authentication module,Active,EMP224,13,199,163,81.5,2,10,81.9,Minor delays due to dependency issues.
+SPR012,Sprint 12,PRJ037,2026-04-18,2026-05-01,Enhance security features,Planned,EMP104,20,123,88,44.0,21,9,71.5,Additional testing required before release.
+SPR013,Sprint 13,PRJ082,2026-05-02,2026-05-15,Improve dashboard performance,Planned,EMP450,17,246,244,122.0,19,23,99.2,Sprint completed successfully.
+SPR014,Sprint 14,PRJ076,2026-05-16,2026-05-29,Deploy cloud infrastructure,Completed,EMP108,13,225,181,90.5,16,25,80.4,Sprint completed successfully.
+SPR015,Sprint 15,PRJ084,2026-05-30,2026-06-12,Fix critical production bugs,Planned,EMP101,14,86,60,30.0,16,34,69.8,Scope increased during sprint execution.
+SPR016,Sprint 16,PRJ066,2026-06-13,2026-06-26,Implement reporting module,Completed,EMP329,14,114,77,38.5,20,37,67.5,Scope increased during sprint execution.
+SPR017,Sprint 17,PRJ008,2026-06-27,2026-07-10,Fix critical production bugs,Active,EMP021,19,189,155,77.5,3,37,82.0,Scope increased during sprint execution.
+SPR018,Sprint 18,PRJ092,2026-07-11,2026-07-24,Enhance security features,Cancelled,EMP352,15,105,68,34.0,10,28,64.8,Minor delays due to dependency issues.
+SPR019,Sprint 19,PRJ093,2026-07-25,2026-08-07,Release payment enhancements,Cancelled,EMP212,6,193,138,69.0,11,10,71.5,Excellent collaboration across teams.
+SPR020,Sprint 20,PRJ059,2026-08-08,2026-08-21,Deploy cloud infrastructure,Planned,EMP152,13,191,141,70.5,8,10,73.8,Minor delays due to dependency issues.
+SPR021,Sprint 21,PRJ022,2026-08-22,2026-09-04,Improve dashboard performance,Cancelled,EMP340,8,180,94,47.0,22,37,52.2,Sprint completed successfully.
+SPR022,Sprint 22,PRJ056,2026-09-05,2026-09-18,Complete authentication module,Active,EMP314,15,89,81,40.5,7,39,91.0,Scope increased during sprint execution.
+SPR023,Sprint 23,PRJ025,2026-09-19,2026-10-02,Improve dashboard performance,Active,EMP149,8,88,61,30.5,18,33,69.3,Minor delays due to dependency issues.
+SPR024,Sprint 24,PRJ058,2026-10-03,2026-10-16,Implement reporting module,Cancelled,EMP297,12,98,93,46.5,11,11,94.9,Minor delays due to dependency issues.
+SPR025,Sprint 25,PRJ045,2026-10-17,2026-10-30,Enhance security features,Active,EMP285,19,146,90,45.0,9,8,61.6,Scope increased during sprint execution.
+SPR026,Sprint 26,PRJ025,2026-10-31,2026-11-13,Release payment enhancements,Cancelled,EMP065,17,192,111,55.5,16,22,57.8,Additional testing required before release.
+SPR027,Sprint 27,PRJ007,2026-11-14,2026-11-27,Complete data pipeline,Planned,EMP296,12,169,141,70.5,21,24,83.4,Scope increased during sprint execution.
+SPR028,Sprint 28,PRJ052,2026-11-28,2026-12-11,Complete data pipeline,Active,EMP353,12,142,84,42.0,4,34,59.2,Minor delays due to dependency issues.
+SPR029,Sprint 29,PRJ012,2026-12-12,2026-12-25,Implement reporting module,Cancelled,EMP225,7,235,178,89.0,18,5,75.7,Minor delays due to dependency issues.
+SPR030,Sprint 30,PRJ032,2026-12-26,2027-01-08,Enhance security features,Active,EMP380,17,101,67,33.5,8,34,66.3,Additional testing required before release.
+SPR031,Sprint 31,PRJ013,2027-01-09,2027-01-22,Improve dashboard performance,Cancelled,EMP414,5,85,50,25.0,8,36,58.8,Scope increased during sprint execution.
+SPR032,Sprint 32,PRJ040,2027-01-23,2027-02-05,Improve dashboard performance,Planned,EMP279,14,165,113,56.5,0,12,68.5,Sprint completed successfully.
+SPR033,Sprint 33,PRJ100,2027-02-06,2027-02-19,Release payment enhancements,Cancelled,EMP033,6,92,88,44.0,2,29,95.7,Additional testing required before release.
+SPR034,Sprint 34,PRJ044,2027-02-20,2027-03-05,Implement reporting module,Active,EMP062,6,159,126,63.0,1,28,79.2,Minor delays due to dependency issues.
+SPR035,Sprint 35,PRJ044,2027-03-06,2027-03-19,Enhance security features,Completed,EMP130,19,109,94,47.0,3,39,86.2,Scope increased during sprint execution.
+SPR036,Sprint 36,PRJ077,2027-03-20,2027-04-02,Improve dashboard performance,Completed,EMP387,17,133,70,35.0,10,6,52.6,Minor delays due to dependency issues.
+SPR037,Sprint 37,PRJ010,2027-04-03,2027-04-16,Complete authentication module,Cancelled,EMP117,10,217,170,85.0,5,15,78.3,Additional testing required before release.
+SPR038,Sprint 38,PRJ069,2027-04-17,2027-04-30,Release payment enhancements,Active,EMP129,8,123,106,53.0,5,36,86.2,Scope increased during sprint execution.
+SPR039,Sprint 39,PRJ027,2027-05-01,2027-05-14,Release payment enhancements,Cancelled,EMP178,11,209,157,78.5,10,38,75.1,Minor delays due to dependency issues.
+SPR040,Sprint 40,PRJ076,2027-05-15,2027-05-28,Fix critical production bugs,Planned,EMP426,6,241,204,102.0,22,21,84.6,Excellent collaboration across teams.
+SPR041,Sprint 41,PRJ024,2027-05-29,2027-06-11,Release payment enhancements,Cancelled,EMP257,5,188,153,76.5,18,33,81.4,Scope increased during sprint execution.
+SPR042,Sprint 42,PRJ086,2027-06-12,2027-06-25,Implement reporting module,Cancelled,EMP466,17,145,138,69.0,24,25,95.2,Sprint completed successfully.
+SPR043,Sprint 43,PRJ070,2027-06-26,2027-07-09,Complete data pipeline,Active,EMP025,17,203,117,58.5,19,18,57.6,Minor delays due to dependency issues.
+SPR044,Sprint 44,PRJ011,2027-07-10,2027-07-23,Deploy cloud infrastructure,Active,EMP246,17,104,99,49.5,11,11,95.2,Scope increased during sprint execution.
+SPR045,Sprint 45,PRJ006,2027-07-24,2027-08-06,Improve dashboard performance,Planned,EMP480,20,231,176,88.0,5,26,76.2,Additional testing required before release.
+SPR046,Sprint 46,PRJ036,2027-08-07,2027-08-20,Improve dashboard performance,Completed,EMP426,15,192,115,57.5,9,38,59.9,Additional testing required before release.
+SPR047,Sprint 47,PRJ079,2027-08-21,2027-09-03,Complete data pipeline,Cancelled,EMP343,5,178,126,63.0,25,19,70.8,Scope increased during sprint execution.
+SPR048,Sprint 48,PRJ022,2027-09-04,2027-09-17,Fix critical production bugs,Planned,EMP393,9,131,111,55.5,21,7,84.7,Excellent collaboration across teams.
+SPR049,Sprint 49,PRJ068,2027-09-18,2027-10-01,Deploy cloud infrastructure,Cancelled,EMP328,16,99,71,35.5,17,30,71.7,Additional testing required before release.
+SPR050,Sprint 50,PRJ097,2027-10-02,2027-10-15,Release payment enhancements,Planned,EMP389,16,196,159,79.5,25,28,81.1,Minor delays due to dependency issues.
+SPR051,Sprint 51,PRJ020,2027-10-16,2027-10-29,Deploy cloud infrastructure,Completed,EMP265,17,130,101,50.5,15,26,77.7,Minor delays due to dependency issues.
+SPR052,Sprint 52,PRJ075,2027-10-30,2027-11-12,Complete authentication module,Cancelled,EMP237,13,163,126,63.0,20,37,77.3,Sprint completed successfully.
+SPR053,Sprint 53,PRJ042,2027-11-13,2027-11-26,Enhance security features,Planned,EMP268,9,193,106,53.0,19,18,54.9,Excellent collaboration across teams.
+SPR054,Sprint 54,PRJ080,2027-11-27,2027-12-10,Complete data pipeline,Cancelled,EMP422,13,114,92,46.0,21,25,80.7,Minor delays due to dependency issues.
+SPR055,Sprint 55,PRJ090,2027-12-11,2027-12-24,Fix critical production bugs,Cancelled,EMP417,5,221,220,110.0,5,34,99.5,Scope increased during sprint execution.
+SPR056,Sprint 56,PRJ036,2027-12-25,2028-01-07,Implement reporting module,Planned,EMP190,18,133,106,53.0,4,25,79.7,Scope increased during sprint execution.
+SPR057,Sprint 57,PRJ087,2028-01-08,2028-01-21,Improve dashboard performance,Planned,EMP227,6,114,113,56.5,8,27,99.1,Excellent collaboration across teams.
+SPR058,Sprint 58,PRJ091,2028-01-22,2028-02-04,Implement reporting module,Completed,EMP338,9,229,152,76.0,17,9,66.4,Excellent collaboration across teams.
+SPR059,Sprint 59,PRJ047,2028-02-05,2028-02-18,Complete authentication module,Cancelled,EMP154,14,238,183,91.5,14,16,76.9,Additional testing required before release.
+SPR060,Sprint 60,PRJ044,2028-02-19,2028-03-03,Enhance security features,Completed,EMP030,12,197,127,63.5,11,12,64.5,Excellent collaboration across teams.
+SPR061,Sprint 61,PRJ088,2028-03-04,2028-03-17,Fix critical production bugs,Cancelled,EMP236,9,195,105,52.5,3,21,53.8,Additional testing required before release.
+SPR062,Sprint 62,PRJ098,2028-03-18,2028-03-31,Complete data pipeline,Active,EMP388,8,182,178,89.0,3,26,97.8,Sprint completed successfully.
+SPR063,Sprint 63,PRJ099,2028-04-01,2028-04-14,Improve dashboard performance,Active,EMP317,17,133,109,54.5,17,36,82.0,Excellent collaboration across teams.
+SPR064,Sprint 64,PRJ087,2028-04-15,2028-04-28,Improve dashboard performance,Cancelled,EMP242,20,166,113,56.5,20,5,68.1,Scope increased during sprint execution.
+SPR065,Sprint 65,PRJ084,2028-04-29,2028-05-12,Improve dashboard performance,Cancelled,EMP321,18,108,93,46.5,16,7,86.1,Scope increased during sprint execution.
+SPR066,Sprint 66,PRJ011,2028-05-13,2028-05-26,Fix critical production bugs,Completed,EMP281,15,103,83,41.5,22,27,80.6,Minor delays due to dependency issues.
+SPR067,Sprint 67,PRJ025,2028-05-27,2028-06-09,Improve dashboard performance,Cancelled,EMP277,19,190,125,62.5,5,35,65.8,Additional testing required before release.
+SPR068,Sprint 68,PRJ061,2028-06-10,2028-06-23,Enhance security features,Active,EMP384,19,99,77,38.5,3,6,77.8,Additional testing required before release.
+SPR069,Sprint 69,PRJ020,2028-06-24,2028-07-07,Deploy cloud infrastructure,Completed,EMP184,5,142,138,69.0,14,24,97.2,Minor delays due to dependency issues.
+SPR070,Sprint 70,PRJ041,2028-07-08,2028-07-21,Enhance security features,Active,EMP467,14,203,177,88.5,3,19,87.2,Additional testing required before release.
+SPR071,Sprint 71,PRJ072,2028-07-22,2028-08-04,Complete data pipeline,Completed,EMP184,15,207,170,85.0,18,13,82.1,Scope increased during sprint execution.
+SPR072,Sprint 72,PRJ062,2028-08-05,2028-08-18,Fix critical production bugs,Cancelled,EMP188,5,111,94,47.0,5,17,84.7,Sprint completed successfully.
+SPR073,Sprint 73,PRJ054,2028-08-19,2028-09-01,Complete authentication module,Completed,EMP095,7,180,140,70.0,21,8,77.8,Excellent collaboration across teams.
+SPR074,Sprint 74,PRJ052,2028-09-02,2028-09-15,Deploy cloud infrastructure,Planned,EMP153,11,136,130,65.0,10,10,95.6,Sprint completed successfully.
+SPR075,Sprint 75,PRJ048,2028-09-16,2028-09-29,Release payment enhancements,Planned,EMP428,15,193,130,65.0,23,24,67.4,Minor delays due to dependency issues.
+SPR076,Sprint 76,PRJ096,2028-09-30,2028-10-13,Fix critical production bugs,Completed,EMP382,8,102,67,33.5,17,12,65.7,Scope increased during sprint execution.
+SPR077,Sprint 77,PRJ072,2028-10-14,2028-10-27,Release payment enhancements,Cancelled,EMP003,20,207,140,70.0,0,5,67.6,Scope increased during sprint execution.
+SPR078,Sprint 78,PRJ026,2028-10-28,2028-11-10,Implement reporting module,Cancelled,EMP498,20,152,90,45.0,22,11,59.2,Sprint completed successfully.
+SPR079,Sprint 79,PRJ027,2028-11-11,2028-11-24,Improve dashboard performance,Completed,EMP146,19,128,65,32.5,11,40,50.8,Excellent collaboration across teams.
+SPR080,Sprint 80,PRJ027,2028-11-25,2028-12-08,Release payment enhancements,Cancelled,EMP238,18,170,119,59.5,22,14,70.0,Sprint completed successfully.
+SPR081,Sprint 81,PRJ081,2028-12-09,2028-12-22,Fix critical production bugs,Cancelled,EMP241,8,133,118,59.0,19,28,88.7,Sprint completed successfully.
+SPR082,Sprint 82,PRJ075,2028-12-23,2029-01-05,Improve dashboard performance,Completed,EMP091,8,185,141,70.5,10,14,76.2,Scope increased during sprint execution.
+SPR083,Sprint 83,PRJ017,2029-01-06,2029-01-19,Improve dashboard performance,Active,EMP101,17,152,134,67.0,15,26,88.2,Additional testing required before release.
+SPR084,Sprint 84,PRJ088,2029-01-20,2029-02-02,Deploy cloud infrastructure,Active,EMP344,12,146,112,56.0,20,30,76.7,Minor delays due to dependency issues.
+SPR085,Sprint 85,PRJ043,2029-02-03,2029-02-16,Improve dashboard performance,Completed,EMP428,16,245,150,75.0,11,30,61.2,Scope increased during sprint execution.
+SPR086,Sprint 86,PRJ076,2029-02-17,2029-03-02,Release payment enhancements,Completed,EMP069,14,184,116,58.0,24,25,63.0,Excellent collaboration across teams.
+SPR087,Sprint 87,PRJ030,2029-03-03,2029-03-16,Release payment enhancements,Active,EMP128,18,123,113,56.5,22,32,91.9,Scope increased during sprint execution.
+SPR088,Sprint 88,PRJ005,2029-03-17,2029-03-30,Complete authentication module,Completed,EMP444,16,132,107,53.5,9,23,81.1,Minor delays due to dependency issues.
+SPR089,Sprint 89,PRJ095,2029-03-31,2029-04-13,Improve dashboard performance,Completed,EMP001,19,207,124,62.0,7,26,59.9,Minor delays due to dependency issues.
+SPR090,Sprint 90,PRJ038,2029-04-14,2029-04-27,Complete data pipeline,Completed,EMP348,9,228,198,99.0,12,31,86.8,Excellent collaboration across teams.
+SPR091,Sprint 91,PRJ070,2029-04-28,2029-05-11,Implement reporting module,Planned,EMP044,7,80,57,28.5,6,8,71.2,Scope increased during sprint execution.
+SPR092,Sprint 92,PRJ069,2029-05-12,2029-05-25,Deploy cloud infrastructure,Cancelled,EMP325,10,218,167,83.5,6,27,76.6,Minor delays due to dependency issues.
+SPR093,Sprint 93,PRJ053,2029-05-26,2029-06-08,Release payment enhancements,Completed,EMP263,7,124,79,39.5,7,9,63.7,Sprint completed successfully.
+SPR094,Sprint 94,PRJ080,2029-06-09,2029-06-22,Fix critical production bugs,Cancelled,EMP475,10,203,162,81.0,14,16,79.8,Additional testing required before release.
+SPR095,Sprint 95,PRJ083,2029-06-23,2029-07-06,Complete data pipeline,Completed,EMP276,11,210,125,62.5,25,32,59.5,Additional testing required before release.
+SPR096,Sprint 96,PRJ100,2029-07-07,2029-07-20,Fix critical production bugs,Active,EMP158,19,136,91,45.5,0,22,66.9,Scope increased during sprint execution.
+SPR097,Sprint 97,PRJ036,2029-07-21,2029-08-03,Release payment enhancements,Active,EMP150,18,114,87,43.5,16,27,76.3,Additional testing required before release.
+SPR098,Sprint 98,PRJ070,2029-08-04,2029-08-17,Complete data pipeline,Active,EMP459,12,213,135,67.5,16,38,63.4,Scope increased during sprint execution.
+SPR099,Sprint 99,PRJ032,2029-08-18,2029-08-31,Improve dashboard performance,Active,EMP110,14,181,113,56.5,24,13,62.4,Excellent collaboration across teams.
+SPR100,Sprint 100,PRJ088,2029-09-01,2029-09-14,Implement reporting module,Planned,EMP271,15,117,80,40.0,14,33,68.4,Minor delays due to dependency issues.
