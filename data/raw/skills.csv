@@ -1,0 +1,2204 @@
+Employee_ID,Department,Skill,Skill_Level,Experience_Years,Certification
+EMP001,Security,Encryption,Expert,11,Yes
+EMP001,Security,Azure Security,Beginner,8,No
+EMP001,Security,Firewall,Intermediate,2,Yes
+EMP001,Security,IAM,Expert,8,Yes
+EMP001,Security,SOC,Beginner,9,Yes
+EMP001,Security,SIEM,Beginner,1,Yes
+EMP002,DevOps,Ansible,Intermediate,9,Yes
+EMP002,DevOps,Jenkins,Advanced,8,Yes
+EMP002,DevOps,Terraform,Beginner,8,No
+EMP003,Cloud,Networking,Advanced,1,Yes
+EMP003,Cloud,GCP,Beginner,7,Yes
+EMP003,Cloud,AWS,Advanced,7,Yes
+EMP004,Backend,Django,Expert,7,No
+EMP004,Backend,Java,Expert,2,Yes
+EMP004,Backend,Python,Advanced,6,Yes
+EMP005,Data Engineering,PySpark,Beginner,1,Yes
+EMP005,Data Engineering,Databricks,Expert,8,Yes
+EMP005,Data Engineering,Airflow,Intermediate,8,Yes
+EMP005,Data Engineering,SQL,Intermediate,7,No
+EMP005,Data Engineering,Snowflake,Beginner,7,No
+EMP006,DevOps,Linux,Advanced,1,Yes
+EMP006,DevOps,Azure DevOps,Intermediate,7,Yes
+EMP006,DevOps,Ansible,Beginner,3,Yes
+EMP007,Security,OWASP,Expert,2,Yes
+EMP007,Security,Firewall,Beginner,4,Yes
+EMP007,Security,Azure Security,Beginner,10,No
+EMP007,Security,SIEM,Advanced,10,No
+EMP007,Security,SOC,Intermediate,10,No
+EMP008,Support,Office365,Advanced,4,Yes
+EMP008,Support,ServiceNow,Intermediate,3,Yes
+EMP008,Support,Active Directory,Expert,8,Yes
+EMP008,Support,Networking,Expert,1,Yes
+EMP009,Frontend,HTML,Expert,5,No
+EMP009,Frontend,Angular,Expert,5,Yes
+EMP009,Frontend,CSS,Beginner,3,Yes
+EMP010,Security,Azure Security,Beginner,2,No
+EMP010,Security,IAM,Expert,8,Yes
+EMP010,Security,Firewall,Beginner,1,Yes
+EMP011,Data Engineering,Azure Data Factory,Advanced,11,Yes
+EMP011,Data Engineering,PySpark,Beginner,1,No
+EMP011,Data Engineering,Airflow,Advanced,12,No
+EMP011,Data Engineering,SQL,Beginner,1,Yes
+EMP011,Data Engineering,Databricks,Expert,2,No
+EMP012,AI/ML,TensorFlow,Advanced,12,Yes
+EMP012,AI/ML,Python,Intermediate,6,No
+EMP012,AI/ML,Scikit-learn,Beginner,11,No
+EMP012,AI/ML,NLP,Beginner,7,Yes
+EMP013,Security,Firewall,Beginner,10,Yes
+EMP013,Security,Pen Testing,Beginner,2,Yes
+EMP013,Security,Azure Security,Advanced,7,No
+EMP014,Cloud,S3,Beginner,8,Yes
+EMP014,Cloud,Terraform,Intermediate,12,Yes
+EMP014,Cloud,Networking,Expert,10,No
+EMP014,Cloud,Azure,Advanced,1,No
+EMP014,Cloud,Azure Storage,Advanced,3,Yes
+EMP014,Cloud,AWS,Intermediate,6,No
+EMP015,Security,SOC,Intermediate,11,No
+EMP015,Security,Pen Testing,Intermediate,4,No
+EMP015,Security,Encryption,Intermediate,10,No
+EMP015,Security,SIEM,Intermediate,3,Yes
+EMP016,Security,OWASP,Beginner,8,No
+EMP016,Security,SOC,Advanced,4,No
+EMP016,Security,Encryption,Expert,11,No
+EMP016,Security,SIEM,Advanced,12,No
+EMP016,Security,IAM,Advanced,2,Yes
+EMP017,Data Engineering,Snowflake,Advanced,11,Yes
+EMP017,Data Engineering,Airflow,Intermediate,7,No
+EMP017,Data Engineering,Azure Data Factory,Intermediate,1,No
+EMP018,DevOps,Docker,Beginner,11,No
+EMP018,DevOps,Git,Beginner,11,Yes
+EMP018,DevOps,Ansible,Intermediate,8,No
+EMP018,DevOps,Terraform,Intermediate,12,Yes
+EMP019,Security,SIEM,Advanced,9,Yes
+EMP019,Security,IAM,Expert,12,Yes
+EMP019,Security,Encryption,Beginner,7,No
+EMP020,QA,Manual Testing,Advanced,8,No
+EMP020,QA,Cypress,Intermediate,2,Yes
+EMP020,QA,Postman,Intermediate,4,No
+EMP020,QA,Selenium,Beginner,5,No
+EMP020,QA,JUnit,Advanced,12,Yes
+EMP020,QA,Playwright,Advanced,9,Yes
+EMP021,Backend,REST API,Intermediate,2,No
+EMP021,Backend,Flask,Beginner,3,No
+EMP021,Backend,Django,Intermediate,8,Yes
+EMP021,Backend,Spring Boot,Expert,8,Yes
+EMP021,Backend,Microservices,Intermediate,8,No
+EMP021,Backend,Python,Intermediate,9,No
+EMP022,Data Engineering,Databricks,Expert,4,No
+EMP022,Data Engineering,Azure Data Factory,Beginner,9,Yes
+EMP022,Data Engineering,SQL,Expert,1,Yes
+EMP022,Data Engineering,Snowflake,Expert,9,Yes
+EMP022,Data Engineering,Kafka,Expert,2,Yes
+EMP022,Data Engineering,Airflow,Beginner,9,No
+EMP023,Cloud,Networking,Expert,8,No
+EMP023,Cloud,AWS,Beginner,4,No
+EMP023,Cloud,Terraform,Beginner,5,Yes
+EMP023,Cloud,Azure Storage,Beginner,1,Yes
+EMP023,Cloud,EC2,Intermediate,4,Yes
+EMP023,Cloud,S3,Advanced,6,No
+EMP024,DevOps,Kubernetes,Advanced,12,Yes
+EMP024,DevOps,Terraform,Expert,1,No
+EMP024,DevOps,Git,Expert,9,Yes
+EMP024,DevOps,Linux,Intermediate,11,Yes
+EMP024,DevOps,Docker,Intermediate,9,Yes
+EMP024,DevOps,Jenkins,Intermediate,12,No
+EMP025,QA,Postman,Intermediate,4,Yes
+EMP025,QA,Cypress,Beginner,5,No
+EMP025,QA,API Testing,Beginner,7,No
+EMP025,QA,Manual Testing,Intermediate,4,No
+EMP025,QA,Selenium,Beginner,2,Yes
+EMP026,Support,Active Directory,Intermediate,2,No
+EMP026,Support,ITIL,Beginner,1,Yes
+EMP026,Support,Networking,Expert,3,Yes
+EMP026,Support,Troubleshooting,Intermediate,2,Yes
+EMP026,Support,Windows,Intermediate,3,No
+EMP027,Frontend,Vue.js,Beginner,2,No
+EMP027,Frontend,CSS,Expert,8,No
+EMP027,Frontend,JavaScript,Advanced,7,Yes
+EMP028,Support,ITIL,Intermediate,7,No
+EMP028,Support,Active Directory,Advanced,12,No
+EMP028,Support,Office365,Expert,4,Yes
+EMP028,Support,Networking,Beginner,9,Yes
+EMP028,Support,ServiceNow,Advanced,2,No
+EMP029,Support,Active Directory,Beginner,12,Yes
+EMP029,Support,Office365,Expert,3,No
+EMP029,Support,Windows,Advanced,7,Yes
+EMP029,Support,Networking,Expert,4,Yes
+EMP030,Frontend,HTML,Beginner,4,No
+EMP030,Frontend,JavaScript,Advanced,6,Yes
+EMP030,Frontend,React,Expert,10,Yes
+EMP030,Frontend,CSS,Beginner,7,No
+EMP030,Frontend,Vue.js,Intermediate,12,Yes
+EMP031,Cloud,AWS,Intermediate,5,No
+EMP031,Cloud,Networking,Expert,9,Yes
+EMP031,Cloud,Azure,Intermediate,11,No
+EMP032,Backend,Flask,Advanced,9,No
+EMP032,Backend,Spring Boot,Beginner,11,No
+EMP032,Backend,FastAPI,Beginner,9,Yes
+EMP033,Cloud,EC2,Beginner,7,No
+EMP033,Cloud,Terraform,Expert,5,No
+EMP033,Cloud,AWS,Advanced,6,No
+EMP033,Cloud,S3,Expert,11,No
+EMP034,Database,MySQL,Intermediate,7,No
+EMP034,Database,SQL Server,Beginner,6,No
+EMP034,Database,Cassandra,Beginner,10,No
+EMP034,Database,PostgreSQL,Beginner,4,No
+EMP034,Database,Redis,Expert,5,Yes
+EMP035,Backend,Microservices,Beginner,1,No
+EMP035,Backend,Java,Expert,2,Yes
+EMP035,Backend,FastAPI,Beginner,6,Yes
+EMP036,Frontend,Bootstrap,Advanced,11,No
+EMP036,Frontend,Angular,Advanced,12,Yes
+EMP036,Frontend,CSS,Advanced,12,Yes
+EMP036,Frontend,JavaScript,Intermediate,8,Yes
+EMP036,Frontend,HTML,Advanced,9,No
+EMP037,Data Engineering,Databricks,Intermediate,9,Yes
+EMP037,Data Engineering,Delta Lake,Beginner,11,Yes
+EMP037,Data Engineering,Azure Data Factory,Beginner,5,No
+EMP037,Data Engineering,SQL,Expert,1,Yes
+EMP037,Data Engineering,Snowflake,Beginner,4,No
+EMP038,Frontend,Vue.js,Advanced,8,No
+EMP038,Frontend,HTML,Advanced,4,No
+EMP038,Frontend,Angular,Advanced,8,Yes
+EMP039,Frontend,Bootstrap,Intermediate,8,No
+EMP039,Frontend,TypeScript,Advanced,7,Yes
+EMP039,Frontend,HTML,Advanced,3,No
+EMP040,Data Engineering,Kafka,Beginner,8,No
+EMP040,Data Engineering,Delta Lake,Beginner,9,Yes
+EMP040,Data Engineering,Azure Data Factory,Expert,10,No
+EMP040,Data Engineering,Snowflake,Expert,5,Yes
+EMP041,Frontend,JavaScript,Expert,12,No
+EMP041,Frontend,CSS,Advanced,3,Yes
+EMP041,Frontend,HTML,Advanced,11,No
+EMP041,Frontend,React,Advanced,2,No
+EMP041,Frontend,Vue.js,Expert,10,No
+EMP042,Security,Encryption,Beginner,6,No
+EMP042,Security,SIEM,Beginner,6,No
+EMP042,Security,IAM,Expert,4,No
+EMP042,Security,Pen Testing,Expert,9,Yes
+EMP042,Security,SOC,Intermediate,3,Yes
+EMP043,Security,OWASP,Advanced,1,No
+EMP043,Security,IAM,Beginner,10,No
+EMP043,Security,Azure Security,Beginner,6,Yes
+EMP043,Security,Encryption,Advanced,12,Yes
+EMP043,Security,Firewall,Advanced,2,Yes
+EMP044,QA,API Testing,Intermediate,8,No
+EMP044,QA,Cypress,Expert,7,No
+EMP044,QA,Postman,Advanced,6,Yes
+EMP045,Security,IAM,Advanced,1,No
+EMP045,Security,SOC,Beginner,8,Yes
+EMP045,Security,Azure Security,Advanced,12,Yes
+EMP045,Security,OWASP,Beginner,7,No
+EMP045,Security,Pen Testing,Intermediate,4,Yes
+EMP045,Security,SIEM,Expert,11,Yes
+EMP046,AI/ML,NumPy,Advanced,1,No
+EMP046,AI/ML,Scikit-learn,Advanced,12,Yes
+EMP046,AI/ML,NLP,Advanced,11,Yes
+EMP046,AI/ML,PyTorch,Intermediate,1,No
+EMP047,Backend,Python,Intermediate,10,Yes
+EMP047,Backend,Spring Boot,Expert,10,Yes
+EMP047,Backend,Microservices,Expert,3,No
+EMP047,Backend,Java,Expert,3,No
+EMP047,Backend,Flask,Expert,5,No
+EMP047,Backend,Django,Expert,6,Yes
+EMP048,Security,Firewall,Expert,9,No
+EMP048,Security,OWASP,Beginner,11,Yes
+EMP048,Security,IAM,Beginner,8,No
+EMP048,Security,SOC,Expert,4,No
+EMP049,Support,Office365,Advanced,9,Yes
+EMP049,Support,ServiceNow,Advanced,9,Yes
+EMP049,Support,Windows,Intermediate,10,Yes
+EMP049,Support,Networking,Beginner,4,Yes
+EMP050,QA,Postman,Beginner,8,No
+EMP050,QA,Playwright,Beginner,12,No
+EMP050,QA,TestNG,Beginner,4,No
+EMP051,DevOps,Ansible,Expert,9,No
+EMP051,DevOps,Kubernetes,Intermediate,5,No
+EMP051,DevOps,Docker,Advanced,7,Yes
+EMP052,Database,SQLite,Beginner,11,Yes
+EMP052,Database,Redis,Beginner,11,No
+EMP052,Database,Cassandra,Expert,12,Yes
+EMP052,Database,SQL Server,Expert,1,No
+EMP052,Database,Oracle,Expert,4,No
+EMP053,Support,Networking,Intermediate,10,Yes
+EMP053,Support,Office365,Advanced,11,No
+EMP053,Support,ITIL,Advanced,6,No
+EMP054,Database,MySQL,Expert,12,Yes
+EMP054,Database,PostgreSQL,Advanced,5,No
+EMP054,Database,Cassandra,Expert,12,No
+EMP055,Security,IAM,Intermediate,3,Yes
+EMP055,Security,OWASP,Expert,1,No
+EMP055,Security,Encryption,Beginner,2,Yes
+EMP055,Security,Azure Security,Beginner,3,Yes
+EMP055,Security,Firewall,Expert,7,Yes
+EMP055,Security,Pen Testing,Advanced,7,Yes
+EMP056,DevOps,Azure DevOps,Beginner,12,No
+EMP056,DevOps,Terraform,Advanced,4,Yes
+EMP056,DevOps,Jenkins,Advanced,6,Yes
+EMP056,DevOps,Ansible,Advanced,5,No
+EMP057,Frontend,JavaScript,Intermediate,5,No
+EMP057,Frontend,HTML,Intermediate,6,Yes
+EMP057,Frontend,Vue.js,Intermediate,9,Yes
+EMP057,Frontend,CSS,Beginner,11,Yes
+EMP057,Frontend,React,Beginner,3,Yes
+EMP057,Frontend,TypeScript,Expert,10,No
+EMP058,AI/ML,TensorFlow,Beginner,8,Yes
+EMP058,AI/ML,NumPy,Intermediate,10,Yes
+EMP058,AI/ML,PyTorch,Advanced,3,No
+EMP058,AI/ML,Pandas,Intermediate,2,Yes
+EMP058,AI/ML,Scikit-learn,Advanced,11,No
+EMP059,DevOps,Jenkins,Expert,1,No
+EMP059,DevOps,Kubernetes,Intermediate,11,Yes
+EMP059,DevOps,Linux,Advanced,11,No
+EMP059,DevOps,Git,Beginner,3,Yes
+EMP059,DevOps,Docker,Expert,8,Yes
+EMP060,QA,Cypress,Intermediate,5,Yes
+EMP060,QA,TestNG,Advanced,1,Yes
+EMP060,QA,JUnit,Intermediate,7,No
+EMP060,QA,Manual Testing,Beginner,8,No
+EMP060,QA,Playwright,Expert,10,No
+EMP060,QA,Postman,Advanced,8,No
+EMP061,Cloud,AWS,Expert,7,Yes
+EMP061,Cloud,Networking,Advanced,1,No
+EMP061,Cloud,Azure,Expert,12,No
+EMP061,Cloud,EC2,Advanced,5,Yes
+EMP061,Cloud,GCP,Intermediate,2,No
+EMP061,Cloud,Terraform,Intermediate,9,No
+EMP062,Backend,Java,Expert,4,Yes
+EMP062,Backend,Flask,Advanced,9,No
+EMP062,Backend,Microservices,Intermediate,4,No
+EMP062,Backend,FastAPI,Beginner,2,Yes
+EMP062,Backend,Spring Boot,Intermediate,2,No
+EMP062,Backend,Django,Beginner,5,Yes
+EMP063,Data Engineering,Delta Lake,Expert,8,No
+EMP063,Data Engineering,SQL,Intermediate,6,Yes
+EMP063,Data Engineering,PySpark,Beginner,5,Yes
+EMP064,Security,Azure Security,Intermediate,4,No
+EMP064,Security,SIEM,Beginner,4,No
+EMP064,Security,Pen Testing,Advanced,8,Yes
+EMP064,Security,IAM,Intermediate,11,Yes
+EMP064,Security,SOC,Intermediate,4,Yes
+EMP065,Frontend,CSS,Expert,7,Yes
+EMP065,Frontend,Vue.js,Intermediate,4,No
+EMP065,Frontend,JavaScript,Beginner,12,Yes
+EMP065,Frontend,Angular,Advanced,3,Yes
+EMP065,Frontend,TypeScript,Advanced,5,No
+EMP066,Database,MongoDB,Intermediate,5,Yes
+EMP066,Database,Oracle,Beginner,8,Yes
+EMP066,Database,PostgreSQL,Expert,9,Yes
+EMP067,Database,SQL Server,Advanced,9,No
+EMP067,Database,MySQL,Expert,10,Yes
+EMP067,Database,Cassandra,Intermediate,5,Yes
+EMP068,DevOps,Linux,Intermediate,3,Yes
+EMP068,DevOps,Git,Expert,10,No
+EMP068,DevOps,Ansible,Beginner,8,Yes
+EMP068,DevOps,Docker,Intermediate,2,No
+EMP069,AI/ML,Python,Intermediate,2,No
+EMP069,AI/ML,NLP,Intermediate,11,No
+EMP069,AI/ML,PyTorch,Advanced,12,Yes
+EMP069,AI/ML,NumPy,Advanced,8,Yes
+EMP069,AI/ML,TensorFlow,Expert,5,Yes
+EMP069,AI/ML,Pandas,Intermediate,10,Yes
+EMP070,Support,Windows,Expert,7,No
+EMP070,Support,Networking,Advanced,1,Yes
+EMP070,Support,ServiceNow,Beginner,3,Yes
+EMP070,Support,Troubleshooting,Intermediate,1,No
+EMP070,Support,ITIL,Expert,1,No
+EMP070,Support,Office365,Advanced,10,No
+EMP071,Frontend,TypeScript,Expert,12,No
+EMP071,Frontend,Vue.js,Beginner,6,No
+EMP071,Frontend,Angular,Expert,6,Yes
+EMP071,Frontend,CSS,Beginner,3,No
+EMP072,Support,Windows,Beginner,1,Yes
+EMP072,Support,Active Directory,Expert,9,Yes
+EMP072,Support,Linux,Beginner,7,No
+EMP072,Support,Troubleshooting,Expert,7,Yes
+EMP073,Backend,Flask,Intermediate,7,No
+EMP073,Backend,Spring Boot,Beginner,4,No
+EMP073,Backend,Python,Advanced,6,Yes
+EMP073,Backend,Microservices,Beginner,3,No
+EMP074,Support,Active Directory,Intermediate,8,No
+EMP074,Support,Troubleshooting,Intermediate,7,No
+EMP074,Support,Networking,Beginner,4,No
+EMP075,AI/ML,PyTorch,Expert,4,No
+EMP075,AI/ML,NumPy,Intermediate,10,No
+EMP075,AI/ML,NLP,Advanced,8,No
+EMP075,AI/ML,TensorFlow,Expert,11,Yes
+EMP076,Security,Firewall,Advanced,6,No
+EMP076,Security,Pen Testing,Beginner,9,Yes
+EMP076,Security,OWASP,Advanced,9,No
+EMP076,Security,SOC,Intermediate,5,Yes
+EMP077,AI/ML,PyTorch,Intermediate,4,Yes
+EMP077,AI/ML,Pandas,Beginner,6,No
+EMP077,AI/ML,XGBoost,Expert,2,No
+EMP078,AI/ML,Python,Expert,1,Yes
+EMP078,AI/ML,PyTorch,Intermediate,9,Yes
+EMP078,AI/ML,Scikit-learn,Beginner,4,No
+EMP078,AI/ML,NLP,Expert,7,No
+EMP078,AI/ML,TensorFlow,Intermediate,9,No
+EMP079,AI/ML,NumPy,Intermediate,7,No
+EMP079,AI/ML,TensorFlow,Intermediate,2,No
+EMP079,AI/ML,XGBoost,Advanced,6,Yes
+EMP079,AI/ML,PyTorch,Intermediate,1,Yes
+EMP079,AI/ML,Scikit-learn,Expert,10,Yes
+EMP079,AI/ML,Pandas,Advanced,11,Yes
+EMP080,DevOps,Kubernetes,Beginner,7,Yes
+EMP080,DevOps,Azure DevOps,Expert,8,Yes
+EMP080,DevOps,Jenkins,Expert,7,No
+EMP080,DevOps,Ansible,Advanced,8,No
+EMP080,DevOps,Git,Intermediate,3,No
+EMP081,DevOps,Jenkins,Advanced,7,Yes
+EMP081,DevOps,Ansible,Expert,10,No
+EMP081,DevOps,Git,Advanced,12,Yes
+EMP081,DevOps,Kubernetes,Expert,2,No
+EMP081,DevOps,Docker,Beginner,7,No
+EMP081,DevOps,Azure DevOps,Beginner,7,No
+EMP082,Support,Networking,Beginner,1,No
+EMP082,Support,Active Directory,Advanced,6,No
+EMP082,Support,Windows,Advanced,11,Yes
+EMP082,Support,Office365,Expert,7,No
+EMP082,Support,ITIL,Advanced,1,Yes
+EMP083,Frontend,TypeScript,Beginner,5,Yes
+EMP083,Frontend,HTML,Expert,8,No
+EMP083,Frontend,JavaScript,Expert,1,Yes
+EMP084,Database,MySQL,Intermediate,10,Yes
+EMP084,Database,MongoDB,Advanced,4,No
+EMP084,Database,Oracle,Intermediate,4,Yes
+EMP084,Database,Cassandra,Expert,1,Yes
+EMP084,Database,SQL Server,Expert,11,Yes
+EMP085,Support,Troubleshooting,Intermediate,12,No
+EMP085,Support,Windows,Intermediate,4,Yes
+EMP085,Support,ITIL,Intermediate,6,No
+EMP085,Support,Active Directory,Advanced,6,No
+EMP085,Support,Office365,Advanced,6,No
+EMP086,DevOps,Git,Intermediate,2,Yes
+EMP086,DevOps,Jenkins,Beginner,12,No
+EMP086,DevOps,Ansible,Beginner,8,No
+EMP086,DevOps,Kubernetes,Beginner,3,No
+EMP087,Security,SOC,Expert,5,No
+EMP087,Security,SIEM,Advanced,12,No
+EMP087,Security,Pen Testing,Intermediate,6,Yes
+EMP088,Support,Office365,Advanced,3,Yes
+EMP088,Support,Active Directory,Intermediate,7,No
+EMP088,Support,Networking,Intermediate,11,Yes
+EMP088,Support,ServiceNow,Beginner,8,Yes
+EMP089,Data Engineering,Kafka,Intermediate,1,Yes
+EMP089,Data Engineering,Azure Data Factory,Beginner,1,Yes
+EMP089,Data Engineering,Delta Lake,Advanced,6,Yes
+EMP089,Data Engineering,Databricks,Expert,6,Yes
+EMP089,Data Engineering,Snowflake,Expert,3,No
+EMP090,Frontend,Bootstrap,Expert,12,No
+EMP090,Frontend,TypeScript,Intermediate,10,No
+EMP090,Frontend,CSS,Intermediate,9,No
+EMP090,Frontend,Vue.js,Intermediate,8,Yes
+EMP090,Frontend,Angular,Beginner,9,No
+EMP091,Security,IAM,Intermediate,5,No
+EMP091,Security,Encryption,Advanced,6,Yes
+EMP091,Security,SIEM,Beginner,8,Yes
+EMP091,Security,OWASP,Advanced,9,No
+EMP091,Security,SOC,Beginner,3,Yes
+EMP091,Security,Pen Testing,Beginner,5,Yes
+EMP092,Backend,REST API,Expert,8,Yes
+EMP092,Backend,Django,Expert,6,No
+EMP092,Backend,Java,Beginner,4,No
+EMP092,Backend,Microservices,Advanced,4,No
+EMP093,DevOps,Docker,Beginner,5,No
+EMP093,DevOps,Kubernetes,Beginner,9,No
+EMP093,DevOps,Ansible,Beginner,9,No
+EMP093,DevOps,Azure DevOps,Beginner,4,Yes
+EMP093,DevOps,Git,Advanced,1,No
+EMP093,DevOps,Jenkins,Intermediate,12,No
+EMP094,Cloud,AWS,Beginner,1,Yes
+EMP094,Cloud,Terraform,Intermediate,6,No
+EMP094,Cloud,EC2,Advanced,9,No
+EMP094,Cloud,Azure Storage,Advanced,11,No
+EMP094,Cloud,GCP,Advanced,5,No
+EMP095,Frontend,Angular,Intermediate,1,Yes
+EMP095,Frontend,Vue.js,Advanced,11,Yes
+EMP095,Frontend,TypeScript,Intermediate,6,Yes
+EMP095,Frontend,Bootstrap,Intermediate,3,No
+EMP095,Frontend,HTML,Advanced,3,No
+EMP096,Backend,FastAPI,Expert,2,No
+EMP096,Backend,Flask,Intermediate,1,Yes
+EMP096,Backend,Python,Advanced,2,Yes
+EMP097,Support,Office365,Intermediate,5,Yes
+EMP097,Support,Linux,Expert,6,Yes
+EMP097,Support,ServiceNow,Advanced,9,Yes
+EMP097,Support,Networking,Intermediate,12,No
+EMP097,Support,Troubleshooting,Beginner,4,No
+EMP098,Security,IAM,Expert,7,No
+EMP098,Security,OWASP,Intermediate,7,Yes
+EMP098,Security,SOC,Beginner,9,No
+EMP098,Security,Pen Testing,Expert,5,Yes
+EMP098,Security,Azure Security,Beginner,6,Yes
+EMP098,Security,SIEM,Expert,6,No
+EMP099,Support,Linux,Beginner,3,No
+EMP099,Support,Active Directory,Beginner,4,Yes
+EMP099,Support,Networking,Intermediate,2,Yes
+EMP099,Support,Troubleshooting,Advanced,5,Yes
+EMP099,Support,Office365,Intermediate,1,No
+EMP100,Data Engineering,Airflow,Intermediate,8,No
+EMP100,Data Engineering,SQL,Intermediate,2,Yes
+EMP100,Data Engineering,Snowflake,Expert,8,Yes
+EMP100,Data Engineering,PySpark,Beginner,8,Yes
+EMP100,Data Engineering,Databricks,Beginner,3,No
+EMP101,QA,Postman,Intermediate,5,Yes
+EMP101,QA,Selenium,Expert,3,No
+EMP101,QA,Playwright,Beginner,11,No
+EMP102,Security,IAM,Advanced,12,Yes
+EMP102,Security,SOC,Expert,7,Yes
+EMP102,Security,Encryption,Advanced,12,No
+EMP103,Data Engineering,Databricks,Expert,1,Yes
+EMP103,Data Engineering,SQL,Advanced,2,No
+EMP103,Data Engineering,Kafka,Advanced,10,No
+EMP103,Data Engineering,Delta Lake,Advanced,4,Yes
+EMP104,Frontend,CSS,Intermediate,3,Yes
+EMP104,Frontend,TypeScript,Advanced,7,No
+EMP104,Frontend,Vue.js,Expert,5,No
+EMP104,Frontend,JavaScript,Intermediate,9,Yes
+EMP105,Frontend,TypeScript,Advanced,2,No
+EMP105,Frontend,Angular,Beginner,11,No
+EMP105,Frontend,JavaScript,Intermediate,8,No
+EMP105,Frontend,HTML,Intermediate,12,No
+EMP105,Frontend,React,Intermediate,8,Yes
+EMP106,AI/ML,Pandas,Beginner,11,Yes
+EMP106,AI/ML,PyTorch,Beginner,7,No
+EMP106,AI/ML,NLP,Intermediate,10,No
+EMP106,AI/ML,Scikit-learn,Expert,7,No
+EMP106,AI/ML,NumPy,Advanced,2,Yes
+EMP106,AI/ML,TensorFlow,Beginner,8,Yes
+EMP107,Frontend,React,Beginner,11,Yes
+EMP107,Frontend,Vue.js,Expert,2,No
+EMP107,Frontend,Bootstrap,Intermediate,8,No
+EMP107,Frontend,HTML,Expert,11,Yes
+EMP107,Frontend,TypeScript,Intermediate,1,No
+EMP108,Cloud,AWS,Expert,11,Yes
+EMP108,Cloud,Azure,Intermediate,8,No
+EMP108,Cloud,EC2,Intermediate,9,No
+EMP108,Cloud,Terraform,Beginner,12,Yes
+EMP109,Backend,Flask,Beginner,7,No
+EMP109,Backend,REST API,Intermediate,1,No
+EMP109,Backend,FastAPI,Advanced,1,Yes
+EMP109,Backend,Django,Advanced,7,Yes
+EMP110,Frontend,Angular,Beginner,9,No
+EMP110,Frontend,React,Advanced,6,Yes
+EMP110,Frontend,HTML,Intermediate,10,No
+EMP110,Frontend,Bootstrap,Expert,1,Yes
+EMP110,Frontend,CSS,Expert,3,Yes
+EMP111,Security,IAM,Intermediate,10,Yes
+EMP111,Security,Firewall,Expert,10,Yes
+EMP111,Security,Azure Security,Expert,1,Yes
+EMP111,Security,Encryption,Intermediate,2,No
+EMP112,QA,Selenium,Beginner,7,No
+EMP112,QA,JUnit,Advanced,2,Yes
+EMP112,QA,Manual Testing,Advanced,9,Yes
+EMP112,QA,API Testing,Expert,6,No
+EMP112,QA,Playwright,Intermediate,11,Yes
+EMP113,Support,Office365,Advanced,12,No
+EMP113,Support,Active Directory,Intermediate,6,Yes
+EMP113,Support,Windows,Expert,8,No
+EMP114,AI/ML,Pandas,Beginner,3,No
+EMP114,AI/ML,Scikit-learn,Advanced,7,Yes
+EMP114,AI/ML,Python,Beginner,12,No
+EMP114,AI/ML,XGBoost,Beginner,6,No
+EMP114,AI/ML,PyTorch,Expert,4,No
+EMP114,AI/ML,NumPy,Beginner,6,No
+EMP115,Support,ITIL,Advanced,4,No
+EMP115,Support,Active Directory,Advanced,5,Yes
+EMP115,Support,Troubleshooting,Beginner,6,Yes
+EMP116,Security,SOC,Intermediate,5,No
+EMP116,Security,OWASP,Expert,11,No
+EMP116,Security,Firewall,Expert,2,No
+EMP117,Support,ServiceNow,Advanced,6,Yes
+EMP117,Support,Linux,Advanced,3,Yes
+EMP117,Support,Networking,Advanced,11,No
+EMP118,Backend,Python,Beginner,10,Yes
+EMP118,Backend,Django,Beginner,12,No
+EMP118,Backend,Flask,Expert,6,Yes
+EMP118,Backend,Microservices,Intermediate,2,No
+EMP118,Backend,Java,Intermediate,7,No
+EMP118,Backend,FastAPI,Expert,2,No
+EMP119,AI/ML,TensorFlow,Beginner,12,Yes
+EMP119,AI/ML,NumPy,Expert,5,Yes
+EMP119,AI/ML,PyTorch,Intermediate,2,No
+EMP120,AI/ML,TensorFlow,Expert,1,No
+EMP120,AI/ML,XGBoost,Expert,4,No
+EMP120,AI/ML,PyTorch,Expert,7,No
+EMP120,AI/ML,Scikit-learn,Expert,2,Yes
+EMP121,Support,Linux,Expert,10,No
+EMP121,Support,ITIL,Expert,10,No
+EMP121,Support,Windows,Advanced,10,Yes
+EMP121,Support,ServiceNow,Expert,12,No
+EMP121,Support,Active Directory,Advanced,2,No
+EMP122,DevOps,Git,Advanced,2,No
+EMP122,DevOps,Ansible,Expert,4,Yes
+EMP122,DevOps,Terraform,Expert,10,Yes
+EMP122,DevOps,Linux,Intermediate,7,No
+EMP122,DevOps,Docker,Expert,8,Yes
+EMP123,DevOps,Kubernetes,Intermediate,1,No
+EMP123,DevOps,Git,Intermediate,9,No
+EMP123,DevOps,Jenkins,Advanced,8,Yes
+EMP123,DevOps,Linux,Expert,6,No
+EMP124,Frontend,Vue.js,Advanced,2,Yes
+EMP124,Frontend,Angular,Intermediate,10,Yes
+EMP124,Frontend,TypeScript,Advanced,12,No
+EMP124,Frontend,HTML,Advanced,2,No
+EMP125,Support,ServiceNow,Advanced,11,No
+EMP125,Support,Networking,Advanced,5,Yes
+EMP125,Support,Windows,Advanced,8,Yes
+EMP125,Support,ITIL,Advanced,1,No
+EMP125,Support,Office365,Advanced,9,Yes
+EMP126,Cloud,GCP,Intermediate,9,No
+EMP126,Cloud,Networking,Advanced,1,No
+EMP126,Cloud,Azure,Advanced,11,Yes
+EMP126,Cloud,EC2,Expert,8,No
+EMP127,AI/ML,NLP,Intermediate,2,Yes
+EMP127,AI/ML,XGBoost,Beginner,5,Yes
+EMP127,AI/ML,Pandas,Beginner,10,Yes
+EMP127,AI/ML,PyTorch,Intermediate,6,No
+EMP128,AI/ML,Python,Intermediate,1,No
+EMP128,AI/ML,Pandas,Intermediate,11,Yes
+EMP128,AI/ML,NumPy,Expert,9,Yes
+EMP128,AI/ML,XGBoost,Beginner,9,No
+EMP129,Support,Linux,Intermediate,2,No
+EMP129,Support,Active Directory,Beginner,9,Yes
+EMP129,Support,ITIL,Intermediate,5,No
+EMP129,Support,Networking,Advanced,4,No
+EMP129,Support,ServiceNow,Intermediate,9,Yes
+EMP129,Support,Troubleshooting,Expert,1,No
+EMP130,Support,Windows,Beginner,2,No
+EMP130,Support,ITIL,Advanced,1,No
+EMP130,Support,Troubleshooting,Beginner,3,Yes
+EMP130,Support,ServiceNow,Beginner,1,No
+EMP130,Support,Office365,Beginner,4,No
+EMP131,DevOps,Git,Intermediate,5,Yes
+EMP131,DevOps,Jenkins,Advanced,9,No
+EMP131,DevOps,Kubernetes,Advanced,8,Yes
+EMP131,DevOps,Azure DevOps,Expert,3,Yes
+EMP131,DevOps,Terraform,Intermediate,4,No
+EMP131,DevOps,Docker,Expert,8,Yes
+EMP132,AI/ML,Scikit-learn,Advanced,10,No
+EMP132,AI/ML,Pandas,Beginner,3,No
+EMP132,AI/ML,NumPy,Intermediate,2,No
+EMP132,AI/ML,NLP,Advanced,12,Yes
+EMP133,Backend,Java,Intermediate,8,Yes
+EMP133,Backend,Python,Beginner,7,Yes
+EMP133,Backend,REST API,Advanced,11,No
+EMP133,Backend,Flask,Beginner,2,No
+EMP134,QA,JUnit,Beginner,8,Yes
+EMP134,QA,Playwright,Beginner,8,Yes
+EMP134,QA,Cypress,Expert,2,No
+EMP134,QA,Manual Testing,Intermediate,3,Yes
+EMP134,QA,API Testing,Intermediate,3,No
+EMP134,QA,TestNG,Intermediate,6,No
+EMP135,QA,Playwright,Beginner,4,Yes
+EMP135,QA,API Testing,Intermediate,12,Yes
+EMP135,QA,Postman,Expert,6,No
+EMP135,QA,Manual Testing,Beginner,5,Yes
+EMP136,Frontend,CSS,Advanced,6,Yes
+EMP136,Frontend,Bootstrap,Beginner,5,No
+EMP136,Frontend,React,Advanced,2,Yes
+EMP136,Frontend,TypeScript,Intermediate,1,Yes
+EMP137,Data Engineering,Azure Data Factory,Beginner,5,No
+EMP137,Data Engineering,Airflow,Expert,6,No
+EMP137,Data Engineering,Delta Lake,Expert,1,Yes
+EMP137,Data Engineering,Snowflake,Intermediate,8,Yes
+EMP138,Security,OWASP,Intermediate,1,Yes
+EMP138,Security,SIEM,Intermediate,7,No
+EMP138,Security,IAM,Beginner,8,Yes
+EMP138,Security,Encryption,Intermediate,6,Yes
+EMP138,Security,SOC,Intermediate,5,Yes
+EMP138,Security,Pen Testing,Advanced,5,No
+EMP139,Security,SOC,Expert,9,No
+EMP139,Security,IAM,Advanced,6,No
+EMP139,Security,SIEM,Intermediate,11,Yes
+EMP139,Security,Firewall,Expert,9,No
+EMP139,Security,Pen Testing,Intermediate,12,No
+EMP140,DevOps,Jenkins,Beginner,6,No
+EMP140,DevOps,Git,Beginner,8,No
+EMP140,DevOps,Ansible,Beginner,11,No
+EMP140,DevOps,Azure DevOps,Expert,5,No
+EMP140,DevOps,Docker,Expert,1,Yes
+EMP140,DevOps,Linux,Advanced,8,No
+EMP141,Backend,Python,Beginner,2,No
+EMP141,Backend,Spring Boot,Beginner,4,No
+EMP141,Backend,Flask,Beginner,5,Yes
+EMP141,Backend,Django,Beginner,7,No
+EMP142,Database,PostgreSQL,Intermediate,5,No
+EMP142,Database,MongoDB,Advanced,4,Yes
+EMP142,Database,Cassandra,Expert,5,Yes
+EMP143,DevOps,Linux,Advanced,12,Yes
+EMP143,DevOps,Azure DevOps,Beginner,1,No
+EMP143,DevOps,Kubernetes,Expert,11,No
+EMP143,DevOps,Docker,Beginner,11,Yes
+EMP143,DevOps,Terraform,Beginner,5,No
+EMP144,Cloud,Networking,Beginner,7,No
+EMP144,Cloud,AWS,Expert,1,No
+EMP144,Cloud,S3,Expert,11,No
+EMP144,Cloud,GCP,Intermediate,7,No
+EMP144,Cloud,EC2,Beginner,1,Yes
+EMP145,Security,Pen Testing,Intermediate,9,No
+EMP145,Security,SOC,Advanced,8,No
+EMP145,Security,Azure Security,Intermediate,1,No
+EMP145,Security,OWASP,Beginner,6,No
+EMP146,Backend,Flask,Advanced,8,Yes
+EMP146,Backend,Microservices,Advanced,2,No
+EMP146,Backend,FastAPI,Intermediate,9,No
+EMP147,Frontend,Angular,Beginner,8,Yes
+EMP147,Frontend,TypeScript,Advanced,4,No
+EMP147,Frontend,CSS,Intermediate,7,No
+EMP148,Cloud,Azure Storage,Advanced,9,No
+EMP148,Cloud,Azure,Intermediate,7,Yes
+EMP148,Cloud,GCP,Expert,2,Yes
+EMP149,Cloud,S3,Expert,1,Yes
+EMP149,Cloud,Azure Storage,Intermediate,3,Yes
+EMP149,Cloud,Terraform,Intermediate,3,No
+EMP149,Cloud,Networking,Advanced,5,Yes
+EMP149,Cloud,GCP,Beginner,8,Yes
+EMP149,Cloud,EC2,Expert,2,No
+EMP150,DevOps,Docker,Expert,12,No
+EMP150,DevOps,Linux,Intermediate,7,No
+EMP150,DevOps,Ansible,Intermediate,7,Yes
+EMP150,DevOps,Git,Expert,1,Yes
+EMP150,DevOps,Jenkins,Intermediate,4,Yes
+EMP151,Support,Office365,Expert,10,Yes
+EMP151,Support,ITIL,Intermediate,4,No
+EMP151,Support,Linux,Advanced,11,Yes
+EMP151,Support,Networking,Advanced,5,Yes
+EMP151,Support,Active Directory,Intermediate,12,No
+EMP151,Support,Windows,Expert,4,No
+EMP152,Backend,Flask,Advanced,11,No
+EMP152,Backend,Django,Intermediate,8,No
+EMP152,Backend,Java,Advanced,4,Yes
+EMP153,Cloud,AWS,Expert,11,No
+EMP153,Cloud,Terraform,Beginner,12,Yes
+EMP153,Cloud,Azure Storage,Advanced,4,No
+EMP153,Cloud,EC2,Expert,4,No
+EMP153,Cloud,Networking,Intermediate,10,Yes
+EMP154,Database,Cassandra,Advanced,2,No
+EMP154,Database,SQL Server,Intermediate,7,No
+EMP154,Database,MongoDB,Intermediate,12,No
+EMP154,Database,Oracle,Beginner,8,Yes
+EMP154,Database,Redis,Intermediate,11,No
+EMP155,Frontend,CSS,Expert,9,Yes
+EMP155,Frontend,HTML,Beginner,3,No
+EMP155,Frontend,JavaScript,Beginner,5,No
+EMP155,Frontend,Vue.js,Expert,6,Yes
+EMP155,Frontend,TypeScript,Expert,11,No
+EMP156,Data Engineering,Azure Data Factory,Expert,10,Yes
+EMP156,Data Engineering,PySpark,Advanced,6,No
+EMP156,Data Engineering,Snowflake,Beginner,2,Yes
+EMP156,Data Engineering,Kafka,Advanced,9,Yes
+EMP156,Data Engineering,Databricks,Advanced,4,No
+EMP156,Data Engineering,SQL,Advanced,3,No
+EMP157,Support,Active Directory,Expert,3,No
+EMP157,Support,Linux,Intermediate,4,Yes
+EMP157,Support,Networking,Beginner,2,Yes
+EMP158,Backend,Flask,Beginner,11,No
+EMP158,Backend,Python,Advanced,4,No
+EMP158,Backend,Django,Advanced,6,Yes
+EMP158,Backend,FastAPI,Expert,12,No
+EMP159,Backend,Flask,Intermediate,10,No
+EMP159,Backend,Microservices,Intermediate,11,No
+EMP159,Backend,FastAPI,Expert,7,Yes
+EMP159,Backend,Spring Boot,Intermediate,10,Yes
+EMP159,Backend,Java,Expert,6,No
+EMP159,Backend,REST API,Intermediate,6,Yes
+EMP160,Security,OWASP,Beginner,2,No
+EMP160,Security,IAM,Beginner,10,No
+EMP160,Security,Pen Testing,Expert,10,No
+EMP160,Security,Encryption,Beginner,2,No
+EMP160,Security,Azure Security,Beginner,12,Yes
+EMP161,Database,SQL Server,Expert,5,Yes
+EMP161,Database,Redis,Beginner,6,Yes
+EMP161,Database,PostgreSQL,Advanced,1,Yes
+EMP161,Database,Oracle,Advanced,5,No
+EMP161,Database,SQLite,Beginner,1,No
+EMP162,Data Engineering,Azure Data Factory,Expert,11,Yes
+EMP162,Data Engineering,Airflow,Advanced,9,No
+EMP162,Data Engineering,SQL,Intermediate,7,No
+EMP162,Data Engineering,PySpark,Advanced,9,No
+EMP162,Data Engineering,Delta Lake,Expert,8,Yes
+EMP162,Data Engineering,Snowflake,Advanced,1,No
+EMP163,Data Engineering,PySpark,Intermediate,6,No
+EMP163,Data Engineering,Delta Lake,Advanced,12,No
+EMP163,Data Engineering,Airflow,Beginner,7,Yes
+EMP163,Data Engineering,Snowflake,Intermediate,2,Yes
+EMP163,Data Engineering,Databricks,Intermediate,9,No
+EMP163,Data Engineering,SQL,Expert,9,No
+EMP164,Backend,REST API,Intermediate,7,Yes
+EMP164,Backend,Python,Expert,9,No
+EMP164,Backend,Flask,Beginner,10,Yes
+EMP164,Backend,FastAPI,Beginner,8,Yes
+EMP164,Backend,Microservices,Expert,4,No
+EMP165,Database,SQL Server,Intermediate,5,No
+EMP165,Database,SQLite,Intermediate,9,Yes
+EMP165,Database,PostgreSQL,Intermediate,5,Yes
+EMP165,Database,Redis,Intermediate,3,Yes
+EMP165,Database,Cassandra,Advanced,1,Yes
+EMP166,DevOps,Jenkins,Advanced,5,Yes
+EMP166,DevOps,Terraform,Advanced,11,Yes
+EMP166,DevOps,Git,Beginner,11,Yes
+EMP167,Support,Office365,Intermediate,7,No
+EMP167,Support,Networking,Beginner,4,No
+EMP167,Support,Active Directory,Advanced,4,Yes
+EMP167,Support,Windows,Beginner,5,Yes
+EMP167,Support,Linux,Intermediate,7,No
+EMP168,Frontend,CSS,Expert,2,No
+EMP168,Frontend,JavaScript,Beginner,2,Yes
+EMP168,Frontend,React,Advanced,10,No
+EMP168,Frontend,Bootstrap,Advanced,7,Yes
+EMP168,Frontend,TypeScript,Intermediate,4,Yes
+EMP168,Frontend,Angular,Expert,11,Yes
+EMP169,Security,Encryption,Beginner,3,Yes
+EMP169,Security,SOC,Expert,8,Yes
+EMP169,Security,OWASP,Expert,10,No
+EMP169,Security,Firewall,Intermediate,6,Yes
+EMP170,AI/ML,PyTorch,Beginner,1,Yes
+EMP170,AI/ML,XGBoost,Expert,3,Yes
+EMP170,AI/ML,TensorFlow,Beginner,3,No
+EMP171,Support,ServiceNow,Intermediate,4,No
+EMP171,Support,Networking,Beginner,7,Yes
+EMP171,Support,Windows,Beginner,11,Yes
+EMP172,Frontend,TypeScript,Beginner,7,Yes
+EMP172,Frontend,JavaScript,Expert,5,Yes
+EMP172,Frontend,Angular,Beginner,4,No
+EMP172,Frontend,Bootstrap,Beginner,7,No
+EMP173,Data Engineering,Azure Data Factory,Beginner,5,No
+EMP173,Data Engineering,SQL,Advanced,5,Yes
+EMP173,Data Engineering,Databricks,Beginner,12,Yes
+EMP173,Data Engineering,Airflow,Expert,6,No
+EMP173,Data Engineering,PySpark,Beginner,9,Yes
+EMP174,Cloud,Networking,Advanced,7,No
+EMP174,Cloud,AWS,Beginner,3,Yes
+EMP174,Cloud,Terraform,Expert,11,No
+EMP174,Cloud,GCP,Intermediate,6,No
+EMP174,Cloud,EC2,Intermediate,5,No
+EMP175,Backend,Spring Boot,Advanced,4,No
+EMP175,Backend,Microservices,Advanced,12,Yes
+EMP175,Backend,Flask,Beginner,1,Yes
+EMP175,Backend,REST API,Advanced,11,No
+EMP175,Backend,Java,Expert,9,Yes
+EMP176,Frontend,JavaScript,Expert,5,No
+EMP176,Frontend,TypeScript,Expert,4,No
+EMP176,Frontend,Bootstrap,Expert,9,Yes
+EMP176,Frontend,Angular,Intermediate,3,Yes
+EMP176,Frontend,CSS,Beginner,7,No
+EMP176,Frontend,HTML,Intermediate,9,Yes
+EMP177,Support,ITIL,Expert,11,No
+EMP177,Support,Windows,Advanced,9,No
+EMP177,Support,Networking,Advanced,2,Yes
+EMP177,Support,Active Directory,Beginner,8,Yes
+EMP177,Support,ServiceNow,Beginner,1,Yes
+EMP178,Frontend,CSS,Advanced,2,No
+EMP178,Frontend,Angular,Advanced,7,Yes
+EMP178,Frontend,React,Beginner,11,No
+EMP178,Frontend,HTML,Advanced,8,No
+EMP179,Cloud,Terraform,Intermediate,9,No
+EMP179,Cloud,Azure,Beginner,9,Yes
+EMP179,Cloud,S3,Advanced,10,No
+EMP179,Cloud,Azure Storage,Beginner,12,No
+EMP179,Cloud,GCP,Beginner,8,No
+EMP179,Cloud,AWS,Advanced,7,No
+EMP180,Cloud,Azure Storage,Beginner,11,Yes
+EMP180,Cloud,Azure,Expert,3,No
+EMP180,Cloud,EC2,Beginner,10,Yes
+EMP180,Cloud,S3,Intermediate,8,No
+EMP180,Cloud,Terraform,Advanced,6,No
+EMP180,Cloud,GCP,Intermediate,12,Yes
+EMP181,Backend,Microservices,Intermediate,2,Yes
+EMP181,Backend,Java,Intermediate,4,No
+EMP181,Backend,FastAPI,Expert,3,Yes
+EMP181,Backend,REST API,Advanced,1,No
+EMP182,QA,Cypress,Expert,4,Yes
+EMP182,QA,Selenium,Intermediate,8,No
+EMP182,QA,TestNG,Advanced,5,No
+EMP182,QA,API Testing,Intermediate,11,Yes
+EMP182,QA,Playwright,Expert,3,No
+EMP182,QA,Manual Testing,Intermediate,6,Yes
+EMP183,Cloud,Terraform,Advanced,4,Yes
+EMP183,Cloud,AWS,Advanced,3,No
+EMP183,Cloud,Networking,Intermediate,6,No
+EMP184,DevOps,Kubernetes,Intermediate,7,No
+EMP184,DevOps,Docker,Expert,6,Yes
+EMP184,DevOps,Linux,Advanced,2,Yes
+EMP184,DevOps,Azure DevOps,Intermediate,10,Yes
+EMP184,DevOps,Ansible,Intermediate,2,No
+EMP184,DevOps,Git,Expert,4,No
+EMP185,Cloud,AWS,Advanced,9,No
+EMP185,Cloud,Azure Storage,Intermediate,5,No
+EMP185,Cloud,GCP,Beginner,5,No
+EMP185,Cloud,EC2,Advanced,10,Yes
+EMP185,Cloud,Terraform,Intermediate,5,No
+EMP186,Frontend,Angular,Intermediate,2,Yes
+EMP186,Frontend,HTML,Advanced,12,No
+EMP186,Frontend,Vue.js,Intermediate,5,No
+EMP186,Frontend,JavaScript,Advanced,5,No
+EMP187,Backend,REST API,Beginner,7,Yes
+EMP187,Backend,Django,Beginner,12,Yes
+EMP187,Backend,Java,Intermediate,8,No
+EMP187,Backend,Python,Expert,6,No
+EMP188,Backend,Microservices,Beginner,3,No
+EMP188,Backend,Spring Boot,Beginner,3,Yes
+EMP188,Backend,FastAPI,Beginner,3,No
+EMP188,Backend,Java,Intermediate,5,No
+EMP188,Backend,REST API,Advanced,5,Yes
+EMP188,Backend,Django,Expert,11,Yes
+EMP189,Security,SOC,Expert,9,No
+EMP189,Security,Encryption,Beginner,3,Yes
+EMP189,Security,OWASP,Intermediate,5,Yes
+EMP189,Security,IAM,Expert,3,No
+EMP190,QA,Postman,Expert,9,No
+EMP190,QA,Selenium,Beginner,4,Yes
+EMP190,QA,Playwright,Advanced,5,Yes
+EMP190,QA,JUnit,Expert,6,Yes
+EMP190,QA,API Testing,Expert,8,Yes
+EMP191,Data Engineering,Airflow,Intermediate,10,Yes
+EMP191,Data Engineering,PySpark,Expert,1,Yes
+EMP191,Data Engineering,Snowflake,Expert,11,Yes
+EMP192,Security,SIEM,Beginner,6,Yes
+EMP192,Security,SOC,Expert,4,Yes
+EMP192,Security,Pen Testing,Beginner,8,Yes
+EMP192,Security,Azure Security,Advanced,2,Yes
+EMP192,Security,IAM,Advanced,11,No
+EMP192,Security,Encryption,Expert,8,Yes
+EMP193,Security,Encryption,Intermediate,1,No
+EMP193,Security,Azure Security,Advanced,1,Yes
+EMP193,Security,SOC,Expert,11,Yes
+EMP193,Security,SIEM,Advanced,1,Yes
+EMP193,Security,IAM,Advanced,4,No
+EMP194,Frontend,Vue.js,Advanced,3,Yes
+EMP194,Frontend,React,Beginner,6,Yes
+EMP194,Frontend,HTML,Expert,4,Yes
+EMP194,Frontend,CSS,Beginner,4,Yes
+EMP194,Frontend,JavaScript,Expert,6,No
+EMP195,Frontend,React,Expert,2,No
+EMP195,Frontend,JavaScript,Beginner,5,No
+EMP195,Frontend,TypeScript,Beginner,3,No
+EMP195,Frontend,Vue.js,Intermediate,4,Yes
+EMP195,Frontend,Bootstrap,Expert,5,No
+EMP196,Frontend,JavaScript,Beginner,5,No
+EMP196,Frontend,React,Advanced,7,No
+EMP196,Frontend,Bootstrap,Beginner,10,No
+EMP196,Frontend,HTML,Beginner,7,Yes
+EMP196,Frontend,TypeScript,Expert,12,No
+EMP197,Security,Encryption,Expert,5,No
+EMP197,Security,OWASP,Expert,10,No
+EMP197,Security,Firewall,Advanced,1,No
+EMP197,Security,SIEM,Beginner,6,No
+EMP198,Cloud,Networking,Beginner,5,No
+EMP198,Cloud,S3,Intermediate,2,Yes
+EMP198,Cloud,Azure,Beginner,8,Yes
+EMP199,Backend,Python,Beginner,7,Yes
+EMP199,Backend,Django,Expert,9,No
+EMP199,Backend,Flask,Beginner,6,No
+EMP199,Backend,REST API,Advanced,9,No
+EMP199,Backend,Java,Intermediate,11,No
+EMP200,Security,OWASP,Intermediate,7,Yes
+EMP200,Security,Azure Security,Intermediate,10,No
+EMP200,Security,Pen Testing,Intermediate,8,Yes
+EMP201,Data Engineering,PySpark,Expert,12,No
+EMP201,Data Engineering,Azure Data Factory,Beginner,10,Yes
+EMP201,Data Engineering,SQL,Beginner,8,No
+EMP201,Data Engineering,Databricks,Intermediate,6,Yes
+EMP201,Data Engineering,Kafka,Beginner,10,No
+EMP201,Data Engineering,Airflow,Expert,2,No
+EMP202,QA,Cypress,Expert,9,No
+EMP202,QA,Manual Testing,Intermediate,10,No
+EMP202,QA,Playwright,Beginner,12,Yes
+EMP202,QA,JUnit,Intermediate,4,No
+EMP202,QA,TestNG,Expert,10,No
+EMP203,Data Engineering,PySpark,Intermediate,2,Yes
+EMP203,Data Engineering,SQL,Beginner,2,No
+EMP203,Data Engineering,Airflow,Beginner,8,No
+EMP203,Data Engineering,Kafka,Expert,3,No
+EMP203,Data Engineering,Delta Lake,Advanced,9,No
+EMP204,QA,TestNG,Beginner,1,No
+EMP204,QA,Cypress,Advanced,10,Yes
+EMP204,QA,API Testing,Beginner,1,No
+EMP204,QA,Postman,Beginner,9,No
+EMP205,Backend,Django,Beginner,7,No
+EMP205,Backend,REST API,Expert,4,Yes
+EMP205,Backend,Spring Boot,Expert,8,Yes
+EMP205,Backend,Microservices,Intermediate,1,No
+EMP205,Backend,FastAPI,Intermediate,4,Yes
+EMP205,Backend,Python,Intermediate,7,Yes
+EMP206,Backend,Flask,Beginner,6,Yes
+EMP206,Backend,Microservices,Advanced,11,Yes
+EMP206,Backend,Java,Beginner,11,No
+EMP206,Backend,Spring Boot,Expert,2,No
+EMP207,Security,SIEM,Advanced,6,Yes
+EMP207,Security,Firewall,Beginner,11,No
+EMP207,Security,Azure Security,Expert,8,Yes
+EMP208,Backend,Microservices,Advanced,6,Yes
+EMP208,Backend,REST API,Expert,6,No
+EMP208,Backend,Django,Beginner,12,Yes
+EMP208,Backend,Python,Advanced,12,No
+EMP209,Frontend,TypeScript,Advanced,10,Yes
+EMP209,Frontend,Vue.js,Advanced,4,No
+EMP209,Frontend,React,Beginner,9,No
+EMP210,Cloud,Azure Storage,Advanced,2,No
+EMP210,Cloud,Terraform,Advanced,5,Yes
+EMP210,Cloud,Networking,Advanced,12,No
+EMP210,Cloud,S3,Beginner,6,Yes
+EMP210,Cloud,GCP,Intermediate,12,Yes
+EMP211,Database,PostgreSQL,Expert,3,No
+EMP211,Database,MySQL,Advanced,9,No
+EMP211,Database,MongoDB,Beginner,8,No
+EMP211,Database,Cassandra,Beginner,12,Yes
+EMP212,Data Engineering,Databricks,Expert,10,No
+EMP212,Data Engineering,SQL,Advanced,11,Yes
+EMP212,Data Engineering,Azure Data Factory,Advanced,6,Yes
+EMP213,Support,Networking,Intermediate,4,Yes
+EMP213,Support,ITIL,Intermediate,1,No
+EMP213,Support,Troubleshooting,Expert,8,Yes
+EMP214,Security,OWASP,Beginner,6,Yes
+EMP214,Security,SOC,Expert,6,Yes
+EMP214,Security,Azure Security,Expert,9,No
+EMP214,Security,Encryption,Advanced,12,No
+EMP214,Security,Pen Testing,Advanced,2,No
+EMP215,AI/ML,Scikit-learn,Expert,1,No
+EMP215,AI/ML,Python,Intermediate,1,No
+EMP215,AI/ML,NumPy,Expert,5,No
+EMP215,AI/ML,Pandas,Intermediate,2,Yes
+EMP216,Backend,Python,Expert,7,No
+EMP216,Backend,Java,Advanced,5,Yes
+EMP216,Backend,Django,Expert,2,No
+EMP216,Backend,Flask,Beginner,6,Yes
+EMP217,DevOps,Terraform,Intermediate,5,Yes
+EMP217,DevOps,Jenkins,Expert,2,Yes
+EMP217,DevOps,Git,Expert,1,No
+EMP217,DevOps,Kubernetes,Intermediate,2,Yes
+EMP218,Data Engineering,PySpark,Advanced,1,Yes
+EMP218,Data Engineering,Azure Data Factory,Expert,4,Yes
+EMP218,Data Engineering,Airflow,Beginner,6,No
+EMP219,Backend,Microservices,Expert,2,Yes
+EMP219,Backend,Python,Expert,5,Yes
+EMP219,Backend,REST API,Expert,9,Yes
+EMP219,Backend,Spring Boot,Expert,3,No
+EMP220,DevOps,Kubernetes,Beginner,9,No
+EMP220,DevOps,Terraform,Expert,1,Yes
+EMP220,DevOps,Jenkins,Beginner,11,No
+EMP220,DevOps,Ansible,Expert,4,Yes
+EMP221,Frontend,JavaScript,Advanced,10,No
+EMP221,Frontend,React,Expert,2,Yes
+EMP221,Frontend,Angular,Intermediate,5,Yes
+EMP221,Frontend,CSS,Beginner,10,No
+EMP221,Frontend,Bootstrap,Intermediate,10,No
+EMP221,Frontend,TypeScript,Expert,3,No
+EMP222,Security,SIEM,Expert,3,No
+EMP222,Security,SOC,Intermediate,6,No
+EMP222,Security,Firewall,Intermediate,1,No
+EMP223,Security,Encryption,Intermediate,5,No
+EMP223,Security,IAM,Beginner,11,Yes
+EMP223,Security,SIEM,Beginner,6,No
+EMP223,Security,SOC,Beginner,7,No
+EMP223,Security,Pen Testing,Intermediate,12,Yes
+EMP223,Security,Firewall,Expert,8,No
+EMP224,Backend,FastAPI,Expert,12,Yes
+EMP224,Backend,Microservices,Intermediate,2,Yes
+EMP224,Backend,Java,Expert,2,Yes
+EMP225,Frontend,Angular,Intermediate,5,Yes
+EMP225,Frontend,TypeScript,Beginner,4,No
+EMP225,Frontend,JavaScript,Expert,2,Yes
+EMP226,Support,Troubleshooting,Intermediate,9,No
+EMP226,Support,ServiceNow,Expert,9,Yes
+EMP226,Support,ITIL,Expert,4,Yes
+EMP227,Backend,Python,Advanced,4,Yes
+EMP227,Backend,Microservices,Intermediate,12,No
+EMP227,Backend,Django,Advanced,5,Yes
+EMP227,Backend,Java,Advanced,12,Yes
+EMP227,Backend,FastAPI,Advanced,3,Yes
+EMP227,Backend,Flask,Advanced,11,Yes
+EMP228,Data Engineering,PySpark,Intermediate,4,Yes
+EMP228,Data Engineering,Snowflake,Beginner,4,Yes
+EMP228,Data Engineering,Kafka,Expert,5,Yes
+EMP229,AI/ML,PyTorch,Intermediate,10,Yes
+EMP229,AI/ML,NLP,Advanced,2,No
+EMP229,AI/ML,NumPy,Advanced,4,No
+EMP230,QA,Selenium,Expert,3,No
+EMP230,QA,Cypress,Beginner,11,Yes
+EMP230,QA,Playwright,Intermediate,5,Yes
+EMP230,QA,Manual Testing,Expert,5,Yes
+EMP231,Data Engineering,Kafka,Expert,3,Yes
+EMP231,Data Engineering,Snowflake,Intermediate,11,No
+EMP231,Data Engineering,Databricks,Intermediate,1,Yes
+EMP232,Frontend,Vue.js,Expert,8,Yes
+EMP232,Frontend,HTML,Advanced,9,No
+EMP232,Frontend,CSS,Intermediate,5,Yes
+EMP232,Frontend,TypeScript,Advanced,10,No
+EMP233,Database,MySQL,Expert,12,Yes
+EMP233,Database,Oracle,Advanced,3,No
+EMP233,Database,Cassandra,Advanced,10,Yes
+EMP233,Database,MongoDB,Expert,8,Yes
+EMP234,Frontend,CSS,Intermediate,7,No
+EMP234,Frontend,HTML,Advanced,11,No
+EMP234,Frontend,Bootstrap,Beginner,11,Yes
+EMP235,Cloud,S3,Intermediate,1,Yes
+EMP235,Cloud,Azure Storage,Intermediate,12,Yes
+EMP235,Cloud,AWS,Intermediate,10,Yes
+EMP235,Cloud,Terraform,Advanced,2,No
+EMP235,Cloud,GCP,Beginner,9,Yes
+EMP235,Cloud,EC2,Expert,2,No
+EMP236,QA,Postman,Beginner,10,No
+EMP236,QA,JUnit,Advanced,4,No
+EMP236,QA,Playwright,Advanced,9,Yes
+EMP236,QA,Selenium,Intermediate,8,No
+EMP236,QA,API Testing,Advanced,8,Yes
+EMP237,Security,Pen Testing,Advanced,10,No
+EMP237,Security,Encryption,Expert,10,No
+EMP237,Security,IAM,Intermediate,4,No
+EMP237,Security,Firewall,Advanced,5,No
+EMP238,Cloud,Networking,Expert,7,No
+EMP238,Cloud,S3,Intermediate,9,No
+EMP238,Cloud,EC2,Intermediate,3,Yes
+EMP238,Cloud,GCP,Beginner,6,Yes
+EMP238,Cloud,Terraform,Beginner,9,Yes
+EMP238,Cloud,AWS,Advanced,1,Yes
+EMP239,Security,Encryption,Advanced,1,Yes
+EMP239,Security,OWASP,Expert,6,No
+EMP239,Security,IAM,Expert,10,Yes
+EMP240,Support,ITIL,Intermediate,8,No
+EMP240,Support,Active Directory,Advanced,8,Yes
+EMP240,Support,Troubleshooting,Expert,7,No
+EMP241,DevOps,Jenkins,Intermediate,10,Yes
+EMP241,DevOps,Terraform,Beginner,10,Yes
+EMP241,DevOps,Azure DevOps,Beginner,3,No
+EMP241,DevOps,Ansible,Expert,12,Yes
+EMP242,DevOps,Linux,Advanced,4,No
+EMP242,DevOps,Azure DevOps,Expert,4,Yes
+EMP242,DevOps,Docker,Advanced,2,Yes
+EMP243,Backend,Java,Beginner,4,No
+EMP243,Backend,Python,Expert,6,Yes
+EMP243,Backend,Flask,Expert,11,Yes
+EMP244,Security,Firewall,Beginner,2,Yes
+EMP244,Security,Encryption,Beginner,9,Yes
+EMP244,Security,Azure Security,Intermediate,10,No
+EMP244,Security,IAM,Advanced,1,No
+EMP245,Cloud,Networking,Beginner,7,No
+EMP245,Cloud,EC2,Expert,6,Yes
+EMP245,Cloud,Azure,Advanced,7,Yes
+EMP245,Cloud,Terraform,Advanced,1,No
+EMP245,Cloud,S3,Advanced,9,Yes
+EMP245,Cloud,AWS,Expert,12,No
+EMP246,Cloud,Terraform,Expert,12,No
+EMP246,Cloud,GCP,Advanced,9,Yes
+EMP246,Cloud,Networking,Expert,8,No
+EMP247,Data Engineering,Airflow,Beginner,7,Yes
+EMP247,Data Engineering,PySpark,Intermediate,12,Yes
+EMP247,Data Engineering,Delta Lake,Intermediate,9,No
+EMP247,Data Engineering,Azure Data Factory,Advanced,12,Yes
+EMP247,Data Engineering,SQL,Expert,11,Yes
+EMP247,Data Engineering,Snowflake,Beginner,9,No
+EMP248,Frontend,JavaScript,Beginner,10,Yes
+EMP248,Frontend,React,Intermediate,4,Yes
+EMP248,Frontend,HTML,Intermediate,5,No
+EMP248,Frontend,Angular,Expert,7,No
+EMP248,Frontend,Bootstrap,Expert,8,No
+EMP248,Frontend,Vue.js,Intermediate,2,Yes
+EMP249,Support,ServiceNow,Intermediate,11,Yes
+EMP249,Support,Active Directory,Expert,10,No
+EMP249,Support,Windows,Expert,4,Yes
+EMP250,Data Engineering,Azure Data Factory,Advanced,9,No
+EMP250,Data Engineering,Airflow,Beginner,7,Yes
+EMP250,Data Engineering,Databricks,Expert,8,No
+EMP251,Database,Redis,Expert,6,No
+EMP251,Database,PostgreSQL,Beginner,5,No
+EMP251,Database,Oracle,Intermediate,2,Yes
+EMP251,Database,MongoDB,Advanced,1,Yes
+EMP251,Database,Cassandra,Beginner,5,No
+EMP252,Database,PostgreSQL,Expert,6,No
+EMP252,Database,Cassandra,Intermediate,8,No
+EMP252,Database,MongoDB,Beginner,10,No
+EMP252,Database,SQLite,Expert,7,Yes
+EMP253,Support,Troubleshooting,Advanced,11,No
+EMP253,Support,Active Directory,Beginner,6,No
+EMP253,Support,Networking,Intermediate,4,Yes
+EMP253,Support,ITIL,Advanced,5,No
+EMP254,DevOps,Docker,Advanced,4,Yes
+EMP254,DevOps,Jenkins,Expert,1,No
+EMP254,DevOps,Linux,Expert,3,No
+EMP254,DevOps,Git,Advanced,5,No
+EMP254,DevOps,Terraform,Intermediate,4,No
+EMP254,DevOps,Ansible,Expert,3,Yes
+EMP255,Frontend,HTML,Intermediate,6,No
+EMP255,Frontend,JavaScript,Advanced,4,Yes
+EMP255,Frontend,Vue.js,Intermediate,7,Yes
+EMP255,Frontend,TypeScript,Advanced,6,No
+EMP256,QA,JUnit,Expert,7,Yes
+EMP256,QA,Selenium,Expert,2,Yes
+EMP256,QA,Postman,Advanced,10,No
+EMP256,QA,Manual Testing,Expert,10,No
+EMP256,QA,Playwright,Beginner,8,Yes
+EMP256,QA,Cypress,Expert,1,No
+EMP257,Backend,Spring Boot,Intermediate,11,Yes
+EMP257,Backend,REST API,Expert,10,No
+EMP257,Backend,Microservices,Intermediate,5,No
+EMP258,AI/ML,Pandas,Advanced,11,No
+EMP258,AI/ML,TensorFlow,Beginner,10,Yes
+EMP258,AI/ML,Python,Intermediate,7,No
+EMP258,AI/ML,NLP,Intermediate,3,No
+EMP258,AI/ML,XGBoost,Advanced,12,Yes
+EMP259,AI/ML,PyTorch,Expert,2,Yes
+EMP259,AI/ML,Pandas,Expert,3,No
+EMP259,AI/ML,Python,Expert,9,No
+EMP260,AI/ML,Python,Beginner,11,No
+EMP260,AI/ML,Pandas,Intermediate,12,Yes
+EMP260,AI/ML,XGBoost,Expert,5,No
+EMP260,AI/ML,Scikit-learn,Intermediate,12,No
+EMP260,AI/ML,TensorFlow,Intermediate,8,Yes
+EMP261,QA,Manual Testing,Beginner,7,No
+EMP261,QA,Postman,Advanced,5,Yes
+EMP261,QA,TestNG,Advanced,9,No
+EMP261,QA,Selenium,Advanced,7,No
+EMP261,QA,API Testing,Beginner,6,Yes
+EMP261,QA,Cypress,Beginner,7,No
+EMP262,Database,PostgreSQL,Expert,2,No
+EMP262,Database,MySQL,Expert,11,Yes
+EMP262,Database,MongoDB,Expert,8,No
+EMP263,DevOps,Terraform,Intermediate,8,No
+EMP263,DevOps,Git,Expert,7,No
+EMP263,DevOps,Azure DevOps,Expert,1,No
+EMP264,QA,Playwright,Beginner,11,Yes
+EMP264,QA,API Testing,Expert,5,Yes
+EMP264,QA,Selenium,Expert,3,No
+EMP264,QA,TestNG,Intermediate,8,Yes
+EMP264,QA,JUnit,Expert,11,Yes
+EMP265,Security,SIEM,Intermediate,8,Yes
+EMP265,Security,Firewall,Intermediate,8,No
+EMP265,Security,Azure Security,Expert,3,Yes
+EMP266,AI/ML,Python,Advanced,12,No
+EMP266,AI/ML,Pandas,Expert,3,Yes
+EMP266,AI/ML,TensorFlow,Expert,12,No
+EMP267,Frontend,Angular,Beginner,3,No
+EMP267,Frontend,CSS,Intermediate,1,Yes
+EMP267,Frontend,TypeScript,Beginner,6,Yes
+EMP267,Frontend,HTML,Beginner,7,No
+EMP267,Frontend,React,Beginner,11,Yes
+EMP268,Data Engineering,Kafka,Expert,8,Yes
+EMP268,Data Engineering,Delta Lake,Intermediate,6,Yes
+EMP268,Data Engineering,SQL,Intermediate,7,Yes
+EMP269,Security,SIEM,Beginner,10,Yes
+EMP269,Security,OWASP,Expert,9,No
+EMP269,Security,Pen Testing,Beginner,8,No
+EMP269,Security,Firewall,Expert,3,No
+EMP269,Security,Encryption,Expert,3,No
+EMP270,Security,SOC,Intermediate,3,No
+EMP270,Security,Firewall,Intermediate,5,No
+EMP270,Security,OWASP,Advanced,9,Yes
+EMP270,Security,SIEM,Advanced,1,Yes
+EMP270,Security,Pen Testing,Beginner,11,No
+EMP270,Security,Azure Security,Expert,1,No
+EMP271,Security,OWASP,Beginner,4,Yes
+EMP271,Security,SIEM,Beginner,8,No
+EMP271,Security,Pen Testing,Beginner,5,Yes
+EMP271,Security,SOC,Intermediate,9,Yes
+EMP272,Support,Troubleshooting,Expert,5,No
+EMP272,Support,Windows,Intermediate,10,No
+EMP272,Support,Linux,Advanced,6,No
+EMP272,Support,Networking,Beginner,5,No
+EMP272,Support,Office365,Intermediate,3,Yes
+EMP272,Support,ITIL,Beginner,11,No
+EMP273,Database,Redis,Expert,6,No
+EMP273,Database,Oracle,Beginner,7,No
+EMP273,Database,Cassandra,Expert,9,Yes
+EMP273,Database,SQL Server,Expert,2,No
+EMP273,Database,PostgreSQL,Expert,1,No
+EMP273,Database,MySQL,Beginner,6,Yes
+EMP274,Support,ServiceNow,Expert,3,No
+EMP274,Support,Active Directory,Beginner,5,Yes
+EMP274,Support,ITIL,Beginner,4,No
+EMP275,Support,Windows,Expert,7,No
+EMP275,Support,Troubleshooting,Beginner,7,Yes
+EMP275,Support,ITIL,Beginner,2,Yes
+EMP275,Support,Linux,Expert,7,Yes
+EMP276,DevOps,Azure DevOps,Advanced,1,No
+EMP276,DevOps,Kubernetes,Beginner,2,No
+EMP276,DevOps,Jenkins,Advanced,1,No
+EMP276,DevOps,Ansible,Intermediate,7,No
+EMP277,QA,Postman,Intermediate,7,Yes
+EMP277,QA,Selenium,Expert,10,No
+EMP277,QA,Playwright,Expert,12,Yes
+EMP278,Security,SIEM,Expert,4,No
+EMP278,Security,IAM,Beginner,11,No
+EMP278,Security,Pen Testing,Intermediate,10,Yes
+EMP278,Security,Encryption,Expert,3,No
+EMP278,Security,OWASP,Intermediate,10,Yes
+EMP278,Security,SOC,Beginner,10,Yes
+EMP279,DevOps,Jenkins,Intermediate,5,No
+EMP279,DevOps,Azure DevOps,Intermediate,7,Yes
+EMP279,DevOps,Ansible,Expert,2,No
+EMP280,Backend,Microservices,Intermediate,8,Yes
+EMP280,Backend,Python,Expert,7,No
+EMP280,Backend,REST API,Advanced,3,No
+EMP280,Backend,Java,Beginner,4,No
+EMP280,Backend,Spring Boot,Beginner,1,No
+EMP281,Support,Active Directory,Expert,6,No
+EMP281,Support,ServiceNow,Beginner,6,Yes
+EMP281,Support,Networking,Intermediate,6,Yes
+EMP281,Support,Linux,Expert,7,Yes
+EMP281,Support,Office365,Advanced,12,Yes
+EMP281,Support,Troubleshooting,Advanced,8,No
+EMP282,Backend,REST API,Beginner,12,No
+EMP282,Backend,Microservices,Expert,9,No
+EMP282,Backend,Django,Advanced,4,Yes
+EMP283,Backend,Django,Advanced,4,Yes
+EMP283,Backend,REST API,Expert,8,No
+EMP283,Backend,Spring Boot,Advanced,2,No
+EMP283,Backend,Microservices,Advanced,2,No
+EMP283,Backend,Python,Intermediate,9,No
+EMP284,Cloud,S3,Intermediate,7,Yes
+EMP284,Cloud,EC2,Expert,3,Yes
+EMP284,Cloud,Azure,Beginner,2,Yes
+EMP284,Cloud,AWS,Advanced,3,Yes
+EMP284,Cloud,Azure Storage,Expert,5,No
+EMP285,Data Engineering,Azure Data Factory,Advanced,9,No
+EMP285,Data Engineering,Snowflake,Advanced,2,Yes
+EMP285,Data Engineering,PySpark,Advanced,5,No
+EMP285,Data Engineering,Airflow,Advanced,3,Yes
+EMP286,Frontend,Bootstrap,Advanced,2,Yes
+EMP286,Frontend,TypeScript,Beginner,12,No
+EMP286,Frontend,Angular,Intermediate,8,Yes
+EMP286,Frontend,React,Beginner,11,Yes
+EMP286,Frontend,HTML,Intermediate,8,Yes
+EMP286,Frontend,CSS,Intermediate,10,No
+EMP287,Database,MongoDB,Advanced,12,Yes
+EMP287,Database,SQL Server,Beginner,1,No
+EMP287,Database,MySQL,Intermediate,7,No
+EMP288,Support,ServiceNow,Intermediate,9,No
+EMP288,Support,ITIL,Intermediate,10,Yes
+EMP288,Support,Active Directory,Intermediate,4,No
+EMP288,Support,Office365,Intermediate,2,Yes
+EMP289,Backend,Python,Advanced,4,No
+EMP289,Backend,Django,Beginner,2,Yes
+EMP289,Backend,Flask,Expert,3,Yes
+EMP289,Backend,Java,Beginner,1,No
+EMP289,Backend,Microservices,Expert,9,No
+EMP290,Cloud,Azure Storage,Beginner,4,Yes
+EMP290,Cloud,Networking,Intermediate,6,No
+EMP290,Cloud,AWS,Expert,11,No
+EMP290,Cloud,S3,Intermediate,8,Yes
+EMP290,Cloud,GCP,Advanced,7,No
+EMP291,Data Engineering,Airflow,Beginner,5,Yes
+EMP291,Data Engineering,SQL,Advanced,1,Yes
+EMP291,Data Engineering,Azure Data Factory,Advanced,10,No
+EMP292,Backend,Django,Intermediate,11,Yes
+EMP292,Backend,FastAPI,Intermediate,1,Yes
+EMP292,Backend,Spring Boot,Beginner,6,No
+EMP292,Backend,Java,Intermediate,2,Yes
+EMP293,Backend,REST API,Advanced,1,No
+EMP293,Backend,Java,Advanced,10,Yes
+EMP293,Backend,Django,Beginner,10,Yes
+EMP294,Cloud,Azure,Advanced,8,No
+EMP294,Cloud,AWS,Intermediate,4,Yes
+EMP294,Cloud,Networking,Intermediate,12,No
+EMP294,Cloud,GCP,Advanced,2,Yes
+EMP294,Cloud,S3,Beginner,7,Yes
+EMP295,Security,SIEM,Beginner,10,Yes
+EMP295,Security,SOC,Beginner,4,No
+EMP295,Security,Azure Security,Beginner,11,No
+EMP295,Security,IAM,Advanced,12,No
+EMP295,Security,OWASP,Expert,2,Yes
+EMP296,Cloud,GCP,Beginner,7,Yes
+EMP296,Cloud,S3,Expert,8,Yes
+EMP296,Cloud,Azure Storage,Beginner,5,No
+EMP296,Cloud,EC2,Beginner,7,No
+EMP297,Support,Office365,Expert,8,No
+EMP297,Support,Networking,Beginner,5,Yes
+EMP297,Support,Troubleshooting,Advanced,10,Yes
+EMP297,Support,Windows,Intermediate,8,No
+EMP298,Security,Firewall,Beginner,10,Yes
+EMP298,Security,SOC,Advanced,4,Yes
+EMP298,Security,SIEM,Beginner,2,No
+EMP298,Security,Encryption,Advanced,12,No
+EMP298,Security,Azure Security,Expert,2,Yes
+EMP298,Security,OWASP,Expert,12,No
+EMP299,Security,IAM,Beginner,5,No
+EMP299,Security,Pen Testing,Intermediate,6,No
+EMP299,Security,Encryption,Beginner,12,No
+EMP299,Security,SOC,Beginner,8,Yes
+EMP299,Security,Firewall,Intermediate,6,Yes
+EMP300,DevOps,Docker,Advanced,6,Yes
+EMP300,DevOps,Linux,Intermediate,7,Yes
+EMP300,DevOps,Kubernetes,Expert,1,Yes
+EMP301,AI/ML,PyTorch,Beginner,12,Yes
+EMP301,AI/ML,NLP,Expert,6,No
+EMP301,AI/ML,TensorFlow,Beginner,7,No
+EMP301,AI/ML,Scikit-learn,Beginner,5,Yes
+EMP301,AI/ML,XGBoost,Advanced,11,Yes
+EMP301,AI/ML,NumPy,Advanced,12,Yes
+EMP302,DevOps,Jenkins,Beginner,7,No
+EMP302,DevOps,Linux,Intermediate,9,Yes
+EMP302,DevOps,Terraform,Beginner,2,Yes
+EMP302,DevOps,Azure DevOps,Expert,5,No
+EMP302,DevOps,Git,Expert,2,No
+EMP303,Support,Active Directory,Advanced,11,No
+EMP303,Support,ITIL,Beginner,2,Yes
+EMP303,Support,Windows,Beginner,3,No
+EMP303,Support,Office365,Intermediate,8,Yes
+EMP303,Support,ServiceNow,Advanced,3,No
+EMP304,DevOps,Docker,Expert,5,Yes
+EMP304,DevOps,Ansible,Expert,9,No
+EMP304,DevOps,Git,Expert,5,No
+EMP304,DevOps,Jenkins,Advanced,4,No
+EMP304,DevOps,Azure DevOps,Beginner,8,Yes
+EMP305,Database,MongoDB,Beginner,2,No
+EMP305,Database,Redis,Beginner,1,No
+EMP305,Database,SQLite,Expert,2,Yes
+EMP305,Database,PostgreSQL,Beginner,1,Yes
+EMP305,Database,SQL Server,Beginner,4,Yes
+EMP305,Database,Cassandra,Intermediate,1,Yes
+EMP306,Backend,Microservices,Advanced,2,No
+EMP306,Backend,REST API,Beginner,12,Yes
+EMP306,Backend,Django,Expert,10,No
+EMP306,Backend,Flask,Beginner,1,Yes
+EMP307,Security,Encryption,Expert,2,No
+EMP307,Security,Pen Testing,Beginner,2,Yes
+EMP307,Security,Firewall,Beginner,6,No
+EMP307,Security,IAM,Intermediate,4,Yes
+EMP307,Security,OWASP,Beginner,12,Yes
+EMP308,Data Engineering,Kafka,Beginner,6,Yes
+EMP308,Data Engineering,PySpark,Beginner,12,Yes
+EMP308,Data Engineering,Snowflake,Intermediate,3,No
+EMP308,Data Engineering,Delta Lake,Intermediate,12,Yes
+EMP308,Data Engineering,Databricks,Advanced,10,Yes
+EMP308,Data Engineering,Azure Data Factory,Expert,4,No
+EMP309,Backend,FastAPI,Expert,2,No
+EMP309,Backend,REST API,Expert,4,Yes
+EMP309,Backend,Flask,Advanced,10,Yes
+EMP310,Backend,Flask,Beginner,6,No
+EMP310,Backend,REST API,Expert,2,No
+EMP310,Backend,FastAPI,Expert,6,Yes
+EMP311,Security,IAM,Beginner,6,Yes
+EMP311,Security,Encryption,Expert,7,Yes
+EMP311,Security,OWASP,Expert,10,Yes
+EMP311,Security,Firewall,Intermediate,4,No
+EMP312,Cloud,AWS,Expert,5,No
+EMP312,Cloud,Azure,Advanced,7,No
+EMP312,Cloud,Terraform,Beginner,11,No
+EMP312,Cloud,Networking,Intermediate,8,Yes
+EMP312,Cloud,Azure Storage,Beginner,5,Yes
+EMP312,Cloud,GCP,Expert,10,No
+EMP313,Security,SIEM,Intermediate,7,Yes
+EMP313,Security,SOC,Advanced,1,No
+EMP313,Security,Pen Testing,Expert,5,No
+EMP313,Security,Azure Security,Advanced,4,Yes
+EMP313,Security,IAM,Advanced,3,No
+EMP314,AI/ML,TensorFlow,Expert,6,Yes
+EMP314,AI/ML,Scikit-learn,Intermediate,6,Yes
+EMP314,AI/ML,NumPy,Expert,8,No
+EMP314,AI/ML,Python,Advanced,10,Yes
+EMP314,AI/ML,Pandas,Beginner,4,No
+EMP314,AI/ML,XGBoost,Advanced,10,Yes
+EMP315,Security,SIEM,Expert,7,Yes
+EMP315,Security,OWASP,Advanced,1,Yes
+EMP315,Security,Azure Security,Advanced,8,No
+EMP315,Security,Pen Testing,Advanced,9,Yes
+EMP315,Security,IAM,Expert,8,Yes
+EMP316,AI/ML,Scikit-learn,Expert,10,No
+EMP316,AI/ML,PyTorch,Intermediate,2,No
+EMP316,AI/ML,Python,Advanced,6,Yes
+EMP316,AI/ML,XGBoost,Advanced,10,No
+EMP316,AI/ML,Pandas,Advanced,3,No
+EMP317,AI/ML,NumPy,Advanced,5,No
+EMP317,AI/ML,Scikit-learn,Expert,7,Yes
+EMP317,AI/ML,Pandas,Beginner,2,No
+EMP317,AI/ML,NLP,Expert,11,Yes
+EMP317,AI/ML,XGBoost,Intermediate,9,No
+EMP318,Data Engineering,Snowflake,Beginner,11,Yes
+EMP318,Data Engineering,Databricks,Expert,7,No
+EMP318,Data Engineering,Airflow,Beginner,4,Yes
+EMP318,Data Engineering,Azure Data Factory,Beginner,12,Yes
+EMP319,Database,Oracle,Advanced,5,Yes
+EMP319,Database,Redis,Beginner,10,No
+EMP319,Database,MySQL,Intermediate,10,No
+EMP319,Database,MongoDB,Expert,12,No
+EMP320,Data Engineering,SQL,Beginner,11,Yes
+EMP320,Data Engineering,Databricks,Intermediate,10,No
+EMP320,Data Engineering,PySpark,Expert,8,Yes
+EMP320,Data Engineering,Delta Lake,Intermediate,6,No
+EMP320,Data Engineering,Kafka,Advanced,3,No
+EMP321,Security,Encryption,Intermediate,11,No
+EMP321,Security,SIEM,Beginner,12,Yes
+EMP321,Security,Azure Security,Beginner,9,Yes
+EMP321,Security,OWASP,Advanced,4,No
+EMP322,Backend,Microservices,Beginner,6,No
+EMP322,Backend,Django,Intermediate,6,No
+EMP322,Backend,Spring Boot,Intermediate,5,Yes
+EMP322,Backend,Java,Expert,8,Yes
+EMP323,QA,Cypress,Expert,2,Yes
+EMP323,QA,TestNG,Beginner,7,No
+EMP323,QA,API Testing,Expert,7,Yes
+EMP323,QA,Manual Testing,Intermediate,11,No
+EMP323,QA,Selenium,Beginner,10,Yes
+EMP324,Frontend,JavaScript,Expert,1,No
+EMP324,Frontend,Angular,Advanced,10,No
+EMP324,Frontend,HTML,Expert,5,No
+EMP324,Frontend,CSS,Beginner,9,No
+EMP324,Frontend,Bootstrap,Intermediate,1,No
+EMP324,Frontend,React,Advanced,3,No
+EMP325,QA,Postman,Intermediate,4,Yes
+EMP325,QA,JUnit,Advanced,8,No
+EMP325,QA,Selenium,Expert,7,Yes
+EMP326,Cloud,Networking,Intermediate,12,No
+EMP326,Cloud,GCP,Expert,5,Yes
+EMP326,Cloud,AWS,Advanced,6,No
+EMP326,Cloud,Terraform,Expert,9,Yes
+EMP327,Support,Networking,Intermediate,7,No
+EMP327,Support,Troubleshooting,Intermediate,5,No
+EMP327,Support,Linux,Beginner,10,Yes
+EMP328,Backend,REST API,Advanced,10,No
+EMP328,Backend,Microservices,Intermediate,2,Yes
+EMP328,Backend,FastAPI,Advanced,11,No
+EMP328,Backend,Python,Expert,12,Yes
+EMP329,Security,OWASP,Advanced,11,Yes
+EMP329,Security,SOC,Intermediate,10,Yes
+EMP329,Security,SIEM,Beginner,3,Yes
+EMP329,Security,Firewall,Intermediate,9,No
+EMP329,Security,Azure Security,Expert,5,No
+EMP330,Support,Active Directory,Advanced,11,Yes
+EMP330,Support,Office365,Intermediate,9,No
+EMP330,Support,Troubleshooting,Beginner,10,No
+EMP330,Support,Networking,Advanced,2,No
+EMP330,Support,Windows,Expert,4,No
+EMP330,Support,ITIL,Expert,9,No
+EMP331,Cloud,Azure Storage,Beginner,5,No
+EMP331,Cloud,Terraform,Advanced,2,No
+EMP331,Cloud,EC2,Advanced,11,Yes
+EMP332,Cloud,Networking,Advanced,5,Yes
+EMP332,Cloud,GCP,Advanced,8,Yes
+EMP332,Cloud,EC2,Intermediate,1,Yes
+EMP333,DevOps,Git,Advanced,11,Yes
+EMP333,DevOps,Linux,Beginner,5,Yes
+EMP333,DevOps,Azure DevOps,Intermediate,2,No
+EMP333,DevOps,Docker,Expert,2,No
+EMP333,DevOps,Jenkins,Expert,9,Yes
+EMP334,Data Engineering,Kafka,Intermediate,12,Yes
+EMP334,Data Engineering,Delta Lake,Advanced,3,Yes
+EMP334,Data Engineering,PySpark,Expert,3,Yes
+EMP335,Cloud,Terraform,Expert,1,No
+EMP335,Cloud,AWS,Beginner,12,Yes
+EMP335,Cloud,GCP,Beginner,1,No
+EMP336,DevOps,Jenkins,Intermediate,11,Yes
+EMP336,DevOps,Linux,Expert,6,No
+EMP336,DevOps,Docker,Intermediate,10,No
+EMP337,Database,Redis,Expert,9,Yes
+EMP337,Database,Oracle,Expert,10,Yes
+EMP337,Database,MongoDB,Intermediate,2,No
+EMP337,Database,PostgreSQL,Beginner,5,Yes
+EMP338,QA,Playwright,Intermediate,4,Yes
+EMP338,QA,JUnit,Intermediate,10,No
+EMP338,QA,TestNG,Expert,9,No
+EMP338,QA,API Testing,Expert,5,No
+EMP338,QA,Postman,Expert,5,Yes
+EMP339,Backend,FastAPI,Beginner,11,Yes
+EMP339,Backend,Python,Expert,2,Yes
+EMP339,Backend,Django,Advanced,6,Yes
+EMP339,Backend,REST API,Intermediate,10,No
+EMP340,AI/ML,PyTorch,Beginner,5,No
+EMP340,AI/ML,NumPy,Expert,6,No
+EMP340,AI/ML,Pandas,Expert,12,No
+EMP341,DevOps,Linux,Intermediate,11,No
+EMP341,DevOps,Git,Intermediate,8,Yes
+EMP341,DevOps,Terraform,Advanced,8,No
+EMP341,DevOps,Jenkins,Beginner,11,Yes
+EMP341,DevOps,Ansible,Expert,7,Yes
+EMP341,DevOps,Kubernetes,Beginner,6,No
+EMP342,AI/ML,Python,Intermediate,8,Yes
+EMP342,AI/ML,NLP,Beginner,6,No
+EMP342,AI/ML,Scikit-learn,Advanced,10,No
+EMP343,QA,Selenium,Intermediate,3,Yes
+EMP343,QA,Postman,Intermediate,1,No
+EMP343,QA,API Testing,Intermediate,9,Yes
+EMP343,QA,Manual Testing,Beginner,8,No
+EMP343,QA,Cypress,Intermediate,10,No
+EMP343,QA,JUnit,Beginner,1,No
+EMP344,Security,Firewall,Expert,4,No
+EMP344,Security,IAM,Advanced,6,Yes
+EMP344,Security,OWASP,Intermediate,2,No
+EMP344,Security,Encryption,Intermediate,12,No
+EMP344,Security,SIEM,Beginner,11,No
+EMP345,Frontend,Vue.js,Beginner,5,No
+EMP345,Frontend,JavaScript,Beginner,5,Yes
+EMP345,Frontend,CSS,Intermediate,4,Yes
+EMP345,Frontend,TypeScript,Advanced,10,No
+EMP345,Frontend,React,Intermediate,9,Yes
+EMP346,DevOps,Git,Beginner,11,Yes
+EMP346,DevOps,Ansible,Expert,10,No
+EMP346,DevOps,Jenkins,Advanced,4,Yes
+EMP346,DevOps,Terraform,Advanced,12,No
+EMP347,Database,SQLite,Expert,10,No
+EMP347,Database,MySQL,Advanced,3,Yes
+EMP347,Database,MongoDB,Expert,2,Yes
+EMP348,Frontend,CSS,Beginner,7,No
+EMP348,Frontend,Vue.js,Advanced,10,No
+EMP348,Frontend,TypeScript,Advanced,2,Yes
+EMP348,Frontend,JavaScript,Intermediate,1,No
+EMP348,Frontend,React,Intermediate,7,No
+EMP349,AI/ML,XGBoost,Intermediate,9,Yes
+EMP349,AI/ML,Python,Beginner,6,Yes
+EMP349,AI/ML,TensorFlow,Expert,1,Yes
+EMP349,AI/ML,Pandas,Beginner,3,Yes
+EMP349,AI/ML,NLP,Expert,9,No
+EMP350,QA,TestNG,Intermediate,5,Yes
+EMP350,QA,Cypress,Beginner,1,Yes
+EMP350,QA,API Testing,Beginner,3,Yes
+EMP350,QA,Manual Testing,Beginner,3,No
+EMP350,QA,Playwright,Advanced,12,Yes
+EMP350,QA,JUnit,Intermediate,8,No
+EMP351,Data Engineering,SQL,Expert,10,No
+EMP351,Data Engineering,Kafka,Advanced,9,No
+EMP351,Data Engineering,Airflow,Expert,11,Yes
+EMP351,Data Engineering,Delta Lake,Expert,11,Yes
+EMP351,Data Engineering,PySpark,Intermediate,3,Yes
+EMP351,Data Engineering,Azure Data Factory,Advanced,2,No
+EMP352,Database,MySQL,Advanced,11,Yes
+EMP352,Database,PostgreSQL,Beginner,5,No
+EMP352,Database,Cassandra,Expert,6,No
+EMP353,Security,Pen Testing,Intermediate,4,No
+EMP353,Security,SOC,Intermediate,12,No
+EMP353,Security,SIEM,Beginner,7,Yes
+EMP353,Security,IAM,Advanced,4,No
+EMP354,Security,Azure Security,Expert,10,Yes
+EMP354,Security,Pen Testing,Beginner,3,Yes
+EMP354,Security,OWASP,Intermediate,5,No
+EMP355,Support,Troubleshooting,Intermediate,12,No
+EMP355,Support,Linux,Advanced,5,Yes
+EMP355,Support,Networking,Beginner,6,Yes
+EMP355,Support,Active Directory,Expert,7,Yes
+EMP355,Support,ServiceNow,Beginner,6,No
+EMP356,Frontend,React,Beginner,4,Yes
+EMP356,Frontend,TypeScript,Beginner,2,Yes
+EMP356,Frontend,Angular,Expert,11,Yes
+EMP356,Frontend,Bootstrap,Beginner,2,No
+EMP357,Database,MySQL,Beginner,1,No
+EMP357,Database,Redis,Advanced,4,Yes
+EMP357,Database,Cassandra,Expert,4,Yes
+EMP357,Database,PostgreSQL,Expert,1,Yes
+EMP357,Database,SQL Server,Advanced,11,No
+EMP358,Frontend,Bootstrap,Expert,11,Yes
+EMP358,Frontend,TypeScript,Advanced,11,No
+EMP358,Frontend,React,Intermediate,10,No
+EMP359,Support,Active Directory,Expert,9,Yes
+EMP359,Support,Office365,Advanced,8,No
+EMP359,Support,Networking,Beginner,11,No
+EMP359,Support,Windows,Intermediate,3,Yes
+EMP360,Data Engineering,PySpark,Intermediate,6,No
+EMP360,Data Engineering,Delta Lake,Expert,3,No
+EMP360,Data Engineering,Kafka,Expert,7,Yes
+EMP360,Data Engineering,Azure Data Factory,Beginner,7,Yes
+EMP361,Backend,Django,Beginner,9,No
+EMP361,Backend,Flask,Advanced,2,Yes
+EMP361,Backend,Java,Intermediate,5,Yes
+EMP361,Backend,Python,Beginner,9,Yes
+EMP361,Backend,FastAPI,Advanced,5,Yes
+EMP361,Backend,Spring Boot,Intermediate,2,No
+EMP362,Cloud,Azure,Intermediate,2,No
+EMP362,Cloud,Networking,Intermediate,7,Yes
+EMP362,Cloud,AWS,Beginner,9,Yes
+EMP362,Cloud,Azure Storage,Expert,6,Yes
+EMP362,Cloud,S3,Advanced,12,Yes
+EMP362,Cloud,EC2,Expert,5,No
+EMP363,AI/ML,NLP,Advanced,8,No
+EMP363,AI/ML,Scikit-learn,Advanced,7,Yes
+EMP363,AI/ML,TensorFlow,Beginner,4,No
+EMP363,AI/ML,NumPy,Advanced,5,Yes
+EMP364,Database,PostgreSQL,Beginner,3,No
+EMP364,Database,Redis,Advanced,8,Yes
+EMP364,Database,MySQL,Intermediate,10,Yes
+EMP364,Database,SQL Server,Intermediate,7,No
+EMP365,Security,Azure Security,Intermediate,11,Yes
+EMP365,Security,OWASP,Beginner,11,No
+EMP365,Security,Pen Testing,Beginner,11,No
+EMP366,Support,ITIL,Expert,11,Yes
+EMP366,Support,Troubleshooting,Beginner,3,No
+EMP366,Support,Active Directory,Beginner,8,Yes
+EMP366,Support,ServiceNow,Beginner,12,Yes
+EMP366,Support,Windows,Advanced,4,No
+EMP367,DevOps,Docker,Advanced,6,Yes
+EMP367,DevOps,Kubernetes,Advanced,4,Yes
+EMP367,DevOps,Ansible,Intermediate,2,No
+EMP367,DevOps,Jenkins,Beginner,9,Yes
+EMP368,AI/ML,Pandas,Expert,2,Yes
+EMP368,AI/ML,TensorFlow,Beginner,9,Yes
+EMP368,AI/ML,Scikit-learn,Advanced,11,Yes
+EMP369,AI/ML,PyTorch,Advanced,6,Yes
+EMP369,AI/ML,NLP,Intermediate,8,No
+EMP369,AI/ML,TensorFlow,Advanced,8,Yes
+EMP369,AI/ML,Scikit-learn,Intermediate,7,Yes
+EMP369,AI/ML,Python,Intermediate,10,Yes
+EMP369,AI/ML,XGBoost,Beginner,8,No
+EMP370,DevOps,Git,Advanced,6,No
+EMP370,DevOps,Kubernetes,Intermediate,3,No
+EMP370,DevOps,Linux,Beginner,7,No
+EMP370,DevOps,Jenkins,Advanced,11,No
+EMP370,DevOps,Docker,Expert,9,No
+EMP370,DevOps,Terraform,Intermediate,2,Yes
+EMP371,AI/ML,Scikit-learn,Expert,2,Yes
+EMP371,AI/ML,Python,Intermediate,4,No
+EMP371,AI/ML,NumPy,Beginner,8,Yes
+EMP371,AI/ML,TensorFlow,Beginner,9,No
+EMP371,AI/ML,PyTorch,Expert,9,Yes
+EMP371,AI/ML,NLP,Intermediate,5,Yes
+EMP372,Security,SIEM,Advanced,1,No
+EMP372,Security,SOC,Advanced,9,Yes
+EMP372,Security,IAM,Intermediate,2,Yes
+EMP372,Security,Azure Security,Expert,3,No
+EMP372,Security,Firewall,Beginner,3,No
+EMP372,Security,Pen Testing,Beginner,7,No
+EMP373,Backend,Flask,Beginner,12,No
+EMP373,Backend,Django,Beginner,5,Yes
+EMP373,Backend,FastAPI,Advanced,8,Yes
+EMP373,Backend,Spring Boot,Expert,2,No
+EMP373,Backend,REST API,Intermediate,1,Yes
+EMP374,Cloud,Terraform,Advanced,5,No
+EMP374,Cloud,Azure Storage,Expert,5,No
+EMP374,Cloud,Networking,Expert,1,Yes
+EMP374,Cloud,S3,Expert,3,Yes
+EMP374,Cloud,EC2,Expert,4,No
+EMP375,QA,Selenium,Expert,2,Yes
+EMP375,QA,TestNG,Beginner,8,No
+EMP375,QA,Playwright,Beginner,10,No
+EMP375,QA,API Testing,Advanced,5,Yes
+EMP375,QA,Manual Testing,Intermediate,7,Yes
+EMP376,Backend,Java,Intermediate,12,Yes
+EMP376,Backend,Microservices,Expert,2,No
+EMP376,Backend,Spring Boot,Intermediate,10,No
+EMP377,QA,Playwright,Expert,6,Yes
+EMP377,QA,Postman,Beginner,11,No
+EMP377,QA,API Testing,Beginner,6,No
+EMP377,QA,JUnit,Expert,12,No
+EMP377,QA,Selenium,Intermediate,9,Yes
+EMP377,QA,Cypress,Intermediate,4,Yes
+EMP378,AI/ML,Pandas,Advanced,5,Yes
+EMP378,AI/ML,NLP,Advanced,1,No
+EMP378,AI/ML,PyTorch,Expert,5,No
+EMP378,AI/ML,XGBoost,Advanced,9,Yes
+EMP379,Cloud,AWS,Beginner,2,No
+EMP379,Cloud,Azure,Beginner,3,No
+EMP379,Cloud,Networking,Advanced,10,Yes
+EMP380,Database,MongoDB,Advanced,10,No
+EMP380,Database,MySQL,Expert,5,Yes
+EMP380,Database,PostgreSQL,Intermediate,12,No
+EMP380,Database,Oracle,Intermediate,6,No
+EMP380,Database,Redis,Intermediate,7,Yes
+EMP380,Database,SQLite,Beginner,3,Yes
+EMP381,DevOps,Terraform,Expert,1,Yes
+EMP381,DevOps,Linux,Advanced,12,Yes
+EMP381,DevOps,Kubernetes,Intermediate,12,Yes
+EMP382,Frontend,Vue.js,Advanced,6,Yes
+EMP382,Frontend,Bootstrap,Intermediate,9,No
+EMP382,Frontend,Angular,Beginner,10,Yes
+EMP382,Frontend,React,Expert,6,Yes
+EMP382,Frontend,CSS,Advanced,8,No
+EMP383,DevOps,Git,Advanced,7,No
+EMP383,DevOps,Ansible,Expert,10,Yes
+EMP383,DevOps,Linux,Intermediate,11,No
+EMP383,DevOps,Terraform,Advanced,11,Yes
+EMP383,DevOps,Jenkins,Beginner,8,Yes
+EMP384,DevOps,Git,Beginner,11,No
+EMP384,DevOps,Kubernetes,Advanced,4,No
+EMP384,DevOps,Linux,Expert,1,No
+EMP384,DevOps,Terraform,Expert,7,No
+EMP384,DevOps,Ansible,Intermediate,7,No
+EMP385,Frontend,Bootstrap,Beginner,10,No
+EMP385,Frontend,HTML,Expert,8,Yes
+EMP385,Frontend,Vue.js,Expert,12,Yes
+EMP386,Backend,Flask,Expert,9,Yes
+EMP386,Backend,Java,Intermediate,1,No
+EMP386,Backend,Python,Advanced,2,No
+EMP386,Backend,Django,Beginner,12,No
+EMP386,Backend,Spring Boot,Advanced,8,No
+EMP387,QA,Postman,Intermediate,7,No
+EMP387,QA,Cypress,Advanced,12,Yes
+EMP387,QA,JUnit,Intermediate,12,Yes
+EMP388,Backend,Java,Advanced,2,No
+EMP388,Backend,Microservices,Expert,4,No
+EMP388,Backend,Flask,Intermediate,7,No
+EMP389,Security,Azure Security,Advanced,5,Yes
+EMP389,Security,Pen Testing,Advanced,4,No
+EMP389,Security,IAM,Intermediate,8,Yes
+EMP389,Security,Encryption,Expert,11,No
+EMP389,Security,OWASP,Intermediate,12,Yes
+EMP389,Security,Firewall,Beginner,2,No
+EMP390,DevOps,Ansible,Expert,6,Yes
+EMP390,DevOps,Terraform,Expert,11,No
+EMP390,DevOps,Jenkins,Expert,3,Yes
+EMP391,QA,Selenium,Intermediate,3,No
+EMP391,QA,Manual Testing,Advanced,1,Yes
+EMP391,QA,TestNG,Expert,10,No
+EMP391,QA,Cypress,Expert,9,Yes
+EMP391,QA,API Testing,Expert,5,No
+EMP391,QA,JUnit,Beginner,2,Yes
+EMP392,AI/ML,Python,Intermediate,7,Yes
+EMP392,AI/ML,TensorFlow,Advanced,2,No
+EMP392,AI/ML,Pandas,Advanced,4,Yes
+EMP393,Backend,Python,Advanced,4,Yes
+EMP393,Backend,Spring Boot,Intermediate,12,No
+EMP393,Backend,Flask,Beginner,5,Yes
+EMP393,Backend,Django,Beginner,8,No
+EMP394,Security,SIEM,Beginner,1,Yes
+EMP394,Security,IAM,Advanced,10,No
+EMP394,Security,Firewall,Advanced,11,No
+EMP394,Security,Pen Testing,Advanced,12,Yes
+EMP394,Security,SOC,Intermediate,9,Yes
+EMP395,Database,SQL Server,Expert,7,No
+EMP395,Database,Redis,Expert,7,Yes
+EMP395,Database,SQLite,Expert,4,Yes
+EMP396,Database,MongoDB,Expert,5,Yes
+EMP396,Database,SQLite,Beginner,12,Yes
+EMP396,Database,Oracle,Intermediate,5,No
+EMP397,Data Engineering,SQL,Advanced,10,No
+EMP397,Data Engineering,Delta Lake,Intermediate,12,No
+EMP397,Data Engineering,Snowflake,Advanced,12,Yes
+EMP397,Data Engineering,Kafka,Intermediate,5,Yes
+EMP397,Data Engineering,PySpark,Beginner,4,Yes
+EMP398,Frontend,Vue.js,Advanced,8,Yes
+EMP398,Frontend,TypeScript,Expert,6,No
+EMP398,Frontend,Angular,Beginner,6,No
+EMP399,DevOps,Jenkins,Advanced,7,No
+EMP399,DevOps,Kubernetes,Beginner,10,No
+EMP399,DevOps,Linux,Intermediate,5,No
+EMP399,DevOps,Azure DevOps,Beginner,2,Yes
+EMP399,DevOps,Git,Beginner,9,No
+EMP399,DevOps,Ansible,Advanced,5,No
+EMP400,Frontend,JavaScript,Advanced,8,Yes
+EMP400,Frontend,CSS,Beginner,8,Yes
+EMP400,Frontend,React,Intermediate,10,Yes
+EMP400,Frontend,Bootstrap,Beginner,12,Yes
+EMP401,Cloud,Azure,Expert,12,No
+EMP401,Cloud,Terraform,Expert,10,No
+EMP401,Cloud,AWS,Expert,2,Yes
+EMP402,DevOps,Kubernetes,Expert,3,Yes
+EMP402,DevOps,Linux,Expert,1,Yes
+EMP402,DevOps,Git,Expert,6,No
+EMP403,Cloud,EC2,Advanced,11,No
+EMP403,Cloud,Azure Storage,Expert,10,No
+EMP403,Cloud,S3,Expert,2,No
+EMP403,Cloud,GCP,Beginner,2,No
+EMP404,Security,IAM,Expert,7,No
+EMP404,Security,Pen Testing,Intermediate,5,No
+EMP404,Security,Azure Security,Expert,9,No
+EMP404,Security,SIEM,Intermediate,2,Yes
+EMP404,Security,Encryption,Advanced,11,No
+EMP405,Data Engineering,Snowflake,Beginner,11,No
+EMP405,Data Engineering,SQL,Expert,9,Yes
+EMP405,Data Engineering,Databricks,Expert,10,Yes
+EMP406,DevOps,Git,Expert,6,No
+EMP406,DevOps,Linux,Beginner,7,Yes
+EMP406,DevOps,Docker,Intermediate,6,No
+EMP406,DevOps,Ansible,Intermediate,4,Yes
+EMP406,DevOps,Kubernetes,Advanced,7,Yes
+EMP406,DevOps,Jenkins,Advanced,5,No
+EMP407,Frontend,Angular,Advanced,4,No
+EMP407,Frontend,JavaScript,Beginner,7,Yes
+EMP407,Frontend,Vue.js,Beginner,2,No
+EMP407,Frontend,React,Advanced,2,No
+EMP407,Frontend,Bootstrap,Expert,2,No
+EMP408,Frontend,Angular,Advanced,3,No
+EMP408,Frontend,Bootstrap,Expert,1,Yes
+EMP408,Frontend,JavaScript,Beginner,2,No
+EMP408,Frontend,Vue.js,Expert,2,Yes
+EMP409,Data Engineering,Databricks,Beginner,10,No
+EMP409,Data Engineering,SQL,Advanced,11,Yes
+EMP409,Data Engineering,Airflow,Beginner,6,No
+EMP409,Data Engineering,Azure Data Factory,Advanced,10,No
+EMP409,Data Engineering,Snowflake,Intermediate,3,No
+EMP409,Data Engineering,Kafka,Expert,4,Yes
+EMP410,Backend,Microservices,Intermediate,10,Yes
+EMP410,Backend,REST API,Advanced,1,Yes
+EMP410,Backend,Spring Boot,Expert,4,Yes
+EMP410,Backend,Flask,Beginner,3,No
+EMP411,Data Engineering,Snowflake,Advanced,4,Yes
+EMP411,Data Engineering,Kafka,Advanced,7,No
+EMP411,Data Engineering,Airflow,Advanced,5,Yes
+EMP411,Data Engineering,Databricks,Beginner,4,No
+EMP412,Frontend,Vue.js,Beginner,4,No
+EMP412,Frontend,React,Expert,2,Yes
+EMP412,Frontend,HTML,Intermediate,10,No
+EMP412,Frontend,CSS,Beginner,4,Yes
+EMP412,Frontend,TypeScript,Expert,1,Yes
+EMP413,Cloud,AWS,Beginner,6,No
+EMP413,Cloud,Networking,Expert,8,Yes
+EMP413,Cloud,EC2,Beginner,1,Yes
+EMP413,Cloud,GCP,Expert,8,No
+EMP413,Cloud,S3,Intermediate,10,Yes
+EMP413,Cloud,Azure Storage,Intermediate,9,Yes
+EMP414,Security,Firewall,Expert,7,No
+EMP414,Security,SIEM,Beginner,10,No
+EMP414,Security,Encryption,Beginner,1,No
+EMP414,Security,SOC,Intermediate,2,Yes
+EMP415,Backend,REST API,Beginner,9,No
+EMP415,Backend,Spring Boot,Beginner,8,No
+EMP415,Backend,FastAPI,Beginner,11,No
+EMP415,Backend,Microservices,Expert,8,No
+EMP415,Backend,Java,Intermediate,4,No
+EMP416,QA,Playwright,Expert,7,No
+EMP416,QA,Manual Testing,Expert,12,Yes
+EMP416,QA,Cypress,Expert,6,Yes
+EMP417,DevOps,Ansible,Beginner,10,No
+EMP417,DevOps,Kubernetes,Advanced,6,No
+EMP417,DevOps,Terraform,Intermediate,10,Yes
+EMP417,DevOps,Linux,Intermediate,9,Yes
+EMP417,DevOps,Docker,Expert,1,No
+EMP417,DevOps,Git,Advanced,11,No
+EMP418,Security,IAM,Beginner,9,No
+EMP418,Security,OWASP,Intermediate,4,Yes
+EMP418,Security,SOC,Expert,4,Yes
+EMP419,Database,PostgreSQL,Expert,10,Yes
+EMP419,Database,Oracle,Advanced,7,No
+EMP419,Database,Cassandra,Beginner,5,Yes
+EMP419,Database,Redis,Expert,8,Yes
+EMP419,Database,SQL Server,Expert,1,No
+EMP419,Database,SQLite,Beginner,1,Yes
+EMP420,Support,Troubleshooting,Advanced,4,No
+EMP420,Support,Linux,Intermediate,9,Yes
+EMP420,Support,Office365,Beginner,9,No
+EMP420,Support,ServiceNow,Expert,9,No
+EMP420,Support,ITIL,Intermediate,7,No
+EMP421,QA,Postman,Intermediate,5,No
+EMP421,QA,Playwright,Expert,6,No
+EMP421,QA,JUnit,Beginner,7,No
+EMP421,QA,Cypress,Beginner,7,No
+EMP421,QA,API Testing,Beginner,9,Yes
+EMP422,AI/ML,NLP,Intermediate,5,Yes
+EMP422,AI/ML,XGBoost,Beginner,5,Yes
+EMP422,AI/ML,Python,Intermediate,8,Yes
+EMP422,AI/ML,PyTorch,Beginner,3,Yes
+EMP422,AI/ML,Scikit-learn,Advanced,6,Yes
+EMP423,Security,IAM,Intermediate,11,Yes
+EMP423,Security,SOC,Intermediate,7,No
+EMP423,Security,SIEM,Expert,4,Yes
+EMP424,Backend,Microservices,Intermediate,5,No
+EMP424,Backend,Flask,Intermediate,3,No
+EMP424,Backend,Django,Expert,2,Yes
+EMP424,Backend,Spring Boot,Intermediate,11,No
+EMP424,Backend,Java,Advanced,7,No
+EMP425,DevOps,Git,Advanced,10,Yes
+EMP425,DevOps,Azure DevOps,Intermediate,5,No
+EMP425,DevOps,Terraform,Expert,7,No
+EMP425,DevOps,Ansible,Beginner,5,Yes
+EMP426,Support,Linux,Advanced,12,No
+EMP426,Support,Active Directory,Advanced,9,Yes
+EMP426,Support,Windows,Advanced,3,Yes
+EMP427,Database,MongoDB,Beginner,3,No
+EMP427,Database,Cassandra,Beginner,9,No
+EMP427,Database,MySQL,Advanced,3,No
+EMP427,Database,PostgreSQL,Advanced,3,Yes
+EMP427,Database,SQL Server,Intermediate,1,Yes
+EMP427,Database,Redis,Beginner,11,Yes
+EMP428,Database,Cassandra,Advanced,4,Yes
+EMP428,Database,MySQL,Advanced,10,Yes
+EMP428,Database,SQL Server,Advanced,3,Yes
+EMP428,Database,Redis,Intermediate,12,Yes
+EMP429,DevOps,Jenkins,Advanced,3,No
+EMP429,DevOps,Docker,Intermediate,9,Yes
+EMP429,DevOps,Azure DevOps,Beginner,3,Yes
+EMP429,DevOps,Ansible,Advanced,5,Yes
+EMP430,Backend,REST API,Expert,2,No
+EMP430,Backend,Django,Advanced,9,No
+EMP430,Backend,FastAPI,Beginner,12,No
+EMP430,Backend,Flask,Advanced,11,Yes
+EMP430,Backend,Microservices,Intermediate,7,Yes
+EMP431,AI/ML,Pandas,Advanced,9,Yes
+EMP431,AI/ML,NumPy,Expert,8,No
+EMP431,AI/ML,TensorFlow,Advanced,3,No
+EMP431,AI/ML,PyTorch,Intermediate,3,Yes
+EMP431,AI/ML,XGBoost,Advanced,4,Yes
+EMP432,DevOps,Terraform,Intermediate,12,Yes
+EMP432,DevOps,Azure DevOps,Advanced,5,Yes
+EMP432,DevOps,Linux,Advanced,5,Yes
+EMP432,DevOps,Jenkins,Expert,6,No
+EMP432,DevOps,Docker,Advanced,3,Yes
+EMP432,DevOps,Git,Advanced,9,No
+EMP433,QA,Selenium,Advanced,6,Yes
+EMP433,QA,TestNG,Expert,7,No
+EMP433,QA,Cypress,Beginner,1,No
+EMP433,QA,Playwright,Advanced,11,No
+EMP433,QA,API Testing,Intermediate,5,Yes
+EMP434,Frontend,Bootstrap,Intermediate,4,No
+EMP434,Frontend,JavaScript,Advanced,11,No
+EMP434,Frontend,Angular,Intermediate,6,Yes
+EMP435,AI/ML,NumPy,Advanced,6,No
+EMP435,AI/ML,Python,Expert,9,Yes
+EMP435,AI/ML,XGBoost,Expert,4,Yes
+EMP436,Frontend,Vue.js,Advanced,8,Yes
+EMP436,Frontend,TypeScript,Advanced,3,No
+EMP436,Frontend,JavaScript,Expert,12,No
+EMP436,Frontend,Bootstrap,Expert,10,Yes
+EMP437,AI/ML,TensorFlow,Intermediate,9,Yes
+EMP437,AI/ML,Pandas,Beginner,7,No
+EMP437,AI/ML,XGBoost,Intermediate,9,No
+EMP437,AI/ML,NumPy,Intermediate,3,No
+EMP438,Database,Oracle,Intermediate,6,Yes
+EMP438,Database,SQLite,Beginner,12,No
+EMP438,Database,SQL Server,Advanced,3,No
+EMP438,Database,MySQL,Advanced,4,Yes
+EMP438,Database,MongoDB,Expert,3,No
+EMP438,Database,Redis,Intermediate,3,Yes
+EMP439,DevOps,Azure DevOps,Advanced,3,No
+EMP439,DevOps,Kubernetes,Intermediate,1,No
+EMP439,DevOps,Jenkins,Intermediate,2,No
+EMP440,Backend,Java,Expert,9,No
+EMP440,Backend,Django,Beginner,4,Yes
+EMP440,Backend,FastAPI,Beginner,11,Yes
+EMP440,Backend,Microservices,Intermediate,7,No
+EMP440,Backend,Flask,Advanced,11,No
+EMP440,Backend,Spring Boot,Expert,11,No
+EMP441,Cloud,EC2,Expert,9,Yes
+EMP441,Cloud,Azure,Beginner,11,Yes
+EMP441,Cloud,GCP,Advanced,11,No
+EMP441,Cloud,Terraform,Beginner,4,Yes
+EMP442,Cloud,S3,Advanced,3,No
+EMP442,Cloud,Terraform,Intermediate,12,Yes
+EMP442,Cloud,Networking,Intermediate,4,Yes
+EMP442,Cloud,AWS,Advanced,7,No
+EMP442,Cloud,GCP,Advanced,2,No
+EMP443,QA,Selenium,Expert,8,Yes
+EMP443,QA,Postman,Advanced,4,Yes
+EMP443,QA,API Testing,Advanced,9,Yes
+EMP444,Security,Encryption,Expert,11,Yes
+EMP444,Security,Firewall,Beginner,1,No
+EMP444,Security,Azure Security,Expert,4,Yes
+EMP444,Security,SOC,Intermediate,9,Yes
+EMP444,Security,OWASP,Beginner,4,Yes
+EMP445,QA,Selenium,Intermediate,9,Yes
+EMP445,QA,Postman,Advanced,2,Yes
+EMP445,QA,TestNG,Expert,3,Yes
+EMP446,Security,OWASP,Advanced,1,Yes
+EMP446,Security,Azure Security,Expert,9,Yes
+EMP446,Security,Firewall,Beginner,5,Yes
+EMP446,Security,Pen Testing,Expert,11,No
+EMP446,Security,SIEM,Expert,9,No
+EMP446,Security,Encryption,Advanced,8,No
+EMP447,Frontend,Angular,Expert,8,No
+EMP447,Frontend,CSS,Intermediate,3,Yes
+EMP447,Frontend,React,Advanced,10,Yes
+EMP447,Frontend,JavaScript,Beginner,10,Yes
+EMP448,Backend,REST API,Advanced,7,No
+EMP448,Backend,Java,Advanced,10,No
+EMP448,Backend,Flask,Intermediate,2,No
+EMP449,Cloud,Terraform,Advanced,3,Yes
+EMP449,Cloud,Azure Storage,Intermediate,3,No
+EMP449,Cloud,Azure,Advanced,3,Yes
+EMP449,Cloud,Networking,Expert,1,Yes
+EMP449,Cloud,EC2,Beginner,11,Yes
+EMP450,AI/ML,NumPy,Intermediate,2,No
+EMP450,AI/ML,PyTorch,Expert,10,No
+EMP450,AI/ML,NLP,Advanced,4,Yes
+EMP450,AI/ML,Scikit-learn,Advanced,4,No
+EMP451,Support,Networking,Beginner,2,Yes
+EMP451,Support,ITIL,Expert,6,No
+EMP451,Support,Active Directory,Intermediate,3,No
+EMP451,Support,Troubleshooting,Beginner,12,No
+EMP451,Support,Windows,Expert,5,No
+EMP451,Support,Linux,Intermediate,5,Yes
+EMP452,Backend,Spring Boot,Intermediate,4,No
+EMP452,Backend,REST API,Intermediate,4,No
+EMP452,Backend,Flask,Intermediate,3,Yes
+EMP453,Security,Encryption,Intermediate,6,Yes
+EMP453,Security,SOC,Beginner,1,No
+EMP453,Security,Azure Security,Beginner,5,Yes
+EMP453,Security,SIEM,Intermediate,7,No
+EMP454,DevOps,Linux,Advanced,2,Yes
+EMP454,DevOps,Jenkins,Intermediate,10,Yes
+EMP454,DevOps,Terraform,Advanced,11,No
+EMP454,DevOps,Azure DevOps,Intermediate,7,No
+EMP455,Support,Active Directory,Expert,9,No
+EMP455,Support,ServiceNow,Beginner,11,No
+EMP455,Support,Networking,Expert,2,Yes
+EMP456,Security,Firewall,Expert,5,Yes
+EMP456,Security,Azure Security,Intermediate,6,No
+EMP456,Security,SOC,Intermediate,4,No
+EMP457,QA,Manual Testing,Advanced,5,No
+EMP457,QA,Cypress,Beginner,8,Yes
+EMP457,QA,API Testing,Beginner,10,Yes
+EMP458,Security,SOC,Beginner,11,No
+EMP458,Security,Pen Testing,Advanced,1,No
+EMP458,Security,OWASP,Expert,2,Yes
+EMP458,Security,Azure Security,Intermediate,4,No
+EMP458,Security,Encryption,Expert,3,No
+EMP459,Data Engineering,Snowflake,Beginner,11,No
+EMP459,Data Engineering,PySpark,Expert,6,No
+EMP459,Data Engineering,Delta Lake,Beginner,4,Yes
+EMP459,Data Engineering,Databricks,Expert,4,Yes
+EMP459,Data Engineering,Airflow,Expert,6,No
+EMP460,Data Engineering,Databricks,Intermediate,7,Yes
+EMP460,Data Engineering,Airflow,Advanced,7,Yes
+EMP460,Data Engineering,Snowflake,Intermediate,7,Yes
+EMP461,AI/ML,XGBoost,Expert,10,Yes
+EMP461,AI/ML,TensorFlow,Intermediate,8,Yes
+EMP461,AI/ML,NumPy,Expert,8,Yes
+EMP461,AI/ML,Python,Expert,8,Yes
+EMP461,AI/ML,NLP,Expert,4,Yes
+EMP461,AI/ML,PyTorch,Expert,7,Yes
+EMP462,Support,Networking,Advanced,4,No
+EMP462,Support,ITIL,Expert,1,Yes
+EMP462,Support,Troubleshooting,Expert,11,No
+EMP462,Support,Linux,Intermediate,6,Yes
+EMP462,Support,Office365,Expert,7,No
+EMP463,AI/ML,Python,Intermediate,9,No
+EMP463,AI/ML,Pandas,Advanced,11,Yes
+EMP463,AI/ML,Scikit-learn,Intermediate,11,Yes
+EMP463,AI/ML,NLP,Intermediate,12,Yes
+EMP463,AI/ML,NumPy,Expert,9,No
+EMP463,AI/ML,TensorFlow,Advanced,2,No
+EMP464,Database,PostgreSQL,Expert,12,Yes
+EMP464,Database,MySQL,Expert,1,No
+EMP464,Database,SQL Server,Beginner,8,No
+EMP465,Cloud,AWS,Intermediate,3,Yes
+EMP465,Cloud,GCP,Expert,5,No
+EMP465,Cloud,Terraform,Intermediate,10,No
+EMP466,Cloud,GCP,Intermediate,10,Yes
+EMP466,Cloud,EC2,Advanced,11,Yes
+EMP466,Cloud,Networking,Beginner,6,No
+EMP466,Cloud,S3,Advanced,10,Yes
+EMP466,Cloud,AWS,Advanced,6,Yes
+EMP467,Cloud,Terraform,Intermediate,5,No
+EMP467,Cloud,Azure,Advanced,1,No
+EMP467,Cloud,Networking,Expert,8,No
+EMP467,Cloud,GCP,Expert,12,No
+EMP467,Cloud,Azure Storage,Intermediate,1,No
+EMP467,Cloud,S3,Advanced,10,Yes
+EMP468,AI/ML,Scikit-learn,Advanced,4,No
+EMP468,AI/ML,NumPy,Advanced,6,No
+EMP468,AI/ML,XGBoost,Intermediate,5,Yes
+EMP469,DevOps,Kubernetes,Advanced,4,No
+EMP469,DevOps,Linux,Expert,5,Yes
+EMP469,DevOps,Docker,Beginner,11,No
+EMP470,Frontend,React,Advanced,11,Yes
+EMP470,Frontend,Bootstrap,Intermediate,6,No
+EMP470,Frontend,JavaScript,Beginner,6,Yes
+EMP470,Frontend,TypeScript,Advanced,7,Yes
+EMP471,Support,Office365,Intermediate,8,Yes
+EMP471,Support,Linux,Advanced,4,Yes
+EMP471,Support,ServiceNow,Advanced,7,No
+EMP471,Support,Active Directory,Beginner,6,Yes
+EMP471,Support,Windows,Intermediate,5,Yes
+EMP471,Support,Networking,Expert,9,No
+EMP472,Backend,FastAPI,Expert,4,Yes
+EMP472,Backend,Flask,Beginner,10,No
+EMP472,Backend,Python,Beginner,9,No
+EMP472,Backend,Spring Boot,Intermediate,4,Yes
+EMP472,Backend,Java,Intermediate,4,Yes
+EMP473,AI/ML,TensorFlow,Expert,6,Yes
+EMP473,AI/ML,Scikit-learn,Beginner,8,Yes
+EMP473,AI/ML,PyTorch,Intermediate,3,Yes
+EMP474,Cloud,Terraform,Expert,9,Yes
+EMP474,Cloud,GCP,Beginner,3,Yes
+EMP474,Cloud,Azure Storage,Advanced,10,No
+EMP474,Cloud,S3,Intermediate,2,Yes
+EMP474,Cloud,Networking,Beginner,7,No
+EMP474,Cloud,Azure,Beginner,6,Yes
+EMP475,DevOps,Terraform,Advanced,8,Yes
+EMP475,DevOps,Ansible,Intermediate,6,Yes
+EMP475,DevOps,Linux,Advanced,11,Yes
+EMP475,DevOps,Docker,Advanced,4,Yes
+EMP475,DevOps,Git,Advanced,9,No
+EMP475,DevOps,Kubernetes,Advanced,9,Yes
+EMP476,DevOps,Azure DevOps,Advanced,12,No
+EMP476,DevOps,Linux,Intermediate,6,No
+EMP476,DevOps,Terraform,Expert,9,Yes
+EMP476,DevOps,Jenkins,Intermediate,3,Yes
+EMP477,QA,API Testing,Expert,7,Yes
+EMP477,QA,Manual Testing,Advanced,4,Yes
+EMP477,QA,Playwright,Expert,9,No
+EMP477,QA,TestNG,Intermediate,11,Yes
+EMP478,Backend,Flask,Expert,12,No
+EMP478,Backend,Python,Expert,9,No
+EMP478,Backend,Java,Advanced,9,No
+EMP479,QA,JUnit,Intermediate,3,No
+EMP479,QA,Manual Testing,Expert,6,Yes
+EMP479,QA,Postman,Beginner,1,No
+EMP480,AI/ML,Scikit-learn,Beginner,1,Yes
+EMP480,AI/ML,PyTorch,Advanced,4,Yes
+EMP480,AI/ML,NumPy,Beginner,2,No
+EMP480,AI/ML,NLP,Beginner,10,Yes
+EMP480,AI/ML,Python,Beginner,11,No
+EMP481,QA,Manual Testing,Expert,8,Yes
+EMP481,QA,API Testing,Expert,12,No
+EMP481,QA,Postman,Expert,2,Yes
+EMP481,QA,Selenium,Advanced,1,Yes
+EMP481,QA,TestNG,Beginner,2,No
+EMP481,QA,Cypress,Advanced,2,No
+EMP482,DevOps,Terraform,Intermediate,12,No
+EMP482,DevOps,Azure DevOps,Advanced,5,No
+EMP482,DevOps,Kubernetes,Expert,10,No
+EMP482,DevOps,Ansible,Intermediate,8,Yes
+EMP483,Data Engineering,Airflow,Beginner,4,Yes
+EMP483,Data Engineering,SQL,Intermediate,2,Yes
+EMP483,Data Engineering,Azure Data Factory,Beginner,3,No
+EMP483,Data Engineering,Kafka,Expert,12,Yes
+EMP483,Data Engineering,Delta Lake,Intermediate,11,Yes
+EMP483,Data Engineering,Databricks,Expert,7,No
+EMP484,Security,OWASP,Beginner,6,No
+EMP484,Security,SOC,Intermediate,5,Yes
+EMP484,Security,Azure Security,Intermediate,5,No
+EMP485,Database,Cassandra,Beginner,12,Yes
+EMP485,Database,MySQL,Beginner,5,Yes
+EMP485,Database,PostgreSQL,Expert,10,No
+EMP486,Backend,FastAPI,Intermediate,3,Yes
+EMP486,Backend,Spring Boot,Expert,7,Yes
+EMP486,Backend,Python,Beginner,2,Yes
+EMP486,Backend,Flask,Expert,12,No
+EMP486,Backend,Microservices,Intermediate,7,No
+EMP487,Support,Windows,Intermediate,11,No
+EMP487,Support,ITIL,Intermediate,10,No
+EMP487,Support,Linux,Advanced,10,Yes
+EMP488,Data Engineering,Kafka,Intermediate,7,No
+EMP488,Data Engineering,Databricks,Expert,11,No
+EMP488,Data Engineering,SQL,Beginner,7,No
+EMP488,Data Engineering,Azure Data Factory,Beginner,11,Yes
+EMP488,Data Engineering,Delta Lake,Advanced,9,Yes
+EMP489,DevOps,Git,Intermediate,7,Yes
+EMP489,DevOps,Kubernetes,Beginner,10,No
+EMP489,DevOps,Ansible,Intermediate,4,Yes
+EMP489,DevOps,Azure DevOps,Intermediate,5,Yes
+EMP489,DevOps,Docker,Expert,12,No
+EMP489,DevOps,Jenkins,Beginner,6,No
+EMP490,AI/ML,Python,Advanced,1,No
+EMP490,AI/ML,Scikit-learn,Intermediate,9,Yes
+EMP490,AI/ML,PyTorch,Intermediate,1,No
+EMP490,AI/ML,TensorFlow,Advanced,10,No
+EMP491,Backend,Spring Boot,Beginner,5,Yes
+EMP491,Backend,REST API,Advanced,1,No
+EMP491,Backend,Java,Intermediate,7,Yes
+EMP492,DevOps,Kubernetes,Advanced,11,Yes
+EMP492,DevOps,Terraform,Intermediate,12,No
+EMP492,DevOps,Azure DevOps,Intermediate,1,No
+EMP492,DevOps,Git,Beginner,10,Yes
+EMP493,Support,Active Directory,Advanced,2,Yes
+EMP493,Support,Troubleshooting,Expert,9,Yes
+EMP493,Support,Office365,Advanced,9,No
+EMP493,Support,Windows,Expert,5,No
+EMP494,Support,Troubleshooting,Expert,12,Yes
+EMP494,Support,Active Directory,Beginner,2,No
+EMP494,Support,Networking,Intermediate,7,No
+EMP494,Support,Office365,Expert,2,Yes
+EMP495,DevOps,Ansible,Expert,4,No
+EMP495,DevOps,Kubernetes,Expert,3,No
+EMP495,DevOps,Docker,Intermediate,8,Yes
+EMP496,Support,ITIL,Intermediate,5,Yes
+EMP496,Support,Troubleshooting,Expert,1,Yes
+EMP496,Support,Office365,Expert,10,No
+EMP497,QA,API Testing,Advanced,9,Yes
+EMP497,QA,JUnit,Intermediate,4,Yes
+EMP497,QA,Postman,Advanced,3,No
+EMP497,QA,Playwright,Beginner,8,No
+EMP497,QA,TestNG,Expert,8,No
+EMP497,QA,Manual Testing,Beginner,2,Yes
+EMP498,Database,Oracle,Intermediate,7,No
+EMP498,Database,Redis,Beginner,3,No
+EMP498,Database,SQL Server,Advanced,10,Yes
+EMP498,Database,SQLite,Beginner,4,No
+EMP498,Database,MongoDB,Expert,2,No
+EMP499,Database,MongoDB,Expert,6,Yes
+EMP499,Database,Redis,Beginner,2,Yes
+EMP499,Database,Oracle,Advanced,1,No
+EMP499,Database,Cassandra,Intermediate,8,Yes
+EMP499,Database,SQLite,Beginner,12,Yes
+EMP500,Backend,Spring Boot,Beginner,4,Yes
+EMP500,Backend,FastAPI,Beginner,4,No
+EMP500,Backend,Python,Intermediate,3,Yes
