@@ -1,0 +1,14 @@
+import sys
+d = list(map(int, sys.stdin.read().split()))
+if len(d) < 2 or d[0] <= 0 or d[1] <= 0:
+    print("Invalid Input"); exit()
+M, N, ans = d[0], d[1], float('inf')
+g = [d[2+i*N : 2+i*N+N] for i in range(M)]
+for l in range(N):
+    s = [0] * M
+    for r in range(l, N):
+        s = [s[i] + g[i][r] for i in range(M)]
+        mn = curr = s[0]
+        for x in s[1:]: mn = min(x, mn + x); curr = min(curr, mn)
+        ans = min(ans, curr)
+print(ans)
