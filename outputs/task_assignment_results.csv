@@ -1,0 +1,21 @@
+Task_ID,Task_Title,Priority,Employee_ID,Employee_Name,Department,Assignment_Score
+TASK-10002,Documentation: Implement UI,Medium,EMP499,Jonathan Mammen,Backend,0.75
+TASK-10005,Testing: Improve UI,Medium,EMP499,Jonathan Mammen,Backend,0.742
+TASK-10011,Data Engineering: Update ETL,Medium,EMP499,Jonathan Mammen,Backend,0.72
+TASK-10013,Feature: Update Database,Medium,EMP349,Darsh Bhardwaj,AI/ML,0.714
+TASK-10014,Enhancement: Implement Security,Low,EMP499,Jonathan Mammen,Backend,0.682
+TASK-10017,Documentation: Investigate UI,Medium,EMP286,Udarsh Parsa,AI/ML,0.679
+TASK-10020,Feature: Implement API,High,EMP356,Sarthak Bobal,Backend,0.678
+TASK-10023,Feature: Improve Authentication,Medium,EMP349,Darsh Bhardwaj,AI/ML,0.677
+TASK-10033,Bug: Implement Notifications,Medium,EMP350,Mohini Tella,AI/ML,0.675
+TASK-10034,Documentation: Update Reporting,Medium,EMP286,Udarsh Parsa,AI/ML,0.664
+TASK-10044,Security: Update Notifications,High,EMP349,Darsh Bhardwaj,AI/ML,0.662
+TASK-10048,Documentation: Improve Reporting,Low,EMP042,Chandresh Palla,Backend,0.653
+TASK-10064,DevOps: Implement Payments,Medium,EMP356,Sarthak Bobal,Backend,0.648
+TASK-10066,Security: Fix ETL,High,EMP349,Darsh Bhardwaj,AI/ML,0.639
+TASK-10069,Enhancement: Improve UI,Medium,EMP469,Faras Mukhopadhyay,Backend,0.638
+TASK-10073,Documentation: Fix Payments,High,EMP039,Vrishti Gandhi,AI/ML,0.637
+TASK-10076,Support: Fix API,High,EMP233,Kabir Bora,Support,0.641
+TASK-10082,Data Engineering: Implement API,Medium,EMP291,Kala Aggarwal,AI/ML,0.626
+TASK-10091,Bug: Investigate Reporting,Low,EMP349,Darsh Bhardwaj,AI/ML,0.624
+TASK-10094,UI/UX: Implement Dashboard,High,EMP291,Kala Aggarwal,AI/ML,0.619
